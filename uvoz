@@ -27,18 +27,29 @@ def shrani_niz_v_datoteko(niz,mapa,ime):
         datoteka.write(niz)
     return None
 
-def uvoz():
+def uvoz(url,mapa,ime):
     #Združi funkcji "url_v_niz" in "shrani_niz_v_datoteko"
     niz = url_v_niz(url)
-    shrani_niz_v_datoteko(niz,'Podatki','Tabela')
+    shrani_niz_v_datoteko(niz,mapa,ime)
     return None
 
-#Obdelava datoteke in uvoz dodatnih datotek
+
 
 def preberi_datoteko_kot_niz(mapa, ime):
     #Vrne vsebino "mapa"/"ime" kot niz
     pot = os.path.join(mapa, ime)
     with open(pot, 'r',encoding='utf-8') as datoteka:
         return datoteka.read()
+
+
+def tabele(niz):
+    #Vrne tabele, iz katerih jemljemo podatke
+    rx = re.compile(r'<table class="wikitable sortable">,(.*?),</table>')
+    tabele = re.findall(rx,niz)
+    tabele = tabele[0:9]
+    return tabele
+
+re_
+
 
 
