@@ -1,4 +1,44 @@
 import requests
+import re
+import os
+import csv
 
+url = 'https://en.wikipedia.org/wiki/List_of_best-selling_books'
+#url glavne spletne strani
+
+def url_v_niz(url):
+    #Funkcija za argument dobi url "url" spletne strani in vrne njeno html kodo kot niz.
+    try:
+        r = requests.get(url)
+    except requests.exceptions.ConnectionError:
+        print("Neuspela povezava na stran" + url)
+        return
+    # continue with the non-exceptional code
+    if r.status_code == requests.codes.ok:
+        return r.text
+    print("Neuspel prenos strani" + url)
+    return
+
+def shrani_niz_v_datoteko(niz,mapa,ime):
+    #"niz" zapiše v datoteko "ime", ki se  nahaja v mapi "mapa". Če je potrbno mapo ustvari. Če je "mapa" prazen niz, uporabi datoteko v kateri se nahajamo.
+    os.makedirs(mapa,exist_ok = True)
+    pot = os.path.join(mapa,ime)
+    with open (pot,'w',encoding='utf-8') as datoteka:
+        datoteka.write(niz)
+    return None
+
+def uvoz():
+    #Združi funkcji "url_v_niz" in "shrani_niz_v_datoteko"
+    niz = url_v_niz(url)
+    shrani_niz_v_datoteko(niz,'Podatki','Tabela')
+    return None
+
+#Obdelava datoteke in uvoz dodatnih datotek
+
+def preberi_datoteko_kot_niz(mapa, ime):
+    #Vrne vsebino "mapa"/"ime" kot niz
+    pot = os.path.join(mapa, ime)
+    with open(pot, 'r',encoding='utf-8') as datoteka:
+        return datoteka.read()
 
 
