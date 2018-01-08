@@ -42,14 +42,51 @@ def preberi_datoteko_kot_niz(mapa, ime):
         return datoteka.read()
 
 
-def tabele(niz):
+def tabele(mapa, ime):
     #Vrne tabele, iz katerih jemljemo podatke
-    rx = re.compile(r'<table class="wikitable sortable">,(.*?),</table>')
-    tabele = re.findall(rx,niz)
-    tabele = tabele[0:9]
+    rx_tabele = re.compile('<table class="wikitable sortable">'
+                          '(.*?)'
+                          '</table>',
+                           re.DOTALL)
+    niz = preberi_datoteko_kot_niz(mapa, ime)
+    tabele = re.findall(rx_tabele,niz)
+    tabele = tabele[0:5]
     return tabele
 
-re_
+tb = tabele('Podatki','Tabela')
+
+def vrednosti_tabel(tabele):
+
+    rx_vrednosti = re.compile('<td><i>.*?'
+                             '(<a href="(?P<link_knjige>.*?)".*?)?'
+                             '>'
+                             '(?P<naslov>.*?)'
+                             '<.*<td>'
+                             '(<a href="(?P<link_avtorja>.*?)".*?)?'
+                             '>'
+                             '(?P<avtor>.*?)'
+                             '<.*?'
+                             '<td>'
+                             '(?P<jezik>.*?)'
+                             '</td>.*?'
+                             '<td>'
+                             '(?P<leto_izdaje>.*?)'
+                             '</td>.*?'
+                             '<td>'
+                             '(?P<naklada>.*?)'
+                             '<.*?'
+                             '<td>',
+                             re.DOTALL)
+
+    ujemanje = rx_vrednosti.search(tabele[0])
+    if ujemanje:
+        knjiga = ujemanje.groupdict()
+        knjiga['leto_izdaje'] = re.sub()
+        return knjiga
+    else:
+        print('ne znam prebrati')
+
+
 
 
 
