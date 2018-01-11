@@ -3,7 +3,7 @@ import re
 import os
 import csv
 
-url = 'https://en.wikipedia.org/wiki/List_of_best-selling_books'
+url = 'https://www.goodreads.com/list/show/1.Best_Books_Ever?page={}'
 #url glavne spletne strani
 
 def url_v_niz(url):
@@ -28,9 +28,11 @@ def shrani_niz_v_datoteko(niz,mapa,ime):
     return None
 
 def uvoz(url,mapa,ime):
-    #Združi funkcji "url_v_niz" in "shrani_niz_v_datoteko"
-    niz = url_v_niz(url)
-    shrani_niz_v_datoteko(niz,mapa,ime)
+    #Združi funkcji "url_v_niz" in "shrani_nize_v_datoteko" ter shrani 100 strani knjig
+    for i in range(1,100):
+        niz = url_v_niz(url.format(i))
+        shrani_niz_v_datoteko(niz,mapa,ime.format(i))
+
     return None
 
 
@@ -42,51 +44,156 @@ def preberi_datoteko_kot_niz(mapa, ime):
         return datoteka.read()
 
 
-def tabele(mapa, ime):
-    #Vrne tabele, iz katerih jemljemo podatke
-    rx_tabele = re.compile('<table class="wikitable sortable">'
-                          '(.*?)'
-                          '</table>',
-                           re.DOTALL)
-    niz = preberi_datoteko_kot_niz(mapa, ime)
-    tabele = re.findall(rx_tabele,niz)
-    tabele = tabele[0:5]
-    return tabele
 
-tb = tabele('Podatki','Tabela')
+def linki_knjige(mapa,ime):
+    #Vrne seznam urljev spletnih strani posameznih knjig
+    rx_link_knjige = re.compile('<a class="bookTitle" itemprop="url" href="'
+                                '(.*?)'
+                                '">',
+                                re.DOTALL)
+    seznam_seznamov = []
+    for i in range(1,100):
+        niz = preberi_datoteko_kot_niz(mapa, ime.format(i))
+        seznam_url = re.findall(rx_link_knjige,niz)
+        seznam_seznamov.append(seznam_url)
+    seznam_linkov_knjige = []
+    for l in seznam_seznamov:
+        for item in l:
+           seznam_linkov_knjige.append(item)
+    return seznam_linkov_knjige
 
-def vrednosti_tabel(tabele):
+def linki_avtorji(mapa,ime):
+    #Vrne seznam urljev spletnih strani posameznih knjig
+    rx_link_avtor = re.compile('<a class="authorName" itemprop="url" href="'
+                                '(.*?)'
+                                '">',
+                                re.DOTALL)
+    seznam_seznamov = []
+    for i in range(1,100):
+        niz = preberi_datoteko_kot_niz(mapa, ime.format(i))
+        seznam_url = re.findall(rx_link_avtor,niz)
+        seznam_seznamov.append(seznam_url)
+    seznam_linkov_avtor = []
+    for l in seznam_seznamov:
+        for item in l:
+           seznam_linkov_avtor.append(item)
+    return seznam_linkov_avtor
 
-    rx_vrednosti = re.compile('<td><i>.*?'
-                             '(<a href="(?P<link_knjige>.*?)".*?)?'
-                             '>'
-                             '(?P<naslov>.*?)'
-                             '<.*<td>'
-                             '(<a href="(?P<link_avtorja>.*?)".*?)?'
-                             '>'
-                             '(?P<avtor>.*?)'
-                             '<.*?'
-                             '<td>'
-                             '(?P<jezik>.*?)'
-                             '</td>.*?'
-                             '<td>'
-                             '(?P<leto_izdaje>.*?)'
-                             '</td>.*?'
-                             '<td>'
-                             '(?P<naklada>.*?)'
-                             '<.*?'
-                             '<td>',
-                             re.DOTALL)
 
-    ujemanje = rx_vrednosti.search(tabele[0])
+def poberi_strani_knjig():
+    seznam = linki_knjige('Podatki','Stran_{}')
+    url = 'https://www.goodreads.com{}'
+    for i in range(1472,len(seznam)):
+        niz = url_v_niz(url.format(seznam[i]))
+        shrani_niz_v_datoteko(niz,'Podatki/Knjige','Knjiga_{}'.format(i+1))
+    return None
+
+def poberi_strani_avtorjev():
+    seznam = linki_avtorji('Podatki','Stran_{}')
+    for i in range(0,3228):
+        niz = url_v_niz(seznam[i])
+        shrani_niz_v_datoteko(niz,'Podatki/Avtorji','Avtor_{}'.format(i+1))
+    return None
+
+
+
+
+rx_podatki_knjige = re.compile('googletag\.pubads\(\)\.setTargeting\("shelf", '
+                               '(?P<zvrst>.*?)\).*?'
+                               '<span class="item" style="display:none"><span class="fn">'
+                               '(?P<naslov>.*?)'
+                               '( \(.*?(?P<del_serije>\d{1}).*?\))?'
+                               '<'
+                               '.*?ratingValue">'
+                               '(?P<ocena>.*?)'
+                               '<.*?'
+                               'ratingCount" content="'
+                               '(?P<st_ocen>.*?)'
+                               '".*?'
+                               'numberOfPages">'
+                               '(?P<st_strani>\d*?)'
+                               ' .*?<.*?'
+                               '<div class="row">'
+                               '.*?(?P<leto_izdaje>\d{4}).*?'
+                               '(<nobr class="greyText">.*?)?'
+                               '((?P<leto_izida>\d{4}).*?)?'
+                               '<.*?'
+                               '<div class="infoBoxRowItem" itemprop=\'inLanguage\'>'
+                               '(?P<jezik_izdaje>.*?)'
+                               '<.*?',
+                               re.DOTALL)
+
+def podatki_knjige(mapa,ime):
+    niz = preberi_datoteko_kot_niz(mapa,ime)
+    ujemanje = rx_podatki_knjige.search(niz)
     if ujemanje:
         knjiga = ujemanje.groupdict()
-        knjiga['leto_izdaje'] = re.sub()
         return knjiga
     else:
-        print('ne znam prebrati')
+        print('error')
 
 
+rx_podatki_avtor = re.compile(r'<h1 class="authorName">.*?>'
+                              r'(?P<avtor>.*?)<'
+                              r'.*?<div class="dataTitle">Born</div>.*?\s*'
+                              r'(?P<poreklo_avtorja>.*?)\s\s\s  '
+                              '.*?(?P<leto_rojstva>\d{4}).*?<',
+                              re.DOTALL)
+
+def podatki_avtorja(mapa,ime):
+    niz = preberi_datoteko_kot_niz(mapa,ime)
+    ujemanje = rx_podatki_avtor.search(niz)
+    if ujemanje:
+        avtor = ujemanje.groupdict()
+        return avtor
+    else:
+        print('error')
+
+def uredi_podatke(mapa_knjiga,mapa_avtor,ime_knjige,ime_avtorja):
+    knjiga = podatki_knjige(mapa_knjiga,ime_knjige)
+    if knjiga['leto_izida'] == None:
+        knjiga['leto_izida'] = knjiga['leto_izdaje']
+    knjiga['ocena'] = float(knjiga['ocena'])
+    knjiga['st_strani'] = int(knjiga['st_strani'])
+    knjiga['st_ocen'] = int(knjiga['st_ocen'])
+    knjiga['leto_izdaje'] = int(knjiga['leto_izdaje'])
+    knjiga['leto_izida'] = int(knjiga['leto_izida'])
+    if knjiga['del_serije'] != None:
+        knjiga['del_serije'] = int(knjiga['del_serije'])
+    knjiga["zvrst"] = knjiga["zvrst"].strip('[]')
+    knjiga["zvrst"] = knjiga["zvrst"].split(',')
+    zvrsti = []
+    for zvrst in knjiga["zvrst"]:
+        zvrst= zvrst.strip('"')
+        zvrsti.append(zvrst)
+    knjiga["zvrst"] = zvrsti
+    avtor = podatki_avtorja(mapa_avtor,ime_avtorja)
+    avtor['poreklo_avtorja'] = avtor['poreklo_avtorja'].split(',')
+    avtor['poreklo_avtorja'] = avtor['poreklo_avtorja'][-1][1:]
+    if avtor['leto_rojstva'][0] != '0':
+        avtor['leto_rojstva'] = int(avtor['leto_rojstva'])
+    else:
+        avtor['leto_rojstva'] = - int(avtor['leto_rojstva'])
+    knjiga.update(avtor)
+    return knjiga
+
+
+def vrni_slovarje():
+    seznam_slovarjev  = []
+    for i in range(1,3229):
+        slovar = uredi_podatke('Podatki/Knjige','Podatki/Avtorji','Knjiga_{}'.format(i),'Avtor_{}'.format(i))
+        slovar["uvrstitev"] = i
+        seznam_slovarjev.append(slovar)
+        print(i)
+    return seznam_slovarjev
+
+
+def zapisi_csv(podatki, polja, ime_datoteke):
+    with open(ime_datoteke, 'w') as datoteka:
+        pisalec = csv.DictWriter(datoteka, polja, extrasaction='ignore')
+        pisalec.writeheader()
+        for podatek in podatki:
+            pisalec.writerow(podatek)
 
 
 
