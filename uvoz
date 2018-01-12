@@ -102,7 +102,7 @@ rx_podatki_knjige = re.compile('googletag\.pubads\(\)\.setTargeting\("shelf", '
                                '(?P<zvrst>.*?)\).*?'
                                '<span class="item" style="display:none"><span class="fn">'
                                '(?P<naslov>.*?)'
-                               '( \(.*?(?P<del_serije>\d{1}).*?\))?'
+                               '( \(.*?(?P<del_serije>.*?)\))?'
                                '<'
                                '.*?ratingValue">'
                                '(?P<ocena>.*?)'
@@ -110,6 +110,7 @@ rx_podatki_knjige = re.compile('googletag\.pubads\(\)\.setTargeting\("shelf", '
                                'ratingCount" content="'
                                '(?P<st_ocen>.*?)'
                                '".*?'
+                               'class="uitext darkGreyText">.*?'
                                'numberOfPages">'
                                '(?P<st_strani>\d*?)'
                                ' .*?<.*?'
@@ -118,8 +119,7 @@ rx_podatki_knjige = re.compile('googletag\.pubads\(\)\.setTargeting\("shelf", '
                                '(<nobr class="greyText">.*?)?'
                                '((?P<leto_izida>\d{4}).*?)?'
                                '<.*?'
-                               '<div class="infoBoxRowItem" itemprop=\'inLanguage\'>'
-                               '(?P<jezik_izdaje>.*?)'
+                               '(<div class="infoBoxRowItem" itemprop=\'inLanguage\'>(?P<jezik_izdaje>.*?))?'
                                '<.*?',
                                re.DOTALL)
 
@@ -135,9 +135,8 @@ def podatki_knjige(mapa,ime):
 
 rx_podatki_avtor = re.compile(r'<h1 class="authorName">.*?>'
                               r'(?P<avtor>.*?)<'
-                              r'.*?<div class="dataTitle">Born</div>.*?\s*'
-                              r'(?P<poreklo_avtorja>.*?)\s\s\s  '
-                              '.*?(?P<leto_rojstva>\d{4}).*?<',
+                              r'(.*?<div class="dataTitle">Born</div>.*?\s*(?P<poreklo_avtorja>.*?)\s\s\s)?'
+                              r'(.*?birthDate.*?(?P<leto_rojstva>\d{4}).*?<)?',
                               re.DOTALL)
 
 def podatki_avtorja(mapa,ime):
@@ -159,7 +158,13 @@ def uredi_podatke(mapa_knjiga,mapa_avtor,ime_knjige,ime_avtorja):
     knjiga['leto_izdaje'] = int(knjiga['leto_izdaje'])
     knjiga['leto_izida'] = int(knjiga['leto_izida'])
     if knjiga['del_serije'] != None:
-        knjiga['del_serije'] = int(knjiga['del_serije'])
+        if knjiga['del_serije'].strip(' ') != knjiga['del_serije']:
+            ujemanje = re.search(r'(.*)(,|\s)(\#(\d+))?',knjiga['del_serije'])
+            if ujemanje.group(4) == None:
+                knjiga['del_serije'] = ujemanje.group(4)
+            else:
+                knjiga['del_serije'] = int(ujemanje.group(4))
+            knjiga['serija'] = re.sub(r',','',ujemanje.group(1))
     knjiga["zvrst"] = knjiga["zvrst"].strip('[]')
     knjiga["zvrst"] = knjiga["zvrst"].split(',')
     zvrsti = []
@@ -168,12 +173,14 @@ def uredi_podatke(mapa_knjiga,mapa_avtor,ime_knjige,ime_avtorja):
         zvrsti.append(zvrst)
     knjiga["zvrst"] = zvrsti
     avtor = podatki_avtorja(mapa_avtor,ime_avtorja)
-    avtor['poreklo_avtorja'] = avtor['poreklo_avtorja'].split(',')
-    avtor['poreklo_avtorja'] = avtor['poreklo_avtorja'][-1][1:]
-    if avtor['leto_rojstva'][0] != '0':
-        avtor['leto_rojstva'] = int(avtor['leto_rojstva'])
-    else:
-        avtor['leto_rojstva'] = - int(avtor['leto_rojstva'])
+    if avtor['poreklo_avtorja'] != None:
+        avtor['poreklo_avtorja'] = avtor['poreklo_avtorja'].split(',')
+        avtor['poreklo_avtorja'] = avtor['poreklo_avtorja'][-1][1:]
+    if avtor['leto_rojstva']!= None:
+        if avtor['leto_rojstva'][0] != '0':
+            avtor['leto_rojstva'] = int(avtor['leto_rojstva'])
+        else:
+            avtor['leto_rojstva'] = - int(avtor['leto_rojstva'])
     knjiga.update(avtor)
     return knjiga
 
@@ -181,14 +188,16 @@ def uredi_podatke(mapa_knjiga,mapa_avtor,ime_knjige,ime_avtorja):
 def vrni_slovarje():
     seznam_slovarjev  = []
     for i in range(1,3229):
-        slovar = uredi_podatke('Podatki/Knjige','Podatki/Avtorji','Knjiga_{}'.format(i),'Avtor_{}'.format(i))
-        slovar["uvrstitev"] = i
-        seznam_slovarjev.append(slovar)
+        if i != 1202:
+            slovar = uredi_podatke('Podatki/Knjige','Podatki/Avtorji','Knjiga_{}'.format(i),'Avtor_{}'.format(i))
+            slovar["uvrstitev"] = i
+            seznam_slovarjev.append(slovar)
         print(i)
     return seznam_slovarjev
 
 
-def zapisi_csv(podatki, polja, ime_datoteke):
+def zapisi_csv(polja, ime_datoteke):
+    podatki = vrni_slovarje()
     with open(ime_datoteke, 'w') as datoteka:
         pisalec = csv.DictWriter(datoteka, polja, extrasaction='ignore')
         pisalec.writeheader()
