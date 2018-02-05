@@ -2,6 +2,7 @@ import requests
 import re
 import os
 import csv
+import sys
 
 url = 'https://www.goodreads.com/list/show/1.Best_Books_Ever?page={}'
 #url glavne spletne strani
@@ -99,7 +100,7 @@ def poberi_strani_avtorjev():
 
 
 rx_podatki_knjige = re.compile(r'googletag\.pubads\(\)\.setTargeting\("shelf", '
-                               r'(?P<zvrst>.*?)\).*?'
+                               r'(?P<zvrsti>.*?)\).*?'
                                r'<span class="item" style="display:none"><span class="fn">'
                                r'(?P<naslov>.*?)'
                                r'( \(.*?(?P<del_serije>.*?)\))?'
@@ -118,10 +119,9 @@ rx_podatki_knjige = re.compile(r'googletag\.pubads\(\)\.setTargeting\("shelf", '
                                r'.*?(?P<leto_izdaje>\d{4}).*?'
                                r'(<nobr class="greyText">.*?)?'
                                r'((?P<leto_izida>\d{4}).*?)?'
-                               r'<.*?'
-                               r'(<div class="infoBoxRowItem" itemprop=\'inLanguage\'>(?P<jezik_izdaje>.*?))?'
                                r'<.*?',
                                re.DOTALL)
+
 
 def podatki_knjige(mapa,ime):
     niz = preberi_datoteko_kot_niz(mapa,ime)
@@ -165,13 +165,13 @@ def uredi_podatke(mapa_knjiga,mapa_avtor,ime_knjige,ime_avtorja):
             else:
                 knjiga['del_serije'] = int(ujemanje.group(4))
             knjiga['serija'] = re.sub(r',','',ujemanje.group(1))
-    knjiga["zvrst"] = knjiga["zvrst"].strip('[]')
-    knjiga["zvrst"] = knjiga["zvrst"].split(',')
+    knjiga["zvrsti"] = knjiga["zvrsti"].strip('[]')
+    knjiga["zvrsti"] = knjiga["zvrsti"].split(',')
     zvrsti = []
-    for zvrst in knjiga["zvrst"]:
+    for zvrst in knjiga["zvrsti"]:
         zvrst= zvrst.strip('"')
         zvrsti.append(zvrst)
-    knjiga["zvrst"] = zvrsti
+    knjiga["zvrsti"] = zvrsti
     avtor = podatki_avtorja(mapa_avtor,ime_avtorja)
     if avtor['poreklo_avtorja'] != None:
         avtor['poreklo_avtorja'] = avtor['poreklo_avtorja'].split(',')
@@ -187,22 +187,40 @@ def uredi_podatke(mapa_knjiga,mapa_avtor,ime_knjige,ime_avtorja):
 
 def vrni_slovarje():
     seznam_slovarjev  = []
-    for i in range(1,3):
+    for i in range(1,1201):
         slovar = uredi_podatke('Podatki/Knjige','Podatki/Avtorji','Knjiga_{}'.format(i),'Avtor_{}'.format(i))
-        slovar["uvrstitev"] = i
+        slovar['knjiga'] = i
         seznam_slovarjev.append(slovar)
         print(i)
     return seznam_slovarjev
 
+def slovar_zanrov():
+    sez = vrni_slovarje()
+    sez_zvrsti = []
+    for knjiga in sez:
+        for zvrst in knjiga['zvrsti']:
+            slovar = {'knjiga': knjiga['knjiga'], 'zvrst' : zvrst}
+            sez_zvrsti.append(slovar)
+    return sez_zvrsti
 
-polja = ['del_serije', 'st_strani','st_ocen', 'jezik_izdaje', 'leto_izida', 'naslov', 'leto_rojstva', 'del_serije', 'serija', 'avtor', 'zvrst', 'uvrstitev', 'ocena', 'poreklo_avtorja', 'leto_izdaje', 'st_ocen']
-def zapisi_csv(polja, ime_datoteke):
+
+
+
+polja = ['leto_izdaje','leto_rojstva','zvrsti','avtor','knjiga','leto_izida','ocena','st_ocen','naslov', 'del_serije', 'st_strani','serija','poreklo_avtorja']
+def zapisi_csv_knjige(polja, ime_datoteke):
     podatki = vrni_slovarje()
-    with open(ime_datoteke, 'w') as datoteka:
+    with open(ime_datoteke, 'w',encoding='utf-8') as datoteka:
         pisalec = csv.DictWriter(datoteka, polja, extrasaction='ignore')
         pisalec.writeheader()
         for podatek in podatki:
             pisalec.writerow(podatek)
 
 
+def zapisi_csv_zanri(polja, ime_datoteke):
+    podatki = slovar_zanrov()
+    with open(ime_datoteke, 'w',encoding='utf-8') as datoteka:
+        pisalec = csv.DictWriter(datoteka, polja, extrasaction='ignore')
+        pisalec.writeheader()
+        for podatek in podatki:
+            pisalec.writerow(podatek)
 

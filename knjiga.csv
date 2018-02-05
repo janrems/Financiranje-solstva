@@ -1,0 +1,1201 @@
+leto_izdaje,leto_rojstva,zvrsti,avtor,knjiga,leto_izida,ocena,st_ocen,naslov,del_serije,st_strani,serija,poreklo_avtorja
+2008,1962,"['youngadult', 'fiction', 'dystopia', 'fantasy', 'sciencefiction']",Suzanne Collins,1,2008,4.34,5170396,The Hunger Games,1,374,The Hunger Games,The United States
+2004,1965,"['fantasy', 'youngadult', 'fiction']",J.K. Rowling,2,2003,4.47,1907536,Harry Potter and the Order of the Phoenix,5,870,Harry Potter,The United Kingdom
+2006,1926,"['classics', 'historicalfiction', 'school']",Harper Lee,3,1960,4.26,3453278,To Kill a Mockingbird,,324,,The United States
+2000,1775,"['classics', 'fiction', 'romance']",Jane Austen,4,1813,4.25,2290511,Pride and Prejudice,,279,,England
+2006,1973,"['youngadult', 'fantasy', 'vampires', 'fiction', 'paranormal']",Stephenie Meyer,5,2005,3.57,4056226,Twilight,1,498,Twilight,The United States
+2006,1975,"['historicalfiction', 'fiction', 'youngadult']",Markus Zusak,6,2005,4.36,1359125,The Book Thief,,552,,Australia
+2002,1898,"['fantasy', 'classics', 'fiction', 'youngadult', 'childrens']",C.S. Lewis,7,1956,4.25,415068,The Chronicles of Narnia,1,767,Chronicles of Narnia,Ireland
+2003,1903,"['fiction', 'classics', 'dystopia', 'fantasy', 'literature', 'school']",George Orwell,8,1945,3.88,2077294,Animal Farm,,122,,India
+1999,1900,"['classics', 'historicalfiction', 'fiction', 'romance', 'historical']",Margaret Mitchell,9,1936,4.28,924681,Gone with the Wind,,1037,,The United States
+2012,1892,"['fiction', 'fantasy', 'classics', 'sciencefictionfantasy', 'adventure', 'epicfantasy']",J.R.R. Tolkien,10,1973,4.59,96618,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,,1728,,South Africa
+2012,,"['youngadult', 'fiction', 'romance', 'contemporary', 'realisticfiction', 'teen', 'comingofage', 'death', 'drama', 'love']",John Green,11,2012,4.26,2633228,The Fault in Our Stars,,313,,The United States
+2017,1952,"['sciencefiction', 'fiction', 'humor', 'fantasy', 'classics']",Douglas Adams,12,1979,4.21,1052684,The Hitchhiker's Guide to the Galaxy,1,216,Hitchhiker's Guide to the Galaxy,The United Kingdom
+1964,1930,"['childrens', 'picturebooks', 'classics', 'fiction']",Shel Silverstein,13,1964,4.38,740217,The Giving Tree,,64,,The United States
+2002,1818,"['classics', 'fiction', 'romance', 'literature']",Emily Brontë,14,1847,3.83,1043039,Wuthering Heights,,464,,The United Kingdom
+2006,,"['fiction', 'mystery', 'thriller', 'suspense']",Dan Brown,15,2003,3.8,1598219,The Da Vinci Code,2,481,Robert Langdon,The United States
+2005,1956,"['fiction', 'historicalfiction', 'romance', 'historical', 'japan', 'classics']",Arthur Golden,16,1997,4.08,1457918,Memoirs of a Geisha,,434,,The United States
+2000,1832,"['classics', 'fantasy', 'fiction', 'childrens']",Lewis Carroll,17,1865,4.06,386150,Alice's Adventures in Wonderland &amp; Through the Looking-Glass,,239,,The United Kingdom
+1987,1802,"['fiction', 'historicalfiction', 'classics', 'literature', 'france', 'historical', 'novels', 'frenchliterature', 'romance', 'classicliterature']",Victor Hugo,18,1862,4.15,572385,Les Misérables,,1463,,France
+1998,1854,"['classics', 'fiction', 'horror', 'fantasy']",Oscar Wilde,19,1890,4.06,710527,The Picture of Dorian Gray,,254,,Ireland
+2012,,"['youngadult', 'dystopia', 'fiction', 'fantasy', 'sciencefiction']",Veronica Roth,20,2011,4.23,2326142,Divergent,1,487,Divergent,n The United States
+2004,,"['classics', 'plays', 'fiction', 'romance', 'school']",William Shakespeare,21,1597,3.74,1728146,Romeo and Juliet,,283,,The United Kingdom
+2003,1816,"['literature', 'gothic', 'historical', '19thcentury', 'novels']",Charlotte Brontë,22,1847,4.1,1308129,Jane Eyre,,507,,The United Kingdom
+1999,1911,"['classics', 'fiction', 'youngadult', 'school', 'literature']",William Golding,23,1954,3.65,1737551,Lord of the Flies,,182,,The United Kingdom
+1993,,"['fiction', 'classics', 'fantasy', 'philosophy', 'novels', 'spirituality', 'inspirational', 'literature', 'adventure', 'contemporary']",Paulo Coelho,24,1988,3.83,1491801,The Alchemist,,197,,Brazil
+2002,1821,"['classics', 'fiction', 'russia', 'literature', 'russianliterature']",Fyodor Dostoyevsky,25,1866,4.19,466476,Crime and Punishment,,671,,Russian Federation
+1994,1951,"['sciencefiction', 'fiction', 'youngadult', 'fantasy']",Orson Scott Card,26,1985,4.3,907233,Ender's Game,1,324,Ender's Saga,The United States
+2007,,"['youngadult', 'paranormal', 'romance', 'urbanfantasy', 'fiction']",Cassandra Clare,27,2007,4.12,1295065,City of Bones,1,485,The Mortal Instruments,Iran
+1999,1970,"['youngadult', 'fiction', 'contemporary']",Stephen Chbosky,28,1999,4.21,993840,The Perks of Being a Wallflower,,213,,The United States
+2009,,"['fiction', 'historicalfiction', 'historical', 'adult', 'adultfiction']",Kathryn Stockett,29,2009,4.46,1671706,The Help,,444,,The United States
+2013,,"['fiction', 'romance', 'fantasy', 'timetravel', 'sciencefiction']",Audrey Niffenegger,30,2003,3.95,1347728,The Time Traveler's Wife,,500,,n The United States
+2001,1899,"['classics', 'childrens', 'fiction']",E.B. White,31,1952,4.15,1140174,Charlotte's Web,,184,,The United States
+2003,1874,"['classics', 'fiction', 'youngadult', 'childrens', 'historicalfiction']",L.M. Montgomery,32,1908,4.23,556321,Anne of Green Gables,1,320,Anne of Green Gables,Canada
+2004,1896,"['classics', 'fiction', 'literature', 'school', 'historicalfiction']",F. Scott Fitzgerald,33,1925,3.9,2922831,The Great Gatsby,,180,,The United States
+2002,1902,"['classics', 'fiction', 'school', 'literature', 'historicalfiction']",John Steinbeck,34,1937,3.85,1575656,Of Mice and Men,,112,,The United States
+1986,1847,"['literature', '19thcentury', 'novels', 'audiobook']",Bram Stoker,35,1897,3.98,723304,Dracula,,488,,Ireland
+1998,1894,"['classics', 'fiction', 'sciencefiction', 'dystopia', 'literature', 'novels', 'school', 'fantasy', 'sciencefictionfantasy', 'philosophy']",Aldous Huxley,36,1932,3.97,1123942,Brave New World,,268,,The United Kingdom
+2003,1927,"['fiction', 'classics', 'magicalrealism', 'literature', 'novels', 'fantasy']",Gabriel García Márquez,37,1967,4.04,595628,One Hundred Years of Solitude,,457,,Colombia
+2003,1931,"['sciencefictionfantasy', 'youngadult', 'fantasy']",William Goldman,38,1973,4.25,665504,The Princess Bride,,398,,The United States
+2000,1900,"['childrens', 'classics', 'france', 'youngadult']",Antoine de Saint-Exupéry,39,1943,4.29,916377,The Little Prince,,93,,France
+1998,1849,"['classics', 'fiction', 'childrens', 'youngadult']",Frances Hodgson Burnett,40,1911,4.12,718726,The Secret Garden,,331,,The United Kingdom
+2007,1965,"['fiction', 'historicalfiction', 'contemporary']",Khaled Hosseini,41,2007,4.34,900572,A Thousand Splendid Suns,,372,,Afghanistan
+1973,1918,"['fantasy', 'youngadult', 'fiction', 'classics', 'sciencefiction', 'childrens']",Madeleine L'Engle,42,1962,4.04,688661,A Wrinkle in Time,1,211,A Wrinkle in Time Quintet,The United States
+2001,1919,"['classics', 'fiction', 'youngadult', 'literature']",J.D. Salinger,43,1951,3.8,2205596,The Catcher in the Rye,,277,,The United States
+2002,1835,"['classics', 'fiction', 'historicalfiction', 'literature', 'youngadult', 'adventure']",Mark Twain,44,1884,3.81,1028648,The Adventures of Huckleberry Finn,,327,,The United States
+2006,1920,"['classics', 'sciencefiction', 'dystopia', 'literature']",Ray Bradbury,45,1953,3.98,1223482,Fahrenheit 451,,174,,The United States
+2006,1963,"['fiction', 'mystery', 'youngadult', 'contemporary', 'fantasy']",Alice Sebold,46,2002,3.78,1708530,The Lovely Bones,,328,,The United States
+2000,1928,"['childrens', 'picturebooks', 'fiction', 'classics', 'fantasy']",Maurice Sendak,47,1963,4.22,663316,Where the Wild Things Are,,37,,The United States
+2005,1948,"['fantasy', 'fiction', 'epicfantasy']",George R.R. Martin,48,1996,4.45,1525666,A Game of Thrones,1,848,A Song of Ice and Fire,The United States
+1988,1904,"['childrens', 'picturebooks', 'classics', 'fiction']",Dr. Seuss,49,1960,4.3,479523,Green Eggs and Ham,,62,,The United States
+2006,,"['fantasy', 'youngadult', 'mythology', 'fiction']",Rick Riordan,50,2005,4.23,1490680,The Lightning Thief,1,375,Percy Jackson and the Olympians,The United States
+2006,1963,"['fantasy', 'adventure', 'classics', 'contemporary', 'literature', 'fiction', 'india', 'philosophy', 'magicalrealism', 'youngadult']",Yann Martel,51,2001,3.88,1096051,Life of Pi,,460,,Spain
+2003,1812,"['fiction', 'classics', 'historicalfiction', 'literature', 'historical', 'school', 'novels', 'classicliterature']",Charles Dickens,52,1859,3.82,695275,A Tale of Two Cities,,489,,England
+2007,,"['fiction', 'historicalfiction', 'romance', 'bookclub']",Sara Gruen,53,2006,4.07,1138560,Water for Elephants,,335,,Canada
+2006,-750,"['classics', 'fiction', 'poetry', 'mythology', 'fantasy']",Homer,54,2006,3.73,732143,The Odyssey,,541,,n Greece
+1988,,"['fiction', 'youngadult', 'classics', 'school', 'realisticfiction']",S.E. Hinton,55,1967,4.07,705287,The Outsiders,,192,,The United States
+1995,1899,"['fiction', 'literature', 'classics', 'novels']",Vladimir Nabokov,56,1955,3.88,532807,Lolita,,331,,Russian Federation
+1999,1922,"['fiction', 'sciencefiction', 'classics', 'war', 'literature', 'historicalfiction']",Kurt Vonnegut,57,1969,4.06,923516,Slaughterhouse-Five,,275,,The United States
+1997,1965,"['youngadult', 'fiction', 'magic']",J.K. Rowling,58,1997,4.45,5103234,Harry Potter and the Sorcerer's Stone,1,320,Harry Potter,The United Kingdom
+2004,1923,"['classics', 'fiction', 'war', 'humor', 'historicalfiction']",Joseph Heller,59,1961,3.98,604045,Catch-22,1,453,Catch-22,The United States
+2003,1797,"['horror', 'sciencefiction', 'gothic', 'fantasy', 'novels']",Mary Wollstonecraft Shelley,60,1818,3.76,914659,"Frankenstein, or The Modern Prometheus",,273,,The United Kingdom
+2006,1920,"['sciencefiction', 'fiction', 'fantasy', 'classics']",Frank Herbert,61,1965,4.2,547219,Dune,1,604,Dune Chronicles,The United States
+2002,,"['historicalfiction', 'fiction', 'historical']",Ken Follett,62,1989,4.29,516581,The Pillars of the Earth,1,973,Kingsbridge,The United Kingdom
+2004,1965,"['fiction', 'historicalfiction', 'contemporary']",Khaled Hosseini,63,2003,4.26,1950740,The Kite Runner,,371,,Afghanistan
+1990,,"['horror', 'fiction', 'fantasy', 'sciencefiction', 'postapocalyptic']",Stephen King,64,1978,4.34,491743,The Stand,,1153,,The United States
+1975,1920,"['classics', 'fiction', 'fantasy', 'youngadult', 'animals']",Richard Adams,65,1972,4.06,317041,Watership Down,1,478,Watership Down,The United Kingdom
+2006,,"['fiction', 'childrens', 'classics', 'dystopia', 'teen', 'readforschool']",Lois Lowry,66,1993,4.12,1373332,The Giver,1,208,The Giver,The United States
+1998,1859,"['classics', 'mystery', 'fiction', 'shortstories', 'crime']",Arthur Conan Doyle,67,1892,4.3,192237,The Adventures of Sherlock Holmes,,339,,Scotland
+1998,,"['dystopia', 'sciencefiction', 'feminism', 'fantasy']",Margaret Atwood,68,1985,4.07,768964,The Handmaid's Tale,,311,,Canada
+2005,,"['fiction', 'chicklit', 'contemporary']",Jodi Picoult,69,2004,4.06,912523,My Sister's Keeper,,423,,The United States
+1963,1935,"['classics', 'fiction', 'literature', 'psychology']",Ken Kesey,70,1962,4.19,527988,One Flew Over the Cuckoo's Nest,,325,,The United States
+2006,1932,"['classics', 'fiction', 'feminism']",Sylvia Plath,71,1963,3.98,456989,The Bell Jar,,244,,The United States
+2005,,"['historicalfiction', 'fantasy', 'timetravel', 'historicalromance', 'adult']",Diana Gabaldon,72,1991,4.21,611770,Outlander,1,850,Outlander,The United States
+2012,1828,"['classics', 'fiction', 'russia', 'romance']",Leo Tolstoy,73,1878,4.03,493741,Anna Karenina,,964,,Russian Empire
+2013,1907,"['classics', 'fiction', 'mystery', 'romance', 'gothic', 'historicalfiction']",Daphne du Maurier,74,1938,4.21,342164,Rebecca,,449,,The United Kingdom
+2008,1954,"['fiction', 'mystery', 'thriller', 'crime']",Stieg Larsson,75,2005,4.12,2028284,The Girl with the Dragon Tattoo,1,465,Millennium,Sweden
+2006,1896,"['classics', 'historicalfiction', 'fiction', 'youngadult']",Betty  Smith,76,1943,4.24,316726,A Tree Grows in Brooklyn,,496,,The United States
+2004,1944,"['classics', 'fiction', 'historicalfiction', 'feminism']",Alice Walker,77,1982,4.17,412380,The Color Purple,,295,,The United States
+1998,1916,"['youngadult', 'childrens', 'humor']",Roald Dahl,78,1988,4.29,474824,Matilda,,240,,The United Kingdom
+2005,1930,"['nonfiction', 'memoir', 'biography']",Frank McCourt,79,1996,4.08,437028,Angela's Ashes,1,432,Frank McCourt,The United States
+2006,1933,"['fiction', 'sciencefiction', 'dystopia', 'postapocalyptic']",Cormac McCarthy,80,2006,3.95,575889,The Road,,241,,The United States
+2004,1832,"['classics', 'fiction', 'historicalfiction', 'youngadult']",Louisa May Alcott,81,1862,4.04,1353466,Little Women,1,449,Little Women,The United States
+2003,1892,"['fantasy', 'classics', 'fiction']",J.R.R. Tolkien,82,1954,4.34,1902247,The Fellowship of the Ring,1,398,The Lord of the Rings,South Africa
+1995,1917,"['classics', 'fiction', 'dystopia', 'sciencefiction']",Anthony Burgess,83,1962,3.98,473539,A Clockwork Orange,,212,,The United Kingdom
+2002,1821,"['russia', 'literature', 'russianliterature', 'philosophy']",Fyodor Dostoyevsky,84,1880,4.31,184280,The Brothers Karamazov,,796,,Russian Federation
+2013,,"['youngadult', 'vampires', 'fantasy', 'paranormal', 'romance']",Richelle Mead,85,2007,4.14,466666,Vampire Academy,1,332,Vampire Academy,
+2005,1955,"['historicalfiction', 'fiction', 'classics', 'literature']",Barbara Kingsolver,86,1998,4.03,574256,The Poisonwood Bible,,546,,The United States
+1981,1877,"['fiction', 'philosophy', 'religion', 'spirituality', 'classics', 'buddhism', 'germanliterature']",Hermann Hesse,87,1922,3.99,437608,Siddhartha,,152,,Germany
+1999,1905,"['fiction', 'classics', 'philosophy', 'literature', 'politics']",Ayn Rand,88,1957,3.68,305815,Atlas Shrugged,,1168,,Russian Federation
+2003,1547,"['classics', 'fiction', 'literature', 'spanishliterature']",Miguel de Cervantes Saavedra,89,1605,3.86,164263,Don Quixote,,1023,,Spain
+2013,1920,"['classics', 'sciencefiction', 'dystopia', 'literature']",Ray Bradbury,90,1953,3.98,1223493,Fahrenheit 451,,227,,The United States
+1996,1946,"['fantasy', 'youngadult', 'fiction']",Philip Pullman,91,1995,3.94,1034873,The Golden Compass,1,399,His Dark Materials,The United Kingdom
+2004,,"['fiction', 'chicklit', 'romance', 'contemporary']",Nicholas Sparks,92,1996,4.07,1097776,The Notebook,1,214,The Notebook,The United States
+1996,1899,"['classics', 'fiction', 'literature', 'novels', 'school']",Ernest Hemingway,93,1952,3.74,604392,The Old Man and the Sea,,132,,The United States
+2002,1812,"['classics', 'fiction', 'literature', 'historicalfiction']",Charles Dickens,94,1860,3.75,527029,Great Expectations,,512,,England
+1990,,"['fiction', 'classics', 'literature', 'contemporary']",John Irving,95,1989,4.22,251858,A Prayer for Owen Meany,,637,,The United States
+2007,1965,"['fantasy', 'youngadult', 'fiction']",J.K. Rowling,96,2007,4.62,1927028,Harry Potter and the Deathly Hallows,7,759,Harry Potter,The United Kingdom
+1984,1809,"['poetry', 'horror', 'shortstories', 'classics', 'mystery', 'gothic', 'literature']",Edgar Allan Poe,97,1966,4.37,163878,The Complete Stories and Poems,,821,,The United States
+2003,1819,"['classics', 'fiction', 'literature', 'adventure']",Herman Melville,98,1851,3.47,409877,"Moby-Dick or, The Whale",,720,,The United States
+2001,1882,"['childrens', 'fiction', 'classics']",A.A. Milne,99,1926,4.34,220503,Winnie-the-Pooh,1,145,Winnie-the-Pooh,The United Kingdom
+2004,1941,"['horror', 'fantasy', 'fiction', 'vampires', 'paranormal']",Anne Rice,100,1976,3.98,406740,Interview with the Vampire,1,342,The Vampire Chronicles,The United States
+2005,,"['historicalfiction', 'fiction', 'christian', 'literature', 'religion']",Anita Diamant,101,1997,4.16,456620,The Red Tent,,336,,The United States
+2003,,"['fiction', 'historicalfiction', 'youngadult', 'adultfiction']",Sue Monk Kidd,102,2001,4.02,961805,The Secret Life of Bees,,336,,The United States
+1950,1903,"['classics', 'fiction', 'sciencefiction', 'dystopia']",George Orwell,103,1949,4.15,2188399,1984,,328,,India
+2010,,"['fantasy', 'youngadult', 'paranormal', 'steampunk', 'romance']",Cassandra Clare,104,2010,4.34,537900,Clockwork Angel,1,481,The Infernal Devices,Iran
+2002,1960,"['fiction', 'historicalfiction', 'contemporary']",Jeffrey Eugenides,105,2002,3.98,519695,Middlesex,,529,,The United States
+2004,1965,"['fiction', 'youngadult', 'magic', 'childrens']",J.K. Rowling,106,1999,4.53,2055926,Harry Potter and the Prisoner of Azkaban,3,435,Harry Potter,The United Kingdom
+1998,1812,"['classics', 'fiction', 'literature', 'historicalfiction']",Charles Dickens,107,1860,3.75,527023,Great Expectations,,505,,England
+2006,1835,"['classics', 'fiction', 'adventure', 'youngadult', 'historicalfiction']",Mark Twain,108,1876,3.9,615662,The Adventures of Tom Sawyer,,244,,The United States
+1989,1913,"['philosophy', 'france', 'literature', 'classics', 'novels', 'frenchliterature', 'school']",Albert Camus,109,1942,3.96,506991,The Stranger,,123,,Algeria
+1976,1922,"['classics', 'fiction', 'travel', 'literature']",Jack Kerouac,110,1955,3.64,286212,On the Road,,307,,The United States
+1996,1891,"['fiction', 'classics', 'russia', 'fantasy', 'russianliterature', 'magicalrealism']",Mikhail Bulgakov,111,1967,4.32,167521,The Master and Margarita,,367,,Ukraine
+2004,1890,"['mystery', 'classics', 'fiction', 'crime', 'thriller']",Agatha Christie,112,1939,4.24,500646,And Then There Were None,,264,,The United Kingdom
+2005,1916,"['childrens', 'fantasy', 'fiction', 'classics']",Roald Dahl,113,1964,4.11,514607,Charlie and the Chocolate Factory,1,176,Charlie Bucket,The United Kingdom
+2005,1983,"['fantasy', 'youngadult', 'fiction', 'dragons']",Christopher Paolini,114,2002,3.86,1171381,Eragon,1,503,The Inheritance Cycle,The United States
+1980,,"['fiction', 'fantasy', 'horror', 'mystery', 'supernatural', 'suspense']",Stephen King,115,1977,4.18,856371,The Shining,1,447,The Shining,The United States
+1994,1929,"['childrens', 'picturebooks']",Eric Carle,116,1969,4.29,319023,The Very Hungry Caterpillar,,26,,The United States
+2000,,"['nonfiction', 'memoir', 'biography', 'inspirational']",Mitch Albom,117,1997,4.07,611776,Tuesdays with Morrie,,210,,The United States
+2005,1927,"['fiction', 'classics', 'sciencefiction', 'youngadult']",Daniel Keyes,118,1966,4.07,354428,Flowers for Algernon,,311,,The United States
+2005,1964,"['fiction', 'historicalfiction', 'mystery', 'fantasy', 'booksaboutbooks']",Carlos Ruiz Zafón,119,2001,4.25,334317,The Shadow of the Wind,1,487,The Cemetery of Forgotten Books ,Spain
+2009,1929,"['fiction', 'classics', 'philosophy', 'literature', 'novels', 'czechliterature', 'contemporary', 'romance', 'literaryfiction', '20thcentury']",Milan Kundera,120,1984,4.09,258825,The Unbearable Lightness of Being,,320,,Czech Republic
+2006,,"['youngadult', 'fiction', 'contemporary', 'romance']",John Green,121,2005,4.08,872810,Looking for Alaska,,221,,The United States
+2004,1962,"['fiction', 'youngadult', 'classics']",Mark Haddon,122,2003,3.86,939295,The Curious Incident of the Dog in the Night-Time,,226,,The United Kingdom
+1972,1883,"['classics', 'fiction', 'fantasy', 'literature', 'shortstories', 'philosophy']",Franz Kafka,123,1915,3.79,441102,The Metamorphosis,,201,,Austria-Hungary
+2003,1804,"['classics', 'fiction', 'historicalfiction', 'school']",Nathaniel Hawthorne,124,1850,3.37,577249,The Scarlet Letter,,238,,The United States
+1994,1932,"['fiction', 'mystery', 'classics', 'historical', 'literature', 'crime', 'italianliterature']",Umberto Eco,125,1980,4.11,233730,The Name of the Rose,,536,,Italy
+2007,,"['fantasy', 'fiction', 'epicfantasy']",Patrick Rothfuss,126,2007,4.55,483805,The Name of the Wind,1,662,The Kingkiller Chronicle,The United States
+2009,,"['youngadult', 'fantasy', 'angels', 'paranormal', 'romance']",Becca Fitzpatrick,127,2009,3.99,478836,"Hush, Hush",1,391,Hush Hush,
+2002,1965,"['childrens', 'sciencefictionfantasy', 'novels']",J.K. Rowling,128,2000,4.53,1942830,Harry Potter and the Goblet of Fire,4,734,Harry Potter,The United Kingdom
+2003,,"['fiction', 'spirituality', 'contemporary', 'christian', 'literature']",Mitch Albom,129,2003,3.9,482768,The Five People You Meet in Heaven,,196,,The United States
+1994,1924,"['nonfiction', 'classics', 'truecrime', 'crime', 'mystery']",Truman Capote,130,1966,4.05,416793,In Cold Blood,,343,,The United States
+2002,1920,"['fiction', 'classics', 'crime', 'thriller', 'historicalfiction']",Mario Puzo,131,1969,4.36,276259,The Godfather,,448,Mario Puzo's,The United States
+1999,1936,"['fiction', 'westerns', 'historicalfiction', 'classics', 'historical']",Larry McMurtry,132,1985,4.47,120087,Lonesome Dove,,945,,The United States
+1985,1904,"['childrens', 'picturebooks', 'fiction']",Dr. Seuss,133,1957,4.15,327015,The Cat in the Hat,,61,,The United States
+2005,,"['fiction', 'contemporary', 'classics', 'thriller', 'novels']",Chuck Palahniuk,134,1996,4.2,401511,Fight Club,,218,,The United States
+2003,1867,"['classics', 'childrens', 'historicalfiction', 'fiction', 'youngadult']",Laura Ingalls Wilder,135,1953,4.33,130356,The Little House Collection,1,2700,Little House,The United States
+2000,1954,"['youngadult', 'fiction', 'childrens', 'realisticfiction']",Louis Sachar,136,1998,3.94,798477,Holes,1,233,Holes,The United States
+2006,1965,"['fantasy', 'youngadult', 'fiction']",J.K. Rowling,137,2005,4.54,1859720,Harry Potter and the Half-Blood Prince,6,652,Harry Potter,The United Kingdom
+2005,,"['graphicnovels', 'fiction', 'fantasy']",Alan Moore,138,1987,4.35,426399,Watchmen,,416,,The United Kingdom
+1994,,"['plays', 'classics', 'humor', 'drama', 'fiction', 'theatre']",Reduced Shakespeare Company,139,1994,4.47,7575,The Compleat Works of Wllm Shkspr,,137,,
+1995,1265,"['classics', 'poetry', 'fiction', 'literature']",Dante Alighieri,140,1320,4.06,91711,The Divine Comedy,,798,,Italy
+2005,,"['fantasy', 'fiction', 'urbanfantasy', 'mythology', 'sciencefiction', 'sciencefictionfantasy']",Neil Gaiman,141,2001,4.11,558889,American Gods,1,635,American Gods,
+2003,1860,"['classics', 'fantasy', 'fiction', 'childrens', 'adventure', 'youngadult', 'fairytales', 'literature', 'middlegrade', 'audiobook']",J.M. Barrie,142,1904,4.1,205759,Peter Pan,,176,,Scotland
+2008,,"['youngadult', 'vampires', 'fantasy', 'paranormal', 'romance']",Richelle Mead,143,2008,4.37,287961,Shadow Kiss,3,443,Vampire Academy,
+1987,1898,"['classics', 'fiction', 'historicalfiction', 'war', 'literature', 'historical', 'school', 'germanliterature', 'worldwari', 'novels']",Erich Maria Remarque,144,1929,3.93,278974,All Quiet on the Western Front,,296,,Germany
+1987,1949,"['fiction', 'historicalfiction', 'classics', 'horror', 'mystery']",Patrick Süskind,145,1985,4.0,235590,Perfume: The Story of a Murderer,,263,,Germany
+2012,,"['youngadult', 'dystopia', 'fiction', 'fantasy']",Veronica Roth,146,2012,4.06,973979,Insurgent,2,525,Divergent,n The United States
+2004,,"['adult', 'drama', 'romance', 'adultfiction', 'love']",Nicholas Sparks,147,1999,4.15,564938,A Walk to Remember,,240,,The United States
+2005,1898,"['fantasy', 'classics', 'fiction', 'youngadult', 'childrens']",C.S. Lewis,148,1950,4.2,1668219,"The Lion, the Witch, and the Wardrobe",1,206,Chronicles of Narnia,Ireland
+2003,1927,"['historicalfiction', 'novels', 'classics', 'fiction']",Gabriel García Márquez,149,1985,3.89,332018,Love in the Time of Cholera,,348,,Colombia
+2009,,"['fantasy', 'youngadult', 'mythology']",Rick Riordan,150,2009,4.5,519554,The Last Olympian,5,381,Percy Jackson and the Olympians,The United States
+1987,,"['horror', 'fiction', 'fantasy', 'thriller']",Stephen King,151,1986,4.2,539559,It,,1116,,The United States
+2003,1937,"['fiction', 'historicalfiction', 'historicalromance', 'romance', 'adult', 'classics', 'epic']",Colleen McCullough,152,1977,4.22,273627,The Thorn Birds,,692,,Australia
+2003,1802,"['classics', 'fiction', 'historicalfiction', 'adventure']",Alexandre Dumas,153,1844,4.22,619978,The Count of Monte Cristo,,1276,,French Republic
+2004,1904,"['childrens', 'classics', 'fiction']",Dr. Seuss,154,1957,4.36,266888,How the Grinch Stole Christmas!,,64,,The United States
+2006,1891,"['classics', 'fiction', 'historicalfiction', 'school', 'africanamerican', 'literature']",Zora Neale Hurston,155,1937,3.87,205047,Their Eyes Were Watching God,,237,,The United States
+2008,,"['youngadult', 'vampires', 'fantasy', 'paranormal', 'romance']",Richelle Mead,156,2008,4.3,275246,Frostbite,2,327,Vampire Academy,
+2007,,"['nonfiction', 'memoir', 'travel']",Elizabeth Gilbert,157,2006,3.51,1243497,"Eat, Pray, Love",,334,,The United States
+2005,1854,"['classics', 'plays', 'fiction', 'drama', 'humor', 'literature']",Oscar Wilde,158,1895,4.17,244516,The Importance of Being Earnest,,76,,Ireland
+2002,1952,"['sciencefiction', 'fiction', 'humor', 'fantasy', 'classics']",Douglas Adams,159,1996,4.38,244170,The Ultimate Hitchhiker's Guide to the Galaxy,,815,,The United Kingdom
+2003,1948,"['historicalfiction', 'romance', 'classics', 'fiction', 'historical']",Ian McEwan,160,2001,3.88,374776,Atonement,,351,,The United Kingdom
+2007,1910,"['childrens', 'classics']",Margaret Wise Brown,161,1947,4.27,258114,Goodnight Moon,,32,,The United States
+2001,1802,"['classics', 'fiction', 'historicalfiction', 'adventure']",Alexandre Dumas,162,1844,4.06,229260,The Three Musketeers,1,786,The D'Artagnan Romances,French Republic
+1995,1856,"['childrens', 'youngadult', 'adventure']",L. Frank Baum,163,1900,3.98,289624,The Wonderful Wizard of Oz,1,154,Oz,The United States
+1998,1904,"['childrens', 'classics', 'picturebooks']",Dr. Seuss,164,1971,4.35,233658,The Lorax,,72,,The United States
+2009,,"['youngadult', 'vampires', 'fantasy', 'paranormal', 'romance']",Richelle Mead,165,2009,4.35,249134,Blood Promise,4,503,Vampire Academy,
+2009,1892,"['classics', 'fiction', 'historicalfiction', 'china', 'literature']",Pearl S. Buck,166,1931,3.97,197199,The Good Earth,1,418,House of Earth,The United States
+1996,1913,"['classics', 'fiction', 'youngadult', 'childrens']",Wilson Rawls,167,1961,4.05,287331,Where the Red Fern Grows,,212,,The United States
+1999,1965,"['fantasy', 'youngadult', 'fiction']",J.K. Rowling,168,1998,4.38,1998877,Harry Potter and the Chamber of Secrets,2,341,Harry Potter,The United Kingdom
+2003,1840,"['classics', 'fiction', 'literature', 'romance']",Thomas Hardy,169,1891,3.77,198494,Tess of the D'Urbervilles,,518,,The United Kingdom
+2010,1883,"['poetry', 'philosophy', 'classics', 'fiction', 'spirituality', 'religion']",Kahlil Gibran,170,1923,4.23,171232,The Prophet,,127,,Lebanon
+2016,,"['classics', 'plays', 'fiction', 'drama', 'fantasy']",William Shakespeare,171,1595,3.94,374687,A Midsummer Night's Dream,,298,,The United Kingdom
+1984,1930,"['fantasy', 'fiction', 'historicalfiction', 'arthurian', 'sciencefictionfantasy']",Marion Zimmer Bradley,172,1982,4.12,167047,The Mists of Avalon,1,876,Avalon,n The United States
+2003,1857,"['classics', 'fiction', 'literature', 'africa', 'school', 'historicalfiction', 'novels', 'readforschool', 'adventure', 'highschool']",Joseph Conrad,173,1899,3.42,322865,Heart of Darkness,,188,,Ukraine
+2006,,"['classics', 'fiction', 'china', 'contemporary', 'adultfiction']",Amy Tan,174,1989,3.9,534216,The Joy Luck Club,,288,,The United States
+2006,1948,"['fantasy', 'fiction', 'humor', 'urbanfantasy']",Terry Pratchett,175,1990,4.25,345199,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",,412,,The United Kingdom
+2006,,"['fiction', 'classics', 'philosophy', 'fantasy', 'spirituality', 'inspirational']",Richard Bach,176,1970,3.81,156683,Jonathan Livingston Seagull,,112,,The United States
+2008,,"['fantasy', 'youngadult', 'mythology']",Rick Riordan,177,2008,4.39,557872,The Battle of the Labyrinth,4,361,Percy Jackson and the Olympians,The United States
+1996,1929,"['fantasy', 'fiction', 'childrens', 'classics', 'youngadult']",Norton Juster,178,1961,4.22,193467,The Phantom Tollbooth,,256,,The United States
+2004,,"['classics', 'fantasy', 'fiction', 'childrens']",Jane Carruth,179,1865,4.03,348530,Alice in Wonderland,,92,,
+2001,1876,"['classics', 'youngadult', 'animals', 'historicalfiction']",Jack London,180,1903,3.83,258468,The Call of the Wild,,172,,The United States
+2004,1821,"['classics', 'fiction', 'france', 'literature']",Gustave Flaubert,181,1856,3.65,195119,Madame Bovary,,329,,France
+2009,1954,"['fiction', 'mystery', 'thriller', 'crime']",Stieg Larsson,182,2006,4.22,673916,The Girl Who Played with Fire,2,503,Millennium,Sweden
+2011,,"['romance', 'fiction', 'erotica', 'bdsm', 'adult']",E.L. James,183,2011,3.66,1480244,Fifty Shades of Grey,1,356,Fifty Shades,The United Kingdom
+2006,,"['fantasy', 'youngadult', 'adventure', 'middlegrade', 'childrens']",Rick Riordan,184,2006,4.23,573878,The Sea of Monsters,2,279,Percy Jackson and the Olympians,The United States
+1990,1904,"['childrens', 'picturebooks', 'fiction', 'classics', 'poetry', 'fantasy', 'youngadult', 'inspirational', 'kids', 'humor']",Dr. Seuss,185,1990,4.35,271421,"Oh, The Places You'll Go!",,44,,The United States
+1996,1932,"['youngadult', 'fiction', 'childrens', 'fantasy', 'classics']",Katherine Paterson,186,1977,3.98,365158,Bridge to Terabithia,,143,,China
+2007,,"['fantasy', 'youngadult', 'mythology']",Rick Riordan,187,2007,4.34,515462,The Titan's Curse,3,320,Percy Jackson and the Olympians,The United States
+2013,,"['fantasy', 'youngadult', 'romance', 'paranormal']",Cassandra Clare,188,2013,4.59,258873,Clockwork Princess,3,567,The Infernal Devices,Iran
+2003,1812,"['classics', 'fiction', 'literature', 'historicalfiction']",Charles Dickens,189,1838,3.85,263603,Oliver Twist,,608,,England
+2010,1962,"['youngadult', 'fiction', 'dystopia', 'sciencefiction', 'romance', 'adventure', 'fantasy', 'teen', 'action', 'sciencefictionfantasy']",Suzanne Collins,190,2010,4.49,164114,The Hunger Games Trilogy Boxset,1,1155,The Hunger Games,The United States
+2003,,"['poetry', 'classics', 'school', 'shortstories', 'historicalfiction', 'classicliterature']",Geoffrey Chaucer,191,1390,3.48,161973,The Canterbury Tales,,504,,England
+2002,1936,"['historicalfiction', 'fiction', 'romance', 'classics']",Jean M. Auel,192,1980,4.02,192159,The Clan of the Cave Bear,1,512,Earth's Children,The United States
+1990,1882,"['classics', 'fiction', 'literature', 'novels', 'irishliterature', 'ireland', 'abandoned']",James Joyce,193,1922,3.74,89715,Ulysses,,810,,Ireland
+2009,,"['youngadult', 'dystopia', 'sciencefiction']",James Dashner,194,2009,4.03,816701,The Maze Runner,1,384,The Maze Runner,
+2001,1850,"['classics', 'fiction', 'adventure', 'youngadult']",Robert Louis Stevenson,195,1882,3.82,323997,Treasure Island,,311,,Scotland
+2004,1899,"['classics', 'fiction', 'literature', 'war', 'historicalfiction']",Ernest Hemingway,196,1929,3.79,213845,A Farewell to Arms,,293,,The United States
+1999,,"['fiction', 'classics', 'literature', 'contemporary', 'novels']",John Irving,197,1978,4.07,182667,The World According to Garp,,609,,The United States
+2002,1892,"['fantasy', 'classics', 'fiction', 'adventure']",J.R.R. Tolkien,198,1937,4.25,2283846,The Hobbit,,366,,South Africa
+1997,1929,"['fantasy', 'classics', 'fiction', 'youngadult', 'childrens']",Michael Ende,199,1979,4.18,128767,The Neverending Story,,396,,Germany
+2004,1812,"['classics', 'fiction', 'literature', 'historicalfiction']",Charles Dickens,200,1849,3.97,169133,David Copperfield,,882,,England
+2000,1954,"['adult', 'abandoned', 'fantasy']",Gregory Maguire,201,1995,3.52,529483,Wicked: The Life and Times of the Wicked Witch of the West,1,406,The Wicked Years,The United States
+2007,,"['youngadult', 'realisticfiction', 'teen']",Jay Asher,202,2007,4.01,595204,Thirteen Reasons Why,,288,,The United States
+2003,,"['historicalfiction', 'fiction', 'historical', 'romance']",Philippa Gregory,203,2001,4.04,406591,The Other Boleyn Girl,9,661,The Plantagenet and Tudor Novels,n Kenya
+2009,1924,"['historicalfiction', 'fiction', 'japan', 'historical', 'classics']",James Clavell,204,1975,4.37,119775,Shōgun,1,1152,Asian Saga,Australia
+2003,1948,"['fiction', 'epicfantasy', 'sciencefictionfantasy']",George R.R. Martin,205,2000,4.54,545979,A Storm of Swords,3,1177,A Song of Ice and Fire,The United States
+2010,,"['youngadult', 'vampires', 'paranormal', 'fantasy', 'urbanfantasy']",Richelle Mead,206,2010,4.42,225694,Last Sacrifice,6,608,Vampire Academy,
+2006,,"['fiction', 'contemporary', 'historicalfiction']",Jonathan Safran Foer,207,2005,3.97,329459,Extremely Loud and Incredibly Close,,326,,The United States
+2009,,"['youngadult', 'fantasy', 'angels', 'romance']",Lauren Kate,208,2009,3.74,421864,Fallen,1,452,Fallen,n The United States
+1994,1935,"['history', 'nonfiction', 'classics', 'holocaust', 'war']",Thomas Keneally,209,1982,4.34,114860,Schindler's List,,429,,Australia
+2003,1946,"['fantasy', 'youngadult', 'fiction']",Philip Pullman,210,2000,4.26,104800,His Dark Materials,1,1088,His Dark Materials,The United Kingdom
+2010,,"['youngadult', 'paranormal', 'vampires', 'fantasy', 'romance']",Richelle Mead,211,2010,4.36,238805,Spirit Bound,5,489,Vampire Academy,
+1957,1899,"['classics', 'fiction', 'literature', 'novels', 'american']",Ernest Hemingway,212,1926,3.83,311103,The Sun Also Rises,Fiesta,189,,The United States
+1994,1937,"['fiction', 'humor', 'literature', 'comedy']",John Kennedy Toole,213,1980,3.89,191242,A Confederacy of Dunces,,416,,The United States
+2007,,"['historicalfiction', 'fiction', 'religion', 'historical']",Ki Longfellow,214,2005,4.21,3224,The Secret Magdalene,,448,,The United States
+2002,1849,"['classics', 'fiction', 'childrens', 'youngadult']",Frances Hodgson Burnett,215,1905,4.19,227962,A Little Princess,,242,,The United Kingdom
+1987,1881,"['childrens', 'classics', 'fiction', 'picturebooks']",Margery Williams Bianco,216,1922,4.29,191447,The Velveteen Rabbit,,40,,The United Kingdom
+2004,1931,"['fiction', 'classics', 'historicalfiction', 'literature', 'africanamerican', 'magicalrealism']",Toni Morrison,217,1987,3.78,253249,Beloved,,324,,The United States
+1991,1942,"['sciencefiction', 'fiction', 'thriller', 'adventure', 'fantasy']",Michael Crichton,218,1990,3.97,670926,Jurassic Park,1,399,Jurassic Park,The United States
+2006,,"['historicalfiction', 'youngadult', 'fiction', 'historical', 'holocaust']",John Boyne,219,2006,4.11,346855,The Boy in the Striped Pajamas,,224,,Ireland
+2004,1892,"['fiction', 'classics', 'highfantasy', 'sciencefictionfantasy', 'epicfantasy']",J.R.R. Tolkien,220,1977,3.88,166811,The Silmarillion,,386,Middle-Earth,South Africa
+2003,1915,"['classics', 'plays', 'fiction', 'historicalfiction', 'drama', 'school', 'readforschool']",Arthur Miller,221,1953,3.55,262303,The Crucible,,143,,The United States
+1999,1922,"['fiction', 'classics', 'sciencefiction', 'literature', 'humor']",Kurt Vonnegut,222,1963,4.18,283114,Cat's Cradle,,306,,The United States
+2005,,"['historicalfiction', 'fiction', 'historical', 'art', 'classics']",Tracy Chevalier,223,1999,3.85,517893,Girl with a Pearl Earring,,233,,The United States
+2004,1890,"['mystery', 'classics', 'fiction', 'crime']",Agatha Christie,224,1934,4.16,216427,Murder on the Orient Express,10,322,Hercule Poirot,The United Kingdom
+2009,,"['youngadult', 'romance', 'fiction', 'supernatural', 'urbanfantasy', 'teen', 'fantasy', 'didnotfinish']",Maggie Stiefvater,225,2009,3.78,379037,Shiver,1,390,The Wolves of Mercy Falls,n The United States
+1998,1950,"['fiction', 'contemporary', 'chicklit']",Wally Lamb,226,1992,3.85,274780,She's Come Undone,,465,,The United States
+2005,1859,"['classics', 'fiction', 'childrens', 'fantasy']",Kenneth Grahame,227,1908,3.98,146170,The Wind in the Willows,,256,,The United Kingdom
+1984,1892,"['nonfiction', 'biography', 'history', 'christian', 'classics', 'memoir']",Corrie ten Boom,228,1971,4.42,189552,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,,242,,Netherlands
+2002,1930,"['poetry', 'childrens', 'fiction']",Shel Silverstein,229,1981,4.34,317090,A Light in the Attic,,176,,The United States
+2005,1957,"['nonfiction', 'memoir', 'animals', 'dogs', 'biography']",John Grogan,230,2005,4.12,391715,Marley and Me: Life and Love With the World's Worst Dog,,291,,The United States
+2010,,"['fantasy', 'youngadult', 'mythology']",Rick Riordan,231,2010,4.35,505081,The Lost Hero,1,557,The Heroes of Olympus,The United States
+1997,,"['fiction', 'india', 'historicalfiction', 'contemporary', 'novels', 'literature', 'indianliterature', 'literaryfiction', 'classics', 'asia']",Arundhati Roy,232,1997,3.92,190000,The God of Small Things,,340,,India
+1999,-750,"['classics', 'fiction', 'poetry', 'mythology']",Homer,233,1999,4.03,52871,The Iliad/The Odyssey,,1556,,n Greece
+2011,,"['fantasy', 'youngadult', 'romance', 'paranormal', 'steampunk']",Cassandra Clare,234,2011,4.46,347803,Clockwork Prince,2,502,The Infernal Devices,Iran
+2001,1883,"['classics', 'fiction', 'literature', 'philosophy', 'germanliterature']",Franz Kafka,235,1925,3.99,168866,The Trial,,255,,Austria-Hungary
+2002,1940,"['horror', 'fiction', 'thriller', 'mystery', 'crime']",Thomas Harris,236,1988,4.15,376107,The Silence of the Lambs ,2,338,Hannibal Lecter,The United States
+2011,,"['fantasy', 'youngadult', 'paranormal', 'romance']",Cassandra Clare,237,2011,4.16,387384,City of Fallen Angels,4,424,The Mortal Instruments,Iran
+2005,,"['youngadult', 'dystopia', 'sciencefiction']",Scott Westerfeld,238,2005,3.86,479908,Uglies,1,425,Uglies,The United States
+2013,1898,"['fiction', 'classics', 'christian', 'religion', 'christianity', 'fantasy', 'theology', 'christianfiction']",C.S. Lewis,239,1942,4.21,250417,The Screwtape Letters,,223,,Ireland
+2007,,"['youngadult', 'vampires', 'fantasy', 'paranormal']",P.C. Cast,240,2007,3.79,380614,Marked,1,306,House of Night,n The United States
+1987,1868,"['horror', 'romance', 'mystery', 'gothic', 'historicalfiction', 'france', 'literature', 'fantasy']",Gaston Leroux,241,1909,3.97,163168,The Phantom of the Opera,,360,,France
+2011,1978,"['historicalfiction', 'adult', 'adultfiction']",Erin Morgenstern,242,2011,4.04,499143,The Night Circus,,400,,The United States
+1998,1947,"['fantasy', 'youngadult', 'fiction', 'romance', 'fairytales', 'childrens']",Gail Carson Levine,243,1997,3.97,354168,Ella Enchanted,,232,,The United States
+1997,1949,"['fiction', 'magicalrealism', 'japan', 'japaneseliterature', 'fantasy']",Haruki Murakami,244,1994,4.17,166786,The Wind-Up Bird Chronicle,,607,,Japan
+1990,1897,"['fiction', 'literature', 'classics', 'american', 'novels']",William Faulkner,245,1929,3.86,136832,The Sound and the Fury,,326,,The United States
+2006,1905,"['nonfiction', 'psychology', 'philosophy', 'history', 'memoir', 'classics']",Viktor E. Frankl,246,1946,4.34,212324,Man's Search for Meaning,,184,,Austria
+2012,,"['youngadult', 'romance', 'dystopia', 'fantasy']",Kiera Cass,247,2012,4.15,584989,The Selection,1,336,The Selection,n The United States
+2008,1973,"['youngadult', 'vampires', 'fantasy', 'romance', 'paranormal']",Stephenie Meyer,248,2008,4.03,139332,Midnight Sun,1,264,Twilight,The United States
+2007,1955,"['fiction', 'christianfiction', 'religion', 'spirituality']",William Paul Young,249,2007,3.74,451221,The Shack,,252,,Canada
+1998,1937,"['fiction', 'classics', 'humor']",Hunter S. Thompson,250,1971,4.09,250447,Fear and Loathing in Las Vegas,,204,,The United States
+1980,1921,"['historicalfiction', 'fiction', 'classics', 'historical']",Alex Haley,251,1976,4.42,125920,Roots: The Saga of an American Family,,729,,The United States
+1999,1922,"['fiction', 'dystopia', 'sciencefiction', 'literature']",José Saramago,252,1995,4.08,140052,Blindness,,326,,Portugal
+1987,1898,"['youngadult', 'fiction', 'historicalfiction', 'classics', 'childrens']",Scott O'Dell,253,1960,3.81,251173,Island of the Blue Dolphins,1,184,Island of the Blue Dolphins,The United States
+1995,1899,"['classics', 'fiction', 'literature', 'historicalfiction', 'war']",Ernest Hemingway,254,1940,3.96,211843,For Whom the Bell Tolls,,471,,The United States
+2002,1948,"['fantasy', 'fiction', 'epicfantasy']",George R.R. Martin,255,1998,4.41,631910,A Clash of Kings ,2,761,A Song of Ice and Fire,The United States
+1991,1907,"['sciencefiction', 'fiction', 'classics', 'sciencefictionfantasy']",Robert A. Heinlein,256,1961,3.91,235694,Stranger in a Strange Land,,528,,The United States
+2005,1958,"['comics', 'humor', 'graphicnovels', 'fiction']",Bill Watterson,257,2005,4.82,30727,The Complete Calvin and Hobbes,,1440,,The United States
+2008,1934,"['historicalfiction', 'fiction', 'historical', 'romance', 'bookclub', 'worldwarii']",Mary Ann Shaffer,258,2008,4.12,435986,The Guernsey Literary and Potato Peel Pie Society,,277,,The United States
+2005,,"['fiction', 'magicalrealism', 'historicalfiction', 'classics', 'fantasy']",Isabel Allende,259,1982,4.2,145191,The House of the Spirits,,448,,Peru
+2012,,"['youngadult', 'dystopia', 'romance']",Lauren Oliver,260,2011,3.99,363880,Delirium,1,441,Delirium,New York
+1999,1950,"['fiction', 'contemporary']",Wally Lamb,261,1998,4.17,262727,I Know This Much Is True,,897,,The United States
+2010,1954,"['fiction', 'mystery', 'thriller', 'crime', 'mysterythriller']",Stieg Larsson,262,2007,4.21,543277,The Girl Who Kicked the Hornet's Nest,3,563,Millennium,Sweden
+2011,1978,"['romance', 'newadult', 'contemporary', 'youngadult', 'contemporaryromance']",Jamie McGuire,263,2011,4.14,456992,Beautiful Disaster,1,319,Beautiful,The United States
+2001,,"['fiction', 'contemporary', 'chicklit']",Janet Fitch,264,1999,3.94,259678,White Oleander,,446,,The United States
+2004,,"['drama', 'fiction', 'classics', 'school', 'theatre', 'readforschool', 'poetry', 'tragedy']",William Shakespeare,265,1603,3.88,263410,Othello,,314,,The United Kingdom
+2004,,"['humor', 'fiction', 'historicalfiction', 'fantasy', 'religion', 'comedy']",Christopher Moore,266,2002,4.26,129407,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",,444,,The United States
+2004,1941,"['horror', 'fantasy', 'vampires', 'fiction', 'paranormal']",Anne Rice,267,1985,4.06,154517,The Vampire Lestat,2,481,The Vampire Chronicles,The United States
+1996,,"['horror', 'fiction', 'fantasy', 'thriller']",Stephen King,268,1996,4.42,198372,The Green Mile,,592,,The United States
+2009,,"['historicalfiction', 'egypt', 'fiction', 'historical']",Ki Longfellow,269,2009,4.46,1871,Flow Down Like Silver: Hypatia of Alexandria,,301,,The United States
+2012,,"['youngadult', 'romance', 'magic']",Sarah J. Maas,270,2012,4.23,365989,Throne of Glass,1,404,Throne of Glass,The United States
+1987,1906,"['fantasy', 'classics', 'fiction', 'historicalfiction', 'arthurian']",T.H. White,271,1958,4.08,84364,The Once and Future King,1,639,The Once and Future King,India
+2004,,"['classics', 'plays', 'drama', 'fiction']",William Shakespeare,272,1603,3.9,151649,King Lear,,316,,The United Kingdom
+2009,1962,"['youngadult', 'dystopia', 'fantasy', 'sciencefiction', 'romance', 'adventure', 'teen', 'postapocalyptic', 'action', 'sciencefictionfantasy']",Suzanne Collins,273,2009,4.3,2038420,Catching Fire,2,391,The Hunger Games,The United States
+2009,,"['youngadult', 'contemporary', 'fiction']",John Green,274,2008,3.87,678239,Paper Towns,,305,,The United States
+2003,1821,"['classics', 'fiction', 'russia', 'russianliterature', 'literature']",Fyodor Dostoyevsky,275,1868,4.18,95860,The Idiot,,667,,Russian Federation
+1997,,"['nonfiction', 'biography', 'adventure', 'travel']",Jon Krakauer,276,1996,3.95,697289,Into the Wild,,207,,The United States
+2005,1964,"['fiction', 'historicalfiction', 'fantasy', 'mystery', 'historical']",Elizabeth Kostova,277,2005,3.77,213119,The Historian,,704,,The United States
+1988,,"['horror', 'fiction', 'thriller', 'suspense']",Stephen King,278,1987,4.12,371412,Misery,,370,,The United States
+2001,4242,"['youngadult', 'fiction', 'contemporary', 'realisticfiction', 'teen', 'highschool', 'school', 'comingofage', 'abuse', 'mentalhealth']",Laurie Halse Anderson,279,1999,4.0,386124,Speak,,208,,The United States
+1999,1811,"['classics', 'fiction', 'historicalfiction', 'literature']",Harriet Beecher Stowe,280,1852,3.84,162154,Uncle Tom's Cabin,,438,,The United States
+2002,1916,"['childrens', 'fantasy', 'fiction', 'classics']",Roald Dahl,281,1961,4.0,301954,James and the Giant Peach,,146,,The United Kingdom
+2003,,"['fantasy', 'fiction', 'urbanfantasy', 'sciencefictionfantasy']",Neil Gaiman,282,1996,4.18,319084,Neverwhere,,300,,
+1995,1913,"['classics', 'fiction', 'literature', 'africanamerican']",Ralph Ellison,283,1952,3.84,131660,Invisible Man,,581,,The United States
+2006,1964,"['fiction', 'mystery', 'historicalfiction', 'gothic', 'booksaboutbooks']",Diane Setterfield,284,2006,3.95,234253,The Thirteenth Tale,,406,,The United Kingdom
+2014,1916,"['nonfiction', 'animals', 'memoir', 'classics', 'biography']",James Herriot,285,1972,4.31,99961,All Creatures Great and Small,,448,,The United Kingdom
+2006,1819,"['fiction', 'classics', 'literature', 'american']",Walt Whitman,286,1855,4.12,69914,Leaves of Grass,,624,,The United States
+2001,1934,"['fantasy', 'youngadult', 'fiction', 'magic', 'romance']",Diana Wynne Jones,287,1986,4.3,147334,Howl's Moving Castle,1,329,Howl's Moving Castle,The United Kingdom
+2005,1958,"['youngadult', 'fantasy', 'fiction']",Cornelia Funke,288,2003,3.86,307987,Inkheart,1,548,Inkworld,Germany
+2000,1913,"['classics', 'fiction', 'youngadult', 'childrens']",Wilson Rawls,289,1961,4.05,287330,Where the Red Fern Grows,,272,,The United States
+1995,,"['horror', 'fiction', 'shortstories', 'thriller']",Stephen King,290,1982,4.34,143367,Different Seasons,,560,,The United States
+2003,1608,"['poetry', 'fiction', 'classics', 'literature', 'religion', 'fantasy']",John Milton,291,1667,3.8,107712,Paradise Lost,,453,,England
+2008,,"['fantasy', 'youngadult', 'romance', 'fiction']",Kristin Cashore,292,2008,4.1,309579,Graceling,1,471,Graceling Realm,he United States
+1991,1694,"['classics', 'fiction', 'philosophy', 'france', 'literature']",Voltaire,293,1759,3.76,178416,Candide,,129,,France
+2012,,"['youngadult', 'fantasy', 'sciencefiction', 'dystopia', 'romance']",Marissa Meyer,294,2012,4.15,492188,Cinder,1,390,The Lunar Chronicles,n The United States
+2000,,"['fiction', 'historicalfiction', 'classics', 'literaryfiction']",John Irving,295,1985,4.11,137563,The Cider House Rules,,973,,The United States
+1990,,"['classics', 'poetry', 'plays', 'fiction']",William Shakespeare,296,1623,4.49,46834,The Complete Works,,1248,,The United Kingdom
+1998,1946,"['school', 'nonfiction', 'literature', 'military']",Tim O'Brien,297,1990,4.12,194540,The Things They Carried,,246,,The United States
+2001,,"['youngadult', 'fiction', 'childrens', 'classics']",Judy Blume,298,1970,3.89,165533,"Are You There God? It's Me, Margaret",,149,,The United States
+2004,1817,"['nonfiction', 'philosophy', 'nature', 'literature', 'memoir', 'biography']",Henry David Thoreau,299,1854,3.79,125050,Walden,,352,,The United States
+2002,1827,"['classics', 'childrens', 'fiction']",Johanna Spyri,300,1881,3.97,156999,Heidi,,352,,Switzerland
+1992,1925,"['fiction', 'classics', 'historicalfiction', 'holocaust', 'war']",William Styron,301,1979,4.19,72647,Sophie's Choice,,562,,The United States
+2006,1850,"['classics', 'fiction', 'feminism', 'school', 'literature']",Kate Chopin,302,1899,3.63,142872,The Awakening,,195,,The United States
+1995,1952,"['philosophy', 'fiction', 'school']",Jostein Gaarder,303,1991,3.89,148700,Sophie's World,,403,,Norway
+2004,1920,"['sciencefiction', 'fiction', 'classics']",Isaac Asimov,304,1951,4.13,311997,Foundation,1,244,Foundation,Russian Federation
+1986,1859,"['classics', 'mystery', 'fiction', 'crime']",Arthur Conan Doyle,305,1927,4.5,130813,The Complete Sherlock Holmes,,1796,,Scotland
+2002,1945,"['southern', 'classics', 'contemporary', 'fiction', 'romance']",Pat Conroy,306,1986,4.23,169275,The Prince of Tides,,679,,The United States
+2004,1963,"['fiction', 'mystery', 'contemporary']",Donna Tartt,307,1992,4.08,200924,The Secret History,,559,,The United States
+2012,,"['fantasy', 'youngadult', 'paranormal', 'romance']",Cassandra Clare,308,2012,4.3,340325,City of Lost Souls,5,534,The Mortal Instruments,Iran
+2002,1866,"['classics', 'sciencefiction', 'fiction', 'timetravel', 'fantasy']",H.G. Wells,309,1895,3.87,317627,The Time Machine,,118,,The United Kingdom
+2004,1931,"['picturebooks', 'childrens', 'fiction']",Jon Stone,310,1971,4.45,108036,The Monster at the End of this Book,,32,,The United States
+2000,1949,"['japaneseliterature', 'romance', 'contemporary', 'literature']",Haruki Murakami,311,1987,4.03,230996,Norwegian Wood,,296,,Japan
+2001,,"['fantasy', 'vampires', 'paranormal', 'urbanfantasy', 'romance', 'fiction', 'mystery']",Charlaine Harris,312,2001,3.96,452999,Dead Until Dark,1,292,Sookie Stackhouse,The United States
+2011,,"['romance', 'fiction']",E.L. James,313,2011,3.86,635151,Fifty Shades Darker,2,532,Fifty Shades,The United Kingdom
+2001,1919,"['fiction', 'classics', 'shortstories', 'literature', 'american', 'novels', '20thcentury', 'literaryfiction', 'adultfiction', 'philosophy']",J.D. Salinger,314,1961,3.98,166013,Franny and Zooey,,201,,The United States
+2002,1944,"['fiction', 'historicalfiction', 'glbt', 'chicklit', 'classics', 'southern']",Fannie Flagg,315,1987,4.26,224872,Fried Green Tomatoes at the Whistle Stop Cafe,,416,,The United States
+2006,1949,"['fiction', 'magicalrealism', 'japan', 'fantasy', 'japaneseliterature', 'contemporary']",Haruki Murakami,316,2002,4.13,207260,Kafka on the Shore,,480,,Japan
+1999,,"['chicklit', 'fiction', 'romance', 'humor', 'contemporary']",Helen Fielding,317,1996,3.75,777060,Bridget Jones's Diary,1,288,Bridget Jones,The United Kingdom
+1996,1933,"['fiction', 'historicalfiction', 'africa', 'classics']",Bryce Courtenay,318,1989,4.34,63297,The Power of One,1,544,The Power of One,South Africa
+2004,1819,"['classics', 'fiction', 'literature', 'historicalfiction']",George Eliot,319,1871,3.94,111373,Middlemarch,,904,,The United Kingdom
+2011,,"['fantasy', 'youngadult', 'mythology']",Rick Riordan,320,2011,4.44,329621,The Son of Neptune,2,521,The Heroes of Olympus,The United States
+1994,1930,"['fiction', 'classics', 'africa', 'historicalfiction', 'school', 'literature']",Chinua Achebe,321,1958,3.62,222052,Things Fall Apart,1,209,The African Trilogy,Nigeria
+2011,,"['fantasy', 'fiction', 'epicfantasy']",Patrick Rothfuss,322,2011,4.57,299431,The Wise Man's Fear,2,994,The Kingkiller Chronicle,The United States
+2005,1898,"['youngadult', 'childrens', 'adventure', 'christian', 'classics']",C.S. Lewis,323,1955,4.02,315030,The Magician's Nephew,6,221,Chronicles of Narnia,Ireland
+2002,1882,"['classics', 'fiction', 'literature', 'novels', 'britishliterature']",Virginia Woolf,324,1923,3.78,168396,Mrs. Dalloway,,194,,The United Kingdom
+2012,,"['erotica', 'fiction', 'bdsm', 'adult', 'contemporary']",E.L. James,325,2012,3.88,621083,Fifty Shades Freed,3,579,Fifty Shades,The United Kingdom
+2006,,['fantasy'],Neil Gaiman,326,1998,4.08,286418,Stardust,,248,,
+2006,1950,"['historicalfiction', 'fiction', 'historical', 'romance', 'civilwar']",Charles Frazier,327,1997,3.84,194669,Cold Mountain,,449,,The United States
+2004,,"['fiction', 'mystery', 'thriller', 'crime', 'suspense', 'legalthriller']",John Grisham,328,1989,4.04,622636,A Time to Kill,,515,,The United States
+1996,1775,"['romance', 'classics', 'historicalfiction', 'fiction']",Jane Austen,329,1813,4.55,23054,The Complete Novels,,1344,,England
+2005,1963,"['fiction', 'contemporary', 'bookclub', 'literaryfiction']",Ann Patchett,330,2001,3.92,205903,Bel Canto,,352,,The United States
+2013,,"['youngadult', 'contemporary', 'romance', 'fiction']",Rainbow Rowell,331,2013,4.11,402434,Fangirl,,481,,The United States
+2004,1951,"['history', 'nonfiction', 'science', 'humor', 'audiobook', 'popularscience', 'physics', 'historical', 'philosophy', 'abandoned']",Bill Bryson,332,2003,4.19,215874,A Short History of Nearly Everything,,544,,The United States
+2009,,"['youngadult', 'romance', 'contemporary', 'fiction']",Gayle Forman,333,2009,3.96,592879,If I Stay,1,201,If I Stay,
+2003,1667,"['fantasy', 'adventure', 'literature', 'novels']",Jonathan Swift,334,1726,3.56,194186,Gulliver's Travels,,306,,Ireland
+2010,1954,"['fiction', 'sciencefiction', 'dystopia']",Kazuo Ishiguro,335,2005,3.8,342500,Never Let Me Go,,288,,Japan
+2013,,"['youngadult', 'dystopia', 'fiction', 'sciencefiction']",Veronica Roth,336,2013,3.63,684994,Allegiant,3,526,Divergent,n The United States
+2008,,"['fiction', 'animals', 'dogs', 'contemporary', 'adultfiction']",Garth Stein,337,2006,4.19,365844,The Art of Racing in the Rain,,321,,
+6326,,"['religion', 'islam', 'nonfiction', 'classics', 'philosophy']",Allah,338,6326,4.34,45536,The Qur'an / القرآن الكريم,,604,,
+1998,,"['historicalfiction', 'fiction', 'classics', 'childrens', 'historical', 'holocaust', 'youngadult']",Lois Lowry,339,1989,4.12,351491,Number the Stars,,137,,The United States
+2003,1882,"['classics', 'fiction', 'literature', 'irishliterature']",James Joyce,340,1916,3.61,106268,A Portrait of the Artist as a Young Man,,329,,Ireland
+2014,,"['mystery', 'crime', 'fiction', 'contemporary', 'thriller']",Gillian Flynn,341,2012,4.04,1702917,Gone Girl,,415,,The United States
+2003,1820,"['classics', 'fiction', 'childrens', 'animals', 'youngadult', 'horses', 'historicalfiction', 'literature', 'adventure', 'middlegrade']",Anna Sewell,342,1877,3.95,200723,Black Beauty,,245,,The United Kingdom
+1997,1916,"['childrens', 'fantasy', 'fiction']",Roald Dahl,343,1983,4.17,245265,The Witches,,208,,The United Kingdom
+2011,,"['youngadult', 'romance', 'fantasy', 'sciencefiction', 'fiction', 'adventure']",Marie Lu,344,2011,4.19,334367,Legend,1,305,Legend,China
+1995,1945,"['picturebooks', 'childrens']",Robert Munsch,345,1986,4.35,168487,Love You Forever,,32,,The United States
+2001,1859,"['classics', 'mystery', 'fiction', 'crime', 'detective', 'thriller', 'britishliterature', 'mysterythriller', 'literature', 'novels']",Arthur Conan Doyle,346,1902,4.09,186342,The Hound of the Baskervilles,,256,,Scotland
+2009,,"['youngadult', 'fantasy', 'paranormal', 'romance']",Kami Garcia,347,2009,3.76,472184,Beautiful Creatures,1,563,Caster Chronicles,The United States
+1993,1929,"['nonfiction', 'history', 'biography', 'memoir', 'classics']",Anne Frank,348,1947,4.11,2125780,The Diary of a Young Girl,,283,,Germany
+2005,,"['graphicnovels', 'comics', 'fiction', 'dystopia', 'sciencefiction', 'graphicnovelscomics', 'comicbook', 'classics', 'politics', 'fantasy']",Alan Moore,349,1990,4.25,224342,V for Vendetta,,296,,The United Kingdom
+2005,,"['fiction', 'didnotfinish', 'paranormalromance', 'adultfiction']",J.R. Ward,350,2005,4.21,247604,Dark Lover,1,393,Black Dagger Brotherhood,he United States
+2007,1983,"['youngadult', 'fantasy', 'dragons']",Christopher Paolini,351,2005,3.96,281507,Eldest,2,704,The Inheritance Cycle,The United States
+2012,,"['fantasy', 'youngadult', 'mythology']",Rick Riordan,352,2012,4.46,326912,The Mark of Athena,3,586,The Heroes of Olympus,The United States
+2003,1926,"['classics', 'youngadult', 'school', 'literature', 'readforschool']",John Knowles,353,1959,3.56,165856,A Separate Peace,,204,,The United States
+2004,1809,"['classics', 'horror', 'fiction', 'shortstories', 'school', 'fantasy', 'readforschool']",Edgar Allan Poe,354,1982,4.15,199221,The Tell-Tale Heart and Other Writings,,448,,The United States
+2003,,"['fantasy', 'fiction', 'horror', 'sciencefiction']",Stephen King,355,1982,3.98,396510,The Gunslinger,1,231,The Dark Tower,The United States
+2001,1876,"['fiction', 'adventure', 'youngadult', 'historicalfiction', 'literature', 'childrens']",Jack London,356,1906,3.94,118657,White Fang,,252,,The United States
+2006,1918,"['fiction', 'youngadult', 'classics', 'contemporary', 'realisticfiction']",Beatrice Sparks,357,1971,3.76,209405,Go Ask Alice,,213,,The United States
+1996,1928,"['sciencefiction', 'dystopia', 'sciencefictionfantasy', 'cyberpunk', 'fantasy', 'fiction', 'classics', 'novels', 'postapocalyptic', 'american']",Philip K. Dick,358,1968,4.08,257834,Do Androids Dream of Electric Sheep?,,244,,The United States
+2013,,"['youngadult', 'romance', 'contemporary', 'fiction']",Rainbow Rowell,359,2013,4.1,622429,Eleanor &amp; Park,,328,,The United States
+2001,,"['classics', 'fiction', 'fantasy', 'literature', 'school', 'mythology']",Unknown,360,2001,3.42,187480,Beowulf,,213,,
+1991,1897,"['classics', 'fiction', 'literature', 'american']",William Faulkner,361,1930,3.72,114137,As I Lay Dying,,267,,The United States
+2003,1775,"['fiction', 'romance', 'classics', 'literature', 'historicalfiction']",Jane Austen,362,1814,3.84,233990,Mansfield Park,,560,,England
+2008,,"['fantasy', 'youngadult', 'fiction', 'horror', 'paranormal', 'childrens']",Neil Gaiman,363,2008,4.12,342559,The Graveyard Book,,312,,
+1985,1932,"['fantasy', 'youngadult', 'classics', 'fiction', 'childrens']",Natalie Babbitt,364,1975,3.86,189102,Tuck Everlasting,,139,,The United States
+2006,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,365,2006,4.02,468637,Dear John,,276,,The United States
+2010,,"['youngadult', 'angels', 'fantasy', 'paranormal', 'romance']",Becca Fitzpatrick,366,2010,4.07,239587,Crescendo,2,427,Hush Hush,
+2000,1963,"['fiction', 'historicalfiction', 'literature', 'novels']",Michael Chabon,367,2000,4.17,160950,The Amazing Adventures of Kavalier &amp; Clay,,639,,The United States
+2000,1873,"['classics', 'fiction', 'historicalfiction', 'literature']",Willa Cather,368,1918,3.77,103948,My Ántonia,3,232,Great Plains Trilogy,The United States
+1995,,"['nonfiction', 'memoir', 'psychology', 'autobiography']",Dave Pelzer,369,1995,4.09,326520,A Child Called &quot;It&quot;,1,184,Dave Pelzer,The United States
+2008,1983,"['fantasy', 'youngadult', 'dragons', 'fiction']",Christopher Paolini,370,2008,4.03,235238,Brisingr,3,748,The Inheritance Cycle,The United States
+2009,,"['romance', 'fiction', 'chicklit', 'contemporary', 'youngadult']",Nicholas Sparks,371,2008,4.14,451078,The Last Song,,390,,The United States
+2000,,"['thriller', 'mystery', 'crime', 'suspense', 'legalthriller', 'mysterythriller']",Robin A.H. Waterfield,372,1991,3.99,498635,The Firm,,496,,he United Kingdom
+2006,1943,"['historicalfiction', 'fiction', 'classics', 'romance', 'canada']",Michael Ondaatje,373,1992,3.88,94298,The English Patient,,320,,Sri Lanka
+1995,1947,"['fiction', 'india', 'magicalrealism', 'classics', 'historicalfiction', 'fantasy', 'literature']",Salman Rushdie,374,1981,3.99,87319,Midnight's Children,,647,,India
+2002,1941,"['youngadult', 'fiction', 'realisticfiction', 'romance', 'contemporary']",Jerry Spinelli,375,2000,3.75,253276,Stargirl,1,186,Stargirl,The United States
+2012,,"['youngadult', 'paranormal', 'romance', 'fantasy', 'aliens', 'sciencefiction', 'paranormalromance']",Jennifer L. Armentrout,376,2011,4.23,182818,Obsidian,1,335,Lux,The United States
+2003,1948,"['nonfiction', 'holocaust', 'graphicnovels', 'comics', 'graphicnovelscomics', 'classics']",Art Spiegelman,377,1986,4.53,89489,The Complete Maus,1,296,Maus,Sweden
+2006,1928,"['philosophy', 'fiction', 'classics', 'spirituality']",Robert M. Pirsig,378,1974,3.76,160192,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,,540,,The United States
+1989,,"['classics', 'philosophy', 'china', 'nonfiction']",Lao Tzu,379,1989,4.32,83745,Tao Te Ching,,160,,hina
+1984,1920,"['sciencefiction', 'fiction', 'classics', 'shortstories']",Ray Bradbury,380,1950,4.13,163085,The Martian Chronicles,,182,,The United States
+1993,1950,"['fiction', 'romance', 'magicalrealism', 'historicalfiction', 'classics', 'fantasy', 'food']",Laura Esquivel,381,1989,3.94,290419,Like Water for Chocolate,,224,,Mexico
+1997,1890,"['classics', 'fiction', 'historicalfiction', 'russia', 'russianliterature']",Boris Pasternak,382,1957,4.03,67722,Doctor Zhivago,,592,,Russian Federation
+1990,1948,"['fantasy', 'fiction', 'epicfantasy', 'sciencefictionfantasy']",Robert Jordan,383,1990,4.18,286493,The Eye of the World,1,814,Wheel of Time,The United States
+1993,1924,"['classics', 'fiction', 'shortstories']",Truman Capote,384,1958,3.9,168032,Breakfast at Tiffany's,,142,,The United States
+1999,1877,"['fiction', 'classics', 'philosophy', 'germanliterature', 'literature']",Hermann Hesse,385,1927,4.11,101848,Steppenwolf,,256,,Germany
+2010,1962,"['youngadult', 'dystopia', 'fiction', 'fantasy', 'sciencefiction']",Suzanne Collins,386,2010,4.03,1921947,Mockingjay,3,392,The Hunger Games,The United States
+2001,,"['classics', 'fiction', 'adventure', 'literature']",Daniel Defoe,387,1719,3.66,203874,Robinson Crusoe,,320,,England
+2003,1946,"['fantasy', 'youngadult', 'fiction']",Philip Pullman,388,2000,4.07,226434,The Amber Spyglass,3,467,His Dark Materials,The United Kingdom
+2009,,"['youngadult', 'fantasy', 'paranormal', 'romance']",Alyson Noel,389,2009,3.59,240254,Evermore,1,301,The Immortals,The United States
+2003,1265,"['classics', 'poetry', 'fiction', 'literature', 'religion', 'school', 'fantasy', 'italianliterature', 'philosophy', 'medieval']",Dante Alighieri,390,1320,3.99,113906,Inferno,1,490,The Divine Comedy,Italy
+2012,,"['romance', 'fiction', 'audiobook']",Jojo Moyes,391,2012,4.27,782415,Me Before You,1,369,Me Before You,The United Kingdom
+1991,,"['horror', 'vampires', 'thriller', 'paranormal']",Stephen King,392,1975,3.99,254722,'Salem's Lot,,483,,The United States
+2001,,"['historicalfiction', 'romance', 'fantasy', 'fiction', 'timetravel', 'historical']",Diana Gabaldon,393,1992,4.31,221352,Dragonfly in Amber,2,743,Outlander,The United States
+2006,,"['youngadult', 'fantasy', 'sciencefiction']",James Patterson,394,2005,4.08,187511,The Angel Experiment,1,413,Maximum Ride,The United States
+2001,1802,"['classics', 'fiction', 'historicalfiction', 'france']",Victor Hugo,395,1831,3.98,139417,The Hunchback of Notre-Dame,,510,,France
+2004,1809,"['science', 'nonfiction', 'classics', 'biology', 'evolution', 'philosophy']",Charles Darwin,396,1859,3.98,78846,The Origin of Species,,703,,England
+2011,,"['youngadult', 'dystopia', 'romance', 'fantasy']",Tahereh Mafi,397,2011,4.0,209230,Shatter Me,1,338,Shatter Me,he United States
+2001,1952,"['fiction', 'historicalfiction', 'canada']",Rohinton Mistry,398,1995,4.35,107097,A Fine Balance,,603,,India
+1952,1911,"['plays', 'classics', 'drama', 'fiction', 'school']",Tennessee Williams,399,1947,3.97,221296,A Streetcar Named Desire,,107,,The United States
+2008,,"['africa', 'travel', 'nonfiction', 'history', 'adventure', 'memoir']",Tim Butcher,400,2007,4.05,5755,Blood River: A Journey to Africa's Broken Heart,,384,,The United Kingdom
+2004,1969,"['sciencefiction', 'fiction', 'historicalfiction', 'dystopia']",David Mitchell,401,2004,4.01,177631,Cloud Atlas,,509,,The United Kingdom
+2001,1916,"['fantasy', 'childrens', 'classics']",Roald Dahl,402,1982,4.22,278756,The BFG,,195,,The United Kingdom
+1994,1915,"['school', 'classics', 'theatre', 'readforschool', 'highschool']",Arthur Miller,403,1949,3.49,151930,Death of a Salesman,,144,,The United States
+1997,1946,"['youngadult', 'fiction', 'childrens', 'sciencefiction']",Philip Pullman,404,1997,4.11,281794,The Subtle Knife,2,326,His Dark Materials,The United Kingdom
+2006,,"['historicalfiction', 'fiction', 'china', 'historical', 'asia']",Lisa See,405,2005,4.06,298604,Snow Flower and the Secret Fan,,269,,France
+2010,,"['fiction', 'contemporary', 'adult', 'adultfiction']",Emma Donoghue,406,2010,4.04,578801,Room,,321,,Ireland
+1988,1749,"['classics', 'fiction', 'plays', 'poetry', 'germanliterature', 'drama']",Johann Wolfgang von Goethe,407,1808,3.93,50492,Faust: First Part,,327,,Germany
+1999,1922,"['classics', 'sciencefiction', 'humor', 'literature', 'novels']",Kurt Vonnegut,408,1973,4.08,191718,Breakfast of Champions,,303,,The United States
+1999,1939,"['nonfiction', 'mystery', 'truecrime', 'crime']",John Berendt,409,1994,3.9,181043,Midnight in the Garden of Good and Evil,,386,,The United States
+2002,1935,"['fiction', 'contemporary', 'literature', 'canada', 'literaryfiction', 'novels', 'classics', 'american', 'adultfiction', 'abandoned']",Annie Proulx,410,1993,3.84,112673,The Shipping News,,352,,The United States
+2011,,"['horror', 'fantasy', 'fiction', 'mystery', 'magicalrealism', 'literature']",Ki Longfellow,411,2011,4.25,1741,Houdini Heart,,254,,The United States
+1991,1964,"['fiction', 'horror', 'classics', 'thriller', 'crime']",Bret Easton Ellis,412,1991,3.81,184422,American Psycho,,399,,The United States
+2010,,"['youngadult', 'romance', 'contemporary', 'chicklit']",Stephanie Perkins,413,2010,4.06,299814,Anna and the French Kiss,1,372,Anna and the French Kiss,
+1905,1865,"['historicalfiction', 'fiction', 'classics', 'adventure', 'romance', 'historical', 'mystery']",Emmuska Orczy,414,1905,4.06,105987,The Scarlet Pimpernel,,204,,Hungary
+2005,1962,"['fiction', 'abandoned', 'classics', 'literature', 'novels']",David Foster Wallace,415,1996,4.31,59331,Infinite Jest,,1088,,The United States
+2005,1957,"['fiction', 'humor', 'romance', 'music']",Nick Hornby,416,1995,3.94,153784,High Fidelity,,340,,The United Kingdom
+2011,,"['sciencefiction', 'fiction', 'youngadult', 'dystopia', 'fantasy', 'audiobook', 'adventure', 'sciencefictionfantasy', 'cyberpunk', 'adult']",Ernest Cline,417,2011,4.31,486998,Ready Player One,1,374,Ready Player One,The United States
+2003,1469,"['classics', 'philosophy', 'nonfiction', 'politics', 'history']",Niccolò Machiavelli,418,1532,3.78,190152,The Prince,,140,,Italy
+2012,,"['romance', 'newadult', 'youngadult', 'contemporary']",Colleen Hoover,419,2012,4.33,216307,Hopeless,1,410,Hopeless,
+2011,,"['fantasy', 'youngadult', 'romance', 'paranormal', 'angels']",Laini Taylor,420,2011,4.04,241229,Daughter of Smoke &amp; Bone,1,422,Daughter of Smoke &amp; Bone,
+1987,1929,"['fiction', 'classics', 'historicalfiction', 'youngadult', 'jewish', 'religion', 'literature', 'school', 'judaism', 'novels']",Chaim Potok,421,1967,4.04,74743,The Chosen,,304,,The United States
+1991,1913,"['fiction', 'classics', 'france', 'literature', 'frenchliterature']",Albert Camus,422,1947,3.97,116223,The Plague,,308,,Algeria
+2010,,"['youngadult', 'dystopia', 'romance']",Ally Condie,423,2010,3.68,550524,Matched,1,369,Matched,he United States
+1997,1944,"['fiction', 'historicalfiction', 'holocaust', 'germanliterature']",Bernhard Schlink,424,1995,3.73,145460,The Reader,,216,,Germany
+2006,,"['fantasy', 'fiction', 'epicfantasy', 'highfantasy']",Brandon Sanderson,425,2006,4.43,254739,The Final Empire,1,541,Mistborn,The United States
+1979,1923,"['fiction', 'horror', 'youngadult', 'mystery']",V.C. Andrews,426,1979,3.8,126140,Flowers in the Attic,1,389,Dollanganger,The United States
+2007,,"['fiction', 'contemporary', 'chicklit', 'adult', 'adultfiction', 'realisticfiction']",Jodi Picoult,427,2007,4.1,259058,Nineteen Minutes,,440,,The United States
+2008,1965,"['fantasy', 'youngadult', 'fiction', 'shortstories']",J.K. Rowling,428,2007,4.07,330957,The Tales of Beedle the Bard,,109,,The United Kingdom
+2007,,"['youngadult', 'romance', 'supernatural', 'fiction', 'fantasy']",P.C. Cast,429,2007,3.93,215772,Betrayed,2,310,House of Night,n The United States
+2005,1954,"['fiction', 'historicalfiction', 'classics', 'literature', 'historical', 'literaryfiction']",Kazuo Ishiguro,430,1989,4.11,134672,The Remains of the Day,,258,,Japan
+2010,,"['fantasy', 'fiction', 'epicfantasy', 'highfantasy', 'sciencefictionfantasy', 'epic', 'magic', 'audiobook', 'adult', 'adventure']",Brandon Sanderson,431,2010,4.64,179768,The Way of Kings,1,1007,The Stormlight Archive,The United States
+2014,,"['fantasy', 'youngadult', 'paranormal', 'romance']",Cassandra Clare,432,2014,4.48,215004,City of Heavenly Fire,6,725,The Mortal Instruments,Iran
+2002,1960,"['fiction', 'youngadult']",Jeffrey Eugenides,433,1993,3.83,189395,The Virgin Suicides,,250,,The United States
+2010,1967,"['nonfiction', 'history', 'biography', 'war', 'worldwarii', 'historical']",Laura Hillenbrand,434,2010,4.39,562829,"Unbroken: A World War II Story of Survival, Resilience and Redemption",,473,,The United States
+1992,1933,"['fiction', 'westerns', 'historicalfiction', 'literature', 'classics', 'novels']",Cormac McCarthy,435,1985,4.18,83030,"Blood Meridian, or the Evening Redness in the West",,337,,The United States
+2006,1959,"['fantasy', 'fiction', 'historicalfiction', 'historical', 'magic', 'abandoned', 'sciencefictionfantasy', 'alternatehistory', 'audiobook', 'unfinished']",Susanna Clarke,436,2004,3.81,161347,Jonathan Strange &amp; Mr Norrell,,1006,,The United Kingdom
+2008,,"['youngadult', 'vampires', 'fantasy', 'paranormal']",P.C. Cast,437,2008,3.95,200481,Untamed,4,338,House of Night,n The United States
+2003,1965,"['fantasy', 'youngadult', 'fiction', 'childrens']",Eoin Colfer,438,2001,3.83,411484,Artemis Fowl,1,316,Artemis Fowl,Ireland
+2011,1948,"['fantasy', 'fiction', 'epicfantasy', 'sciencefictionfantasy']",George R.R. Martin,439,2005,4.11,500244,A Feast for Crows,4,1061,A Song of Ice and Fire,The United States
+2004,1862,"['fiction', 'classics', 'historicalfiction', 'romance', 'literature']",Edith Wharton,440,1920,3.93,118199,The Age of Innocence,,305,,The United States
+2006,,"['paranormal', 'paranormalromance', 'romance', 'vampires', 'urbanfantasy']",J.R. Ward,441,2006,4.45,145160,Lover Awakened,3,434,Black Dagger Brotherhood,he United States
+2005,1892,"['adventure', 'sciencefictionfantasy']",J.R.R. Tolkien,442,1955,4.48,452784,The Lord of the Rings,1,1216,The Lord of the Rings,South Africa
+1984,1948,"['sciencefiction', 'fiction', 'cyberpunk']",William Gibson,443,1984,3.88,209053,Neuromancer,1,271,Sprawl,The United States
+2000,1888,"['classics', 'fiction', 'literature', '20thcentury', 'american', 'school', 'britishliterature', 'poetry', 'readforschool', 'college']",T.S. Eliot,444,1922,4.11,33363,The Waste Land,,320,,The United States
+2005,,"['religion', 'novels', 'christian']",Francine Rivers,445,1991,4.49,166862,Redeeming Love,,464,,n The United States
+2005,1907,"['childrens', 'classics', 'fiction']",Astrid Lindgren,446,1945,4.11,135351,Pippi Longstocking,,160,,Sweden
+2013,,"['youngadult', 'fiction', 'realisticfiction', 'contemporary', 'middlegrade']",R.J. Palacio,447,2012,4.44,443853,Wonder,,410,,
+2004,,"['fiction', 'chicklit', 'contemporary']",Rebecca Wells,448,1996,3.8,477140,Divine Secrets of the Ya-Ya Sisterhood,,383,,n The United States
+2002,1902,"['classics', 'fiction', 'literature', 'school']",John Steinbeck,449,1947,3.42,152070,The Pearl,,96,,The United States
+2003,1850,"['classics', 'fiction', 'horror', 'sciencefiction', 'mystery', 'gothic', 'fantasy', 'literature', '19thcentury', 'school']",Robert Louis Stevenson,450,1886,3.79,274918,The Strange Case of Dr. Jekyll and Mr. Hyde,,144,,Scotland
+2004,1952,"['fiction', 'india', 'travel', 'adventure']",Gregory David Roberts,451,2003,4.26,117922,Shantaram,,936,,Australia
+2003,,"['nonfiction', 'history', 'truecrime', 'crime']",Erik Larson,452,2003,3.99,364867,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",,447,,The United States
+2008,,"['youngadult', 'vampires', 'fantasy', 'paranormal']",P.C. Cast,453,2008,3.91,196701,Chosen,3,307,House of Night,n The United States
+2001,1956,"['humor', 'nonfiction', 'memoir', 'essays', 'shortstories']",David Sedaris,454,2000,3.97,528808,Me Talk Pretty One Day,,272,,The United States
+2005,1775,"['classics', 'fiction', 'romance']",Jane Austen,455,1817,3.8,241865,Northanger Abbey,,251,,England
+2003,1878,"['classics', 'fiction', 'historicalfiction', 'literature']",Upton Sinclair,456,1906,3.72,112117,The Jungle,,335,,The United States
+2009,,"['fiction', 'mystery', 'thriller', 'suspense']",Dan Brown,457,2009,3.67,421478,The Lost Symbol,3,509,Robert Langdon,The United States
+2001,1882,"['classics', 'fiction', 'shortstories', 'literature', 'ireland']",James Joyce,458,1914,3.86,95206,Dubliners,,207,,Ireland
+2007,1965,"['fantasy', 'youngadult', 'fiction']",J.K. Rowling,459,1998,4.74,211287,Harry Potter Boxset,1,4100,Harry Potter,The United Kingdom
+1995,1956,"['fiction', 'historicalfiction', 'mystery', 'historical']",David Guterson,460,1994,3.81,141177,Snow Falling on Cedars,,460,,The United States
+2007,1973,"['youngadult', 'fantasy', 'vampires', 'romance']",Stephenie Meyer,461,2007,3.79,42672,The Twilight Collection,1,1690,Twilight,The United States
+2011,1906,"['plays', 'classics', 'drama', 'fiction', 'theatre', 'literature']",Samuel Beckett,462,1952,3.82,120547,Waiting for Godot,,109,,Ireland
+2003,,"['fiction', 'historicalfiction', 'contemporary', 'novels']",Jonathan Safran Foer,463,2002,3.9,147605,Everything Is Illuminated,,276,,The United States
+2011,1979,"['fantasy', 'youngadult', 'fiction', 'paranormal']",Ransom Riggs,464,2011,3.89,724620,Miss Peregrine’s Home for Peculiar Children,1,352,Miss Peregrine’s Peculiar Children,n The United States
+2014,,"['sciencefiction', 'fiction']",Andy Weir,465,2012,4.4,565331,The Martian,,369,,he United States
+1989,1882,"['classics', 'fiction', 'literature', 'novels']",Virginia Woolf,466,1927,3.76,99391,To the Lighthouse,,209,,The United Kingdom
+2006,1898,"['classics', 'youngadult', 'childrens', 'adventure']",C.S. Lewis,467,1952,4.08,335293,The Voyage of the Dawn Treader,3,248,Chronicles of Narnia,Ireland
+1989,1895,"['historicalfiction', 'fiction', 'classics', 'historical', 'literature']",Robert Graves,468,1934,4.27,43576,"I, Claudius",1,468,Claudius,The United Kingdom
+2002,1902,"['classics', 'fiction', 'historicalfiction', 'literature']",John Steinbeck,469,1952,4.35,347703,East of Eden,,601,,The United States
+2011,,"['fiction', 'historicalfiction', 'sciencefiction', 'timetravel', 'fantasy']",Stephen King,470,2011,4.29,318719,11/22/63,,849,,The United States
+2005,1879,"['classics', 'fiction', 'romance', 'literature', 'historicalfiction']",E.M. Forster,471,1908,3.91,124600,A Room with a View,,119,,The United Kingdom
+2010,,"['youngadult', 'romance', 'paranormal', 'fae', 'fairies', 'urbanfantasy', 'adventure']",Julie Kagawa,472,2010,3.92,166507,The Iron King,1,363,The Iron Fey,
+2005,1898,"['fiction', 'classics', 'fantasy', 'youngadult', 'childrens']",C.S. Lewis,473,1956,4.03,179667,The Last Battle,7,224,Chronicles of Narnia,Ireland
+2011,,"['youngadult', 'vampires', 'fantasy', 'paranormal']",Richelle Mead,474,2011,4.22,149618,Bloodlines,1,421,Bloodlines,
+2011,1948,"['fantasy', 'fiction', 'epicfantasy']",George R.R. Martin,475,2011,4.31,442704,A Dance with Dragons,5,1125,A Song of Ice and Fire,The United States
+2004,1920,"['sciencefiction', 'fiction', 'classics', 'shortstories', 'sciencefictionfantasy']",Isaac Asimov,476,1950,4.18,216169,"I, Robot",0,224,Robot,Russian Federation
+2006,1812,"['classics', 'fiction', 'literature', '19thcentury']",Charles Dickens,477,1853,4.0,78935,Bleak House,,1017,,England
+2013,,"['fantasy', 'youngadult', 'mythology', 'adventure']",Rick Riordan,478,2013,4.55,186869,The House of Hades,4,597,The Heroes of Olympus,The United States
+1993,1928,"['nonfiction', 'classics', 'memoir', 'biography', 'autobiography']",Maya Angelou,479,1969,4.2,299585,I Know Why the Caged Bird Sings,,246,,The United States
+1982,1903,"['classics', 'fiction', 'historicalfiction', 'literature', 'britishliterature']",Evelyn Waugh,480,1945,4.0,78812,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder,,351,,The United Kingdom
+2001,,"['historicalfiction', 'romance', 'fantasy', 'fiction', 'timetravel', 'historical']",Diana Gabaldon,481,1993,4.38,196355,Voyager,3,870,Outlander,The United States
+2010,,"['youngadult', 'fantasy', 'angels', 'paranormal', 'romance']",Lauren Kate,482,2010,3.89,186311,Torment,2,452,Fallen,n The United States
+2016,,"['fantasy', 'romance', 'youngadult', 'newadult']",Sarah J. Maas,483,2016,4.71,150899,A Court of Mist and Fury,2,626,A Court of Thorns and Roses,The United States
+2005,,"['fiction', 'paranormal', 'fantasy', 'classics']",Stephen King,484,1974,3.93,391814,Carrie,,253,,The United States
+2003,1811,"['classics', 'fiction', 'historicalfiction', 'literature']",William Makepeace Thackeray,485,1847,3.77,101063,Vanity Fair,,867,,India
+1994,1928,"['horror', 'fiction', 'classics', 'paranormal', 'thriller']",William Peter Blatty,486,1971,4.14,137937,The Exorcist,,385,,The United States
+2000,1905,"['fiction', 'classics', 'war', 'historicalfiction', 'literature', 'horror']",Dalton Trumbo,487,1939,4.16,28157,Johnny Got His Gun,,309,,The United States
+2009,,"['youngadult', 'paranormal', 'romance', 'urbanfantasy', 'vampires', 'angels']",Cassandra Clare,488,2009,4.57,59159,The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass,1,1520,The Mortal Instruments,Iran
+2006,,"['nonfiction', 'religion', 'science', 'philosophy', 'atheism']",Richard Dawkins,489,2006,3.9,184935,The God Delusion,,374,,Kenya
+2007,,"['nonfiction', 'memoir', 'biography', 'travel']",Greg Mortenson,490,2006,3.64,294778,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,,349,,The United States
+1976,1830,"['classics', 'poetry', 'fiction']",Emily Dickinson,491,1890,4.21,62812,The Complete Poems of Emily Dickinson,,716,,The United States
+2014,2007,"['romance', 'erotica', 'contemporary', 'adult', 'contemporaryromance']",Sylvia Day,492,2012,4.19,396278,Bared to You,1,334,Crossfire,The United States
+2004,1941,"['horror', 'fantasy', 'fiction', 'paranormal', 'witches']",Anne Rice,493,1990,4.11,90050,The Witching Hour,1,1207,Lives of the Mayfair Witches,The United States
+2003,,"['fantasy', 'youngadult', 'historical', 'paranormal', 'historicalfiction', 'romance', 'magic']",Libba Bray,494,2003,3.79,185023,A Great and Terrible Beauty,1,403,Gemma Doyle,The United States
+2007,,"['paranormal', 'romance', 'vampires', 'adult', 'fantasy', 'urbanfantasy']",Jeaniene Frost,495,2007,4.18,116739,Halfway to the Grave,1,358,Night Huntress,n The United States
+2008,,"['romance', 'youngadult', 'contemporary', 'realisticfiction']",Simone Elkeles,496,2008,4.07,211439,Perfect Chemistry,1,368,Perfect Chemistry,The United States
+2000,,"['romance', 'magicalrealism', 'fiction', 'france', 'fantasy']",Joanne Harris,497,1999,3.95,95557,Chocolat,1,306,Chocolat,The United Kingdom
+1994,1810,"['classics', 'fiction', 'romance', 'historicalfiction', '19thcentury']",Elizabeth Gaskell,498,1855,4.13,112110,North and South,,521,,The United Kingdom
+2007,1874,"['classics', 'fiction', 'literature']",W. Somerset Maugham,499,1915,4.12,39670,Of Human Bondage,,684,,France
+2003,-428,"['philosophy', 'classics', 'nonfiction', 'politics', 'history']",Plato,500,2003,3.91,129524,The Republic,,416,,Greece
+2014,,"['youngadult', 'romance', 'dystopia', 'fantasy']",Kiera Cass,501,2014,4.21,252346,The One,3,323,The Selection,n The United States
+2003,1903,"['fiction', 'classics', 'africa', 'historicalfiction', 'literature', 'southafrica']",Alan Paton,502,1948,3.87,55339,"Cry, the Beloved Country",,316,,South Africa
+2003,,"['fantasy', 'fiction', 'epicfantasy', 'highfantasy']",Terry Goodkind,503,1994,4.13,194377,Wizard's First Rule,1,836,Sword of Truth,The United States
+2006,,"['apocalyptic', 'abandoned', 'speculativefiction', 'sciencefictionfantasy', 'postapocalyptic', 'survival']",Max Brooks,504,2006,4.01,355945,World War Z: An Oral History of the Zombie War,,342,,The United States
+2008,,"['youngadult', 'paranormal', 'urbanfantasy', 'supernatural']",Kelley Armstrong,505,2008,4.03,139806,The Summoning,1,390,Darkest Powers,
+2000,,"['sciencefiction', 'fiction', 'cyberpunk']",Neal Stephenson,506,1992,4.03,193721,Snow Crash,,438,,The United States
+1962,1909,"['childrens', 'picturebooks']",P.D. Eastman,507,1960,4.17,183296,Are You My Mother?,,64,,The United States
+2013,,"['youngadult', 'sciencefiction', 'dystopia']",Rick Yancey,508,2013,4.09,307433,The 5th Wave,1,457,The 5th Wave,he United States
+2002,1902,"['classics', 'fiction', 'literature', 'historicalfiction']",John Steinbeck,509,1945,4.02,92229,Cannery Row,,181,,The United States
+2013,,"['fantasy', 'youngadult', 'romance']",Sarah J. Maas,510,2013,4.49,202192,Crown of Midnight,2,418,Throne of Glass,The United States
+2004,,"['picturebooks', 'childrens', 'christian']",Max Lucado,511,1997,4.45,43688,You Are Special,1,32,Wemmicksville,The United States
+2008,1973,"['sciencefiction', 'fiction', 'dystopia', 'youngadult', 'paranormal', 'aliens']",Stephenie Meyer,512,2008,3.84,790813,The Host,1,620,The Host,The United States
+2006,,"['youngadult', 'romance', 'contemporary', 'fiction', 'chicklit']",Sarah Dessen,513,2006,4.06,212180,Just Listen,,371,,The United States
+2005,,"['classics', 'plays', 'fiction', 'drama', 'school']",William Shakespeare,514,1600,4.01,594209,Hamlet,,289,,The United Kingdom
+2003,1824,"['classics', 'mystery', 'fiction', 'gothic', '19thcentury']",Wilkie Collins,515,1859,3.99,106671,The Woman in White,,672,,The United Kingdom
+1995,,"['fiction', 'philosophy', 'spirituality', 'classics', 'environment']",Daniel Quinn,516,1992,3.98,67795,Ishmael: An Adventure of the Mind and Spirit,,266,,The United States
+2008,,"['paranormalromance', 'paranormal', 'romance', 'fantasy', 'vampires']",Sherrilyn Kenyon,517,2008,4.59,48762,Acheron,14,728,Dark-Hunter,The United States
+2011,,"['youngadult', 'paranormal', 'fantasy', 'romance']",Michelle Hodkin,518,2011,4.09,133379,The Unbecoming of Mara Dyer,1,456,Mara Dyer,The United States
+1983,1885,"['classics', 'romance', 'literature', 'novels']",D.H. Lawrence,519,1928,3.49,79204,Lady Chatterley's Lover,,376,,England
+2000,1949,"['picturebooks', 'childrens', 'christmas']",Chris Van Allsburg,520,1985,4.29,181198,The Polar Express,,32,,The United States
+2002,1866,"['classics', 'sciencefiction', 'fiction']",H.G. Wells,521,1897,3.8,189295,The War of the Worlds,,192,,The United Kingdom
+2007,,"['youngadult', 'dystopia', 'sciencefiction']",Neal Shusterman,522,2007,4.18,158451,Unwind,1,335,Unwind,The United States
+2005,,"['fantasy', 'vampires', 'paranormal', 'urbanfantasy', 'romance', 'fiction', 'mystery']",Charlaine Harris,523,2004,4.13,216384,Dead to the World,4,291,Sookie Stackhouse,The United States
+2004,,"['youngadult', 'romance', 'contemporary', 'chicklit']",Sarah Dessen,524,2004,4.13,188302,The Truth About Forever,,374,,The United States
+1999,1911,"['plays', 'classics', 'drama', 'fiction', 'school']",Tennessee Williams,525,1945,3.68,95469,The Glass Menagerie,,104,,The United States
+2009,,"['youngadult', 'fantasy', 'paranormal', 'vampires']",P.C. Cast,526,2009,3.93,148579,Hunted,5,323,House of Night,n The United States
+2001,1919,"['american', '20thcentury', 'shortstories', 'fiction']",J.D. Salinger,527,1953,4.19,119292,Nine Stories,,198,,The United States
+2011,,"['youngadult', 'paranormal', 'romance', 'fantasy', 'paranormalromance']",Becca Fitzpatrick,528,2011,4.16,206897,Silence,3,448,Hush Hush,
+1996,1877,"['fiction', 'classics', 'philosophy', 'literature', 'germanliterature', 'novels']",Hermann Hesse,529,1919,4.11,52312,Demian. Die Geschichte von Emil Sinclairs Jugend,,194,,Germany
+1962,1889,"['nonfiction', 'classics', 'germanliterature', 'theory']",Martin Heidegger,530,1927,4.0,16114,Being and Time,,589,,Germany
+2004,,"['classics', 'fiction', 'fantasy', 'shortstories']",Anonymous,531,2004,4.06,58662,The Arabian Nights,,1049,,
+2007,,"['historicalfiction', 'fiction', 'holocaust', 'historical', 'worldwarii']",Tatiana de Rosnay,532,2006,4.14,355805,Sarah's Key,,294,,France
+2008,1960,"['nonfiction', 'biography', 'inspirational', 'philosophy']",Randy Pausch,533,2008,4.25,255874,The Last Lecture,,206,,n The United States
+1999,,"['nonfiction', 'adventure', 'memoir', 'travel', 'biography', 'history']",Jon Krakauer,534,1997,4.12,308502,Into Thin Air: A Personal Account of the Mount Everest Disaster,,368,,The United States
+2010,,"['youngadult', 'fantasy', 'sciencefiction']",Pittacus Lore,535,2010,3.94,277912,I Am Number Four,1,440,Lorien Legacies,
+2004,,"['classics', 'plays', 'fiction', 'drama', 'romance']",William Shakespeare,536,1598,4.06,189632,Much Ado About Nothing,,246,,The United Kingdom
+2001,,"['romance', 'historical', 'historicalromance', 'fiction']",Paullina Simons,537,2001,4.33,50710,The Bronze Horseman,1,637,The Bronze Horseman,Russian Federation
+2002,,"['fiction', 'historicalfiction', 'literaryfiction', 'novels']",Michael Cunningham,538,1998,3.92,110009,The Hours,,230,,The United States
+2004,1871,"['classics', 'fiction', 'france', 'literature', 'frenchliterature']",Marcel Proust,539,1913,4.14,33458,Swann's Way,1,468,In Search of Lost Time,France
+1989,1955,"['fiction', 'contemporary', 'novels']",Barbara Kingsolver,540,1988,3.95,116831,The Bean Trees,1,232,Greer Family,The United States
+2004,,"['classics', 'plays', 'drama', 'fiction']",William Shakespeare,541,1601,3.97,132298,Twelfth Night,,220,,The United Kingdom
+1998,1896,"['fiction', 'classics', 'youngadult', 'historicalfiction', 'romance']",Dodie Smith,542,1948,4.0,67949,I Capture the Castle,,343,,The United Kingdom
+2007,,"['fantasy', 'youngadult', 'paranormal', 'romance', 'urbanfantasy']",Melissa Marr,543,2007,3.69,137993,Wicked Lovely,1,328,Wicked Lovely,n The United States
+2011,,"['fantasy', 'fiction', 'paranormal', 'romance', 'vampires', 'witches']",Deborah Harkness,544,2011,3.99,258887,A Discovery of Witches,1,579,All Souls Trilogy,n The United States
+2006,,"['fantasy', 'youngadult', 'fiction', 'horror', 'childrens']",Neil Gaiman,545,2002,4.03,362460,Coraline,,162,,
+2003,1840,"['classics', 'fiction', 'romance', 'literature']",Thomas Hardy,546,1874,3.92,101204,Far from the Madding Crowd,,433,,The United Kingdom
+2005,1981,"['romance', 'chicklit', 'fiction', 'contemporary']",Cecelia Ahern,547,2003,4.01,291895,P.S. I Love You,,470,,Ireland
+2012,,"['fantasy', 'youngadult', 'angels', 'dystopia', 'paranormal']",Susan Ee,548,2011,4.18,133194,Angelfall,1,288,Penryn &amp; the End of Days,
+2003,1868,"['classics', 'plays', 'fiction', 'drama', 'france', 'romance']",Edmond Rostand,549,1897,4.06,62554,Cyrano de Bergerac,,240,,France
+2000,1967,"['fiction', 'shortstories', 'india']",Jhumpa Lahiri,550,1999,4.13,130688,Interpreter of Maladies,,198,,The United Kingdom
+2008,1867,"['classics', 'childrens', 'fiction', 'youngadult', 'historical']",Laura Ingalls Wilder,551,1935,4.18,210443,Little House on the Prairie,2,335,Little House,The United States
+2012,,"['youngadult', 'contemporaryromance', 'chicklit', 'fiction', 'romance']",Colleen Hoover,552,2012,4.28,180669,Slammed,1,317,Slammed,
+1995,1898,"['fantasy', 'fiction', 'classics', 'youngadult', 'childrens']",C.S. Lewis,553,1954,3.91,216350,The Horse and His Boy,5,224,Chronicles of Narnia,Ireland
+1998,1828,"['classics', 'fiction', 'historicalfiction', 'russia', 'literature']",Leo Tolstoy,554,1868,4.11,203076,War and Peace,,1392,,Russian Empire
+1992,,"['classics', 'drama', 'fiction', 'plays', 'literature', 'school', 'theatre', 'readforschool', 'poetry', 'britishliterature']",William Shakespeare,555,1596,3.79,132905,The Merchant of Venice,,237,,The United Kingdom
+1996,,"['youngadult', 'fantasy', 'magic', 'adventure']",Garth Nix,556,1995,4.17,150139,Sabriel,1,491,Abhorsen ,Australia
+2007,,"['historicalfiction', 'fiction', 'historical']",Ken Follett,557,2007,4.24,152461,World Without End,2,1014,Kingsbridge,The United Kingdom
+2010,,"['fantasy', 'youngadult', 'mythology', 'adventure', 'fiction']",Rick Riordan,558,2010,4.07,254108,The Red Pyramid,1,516,Kane Chronicles,The United States
+2005,,"['fiction', 'fantasy', 'paranormal']",Stephen King,559,1983,3.92,303585,Pet Sematary,,576,,The United States
+2007,1867,"['classics', 'historicalfiction', 'childrens', 'fiction']",Laura Ingalls Wilder,560,1932,4.17,186056,Little House in the Big Woods,1,198,Little House,The United States
+2005,,"['fantasy', 'youngadult', 'fairytales', 'romance', 'fiction']",Shannon Hale,561,2003,4.18,98789,The Goose Girl,1,383,The Books of Bayern,The United States
+2013,,"['youngadult', 'romance', 'dystopia', 'fantasy']",Kiera Cass,562,2013,4.02,285373,The Elite,2,336,The Selection,n The United States
+2001,,"['historicalfiction', 'romance', 'fantasy', 'fiction', 'timetravel', 'historical']",Diana Gabaldon,563,1996,4.34,153819,Drums of Autumn,4,880,Outlander,The United States
+1996,1905,"['fiction', 'classics', 'historicalfiction', 'politics', 'literature']",Robert Penn Warren,564,1946,4.08,47890,All the King's Men,,439,,The United States
+2000,1917,"['sciencefiction', 'fiction', 'classics']",Arthur C. Clarke,565,1968,4.12,188154,2001: A Space Odyssey,1,297,Space Odyssey,The United Kingdom
+2002,1961,"['fiction', 'historicalfiction', 'bookclub']",Leif Enger,566,2001,3.98,63301,Peace Like a River,,312,,The United States
+2002,,"['classics', 'plays', 'drama', 'fiction', 'school']",William Shakespeare,567,1599,3.66,140001,Julius Caesar,,95,,The United Kingdom
+2006,,"['paranormal', 'romance', 'vampires', 'paranormalromance', 'fantasy']",J.R. Ward,568,2006,4.35,150963,Lover Eternal,2,441,Black Dagger Brotherhood,he United States
+2014,,"['fantasy', 'youngadult', 'romance']",Sarah J. Maas,569,2014,4.53,158356,Heir of Fire,3,565,Throne of Glass,The United States
+2008,2013,"['fantasy', 'fiction', 'classics', 'youngadult', 'childrens']",Peter S. Beagle,570,1968,4.18,82656,The Last Unicorn,1,294,The Last Unicorn,The United States
+2010,,"['youngadult', 'contemporary', 'romance', 'fiction', 'fantasy']",Lauren Oliver,571,2010,3.91,246288,Before I Fall,,470,,New York
+1998,1867,"['nonfiction', 'history', 'reference', 'classics', 'school']",Edith Hamilton,572,1942,3.99,36657,Mythology: Timeless Tales of Gods and Heroes,,497,,Germany
+2009,1955,"['fiction', 'historicalfiction', 'africa', 'bookclub', 'ethiopia', 'medicine', 'medical', 'novels', 'abandoned', 'adultfiction']",Abraham Verghese,573,2009,4.28,291057,Cutting for Stone,,541,,Ethiopia
+2012,,"['youngadult', 'dystopia', 'fantasy']",Alexandra Bracken,574,2012,4.25,94658,The Darkest Minds,1,488,The Darkest Minds,
+2014,,"['dystopia', 'youngadult', 'romance', 'fantasy']",Tahereh Mafi,575,2014,4.44,95996,Ignite Me,3,421,Shatter Me,he United States
+1994,1951,"['sciencefiction', 'fiction', 'spaceopera']",Orson Scott Card,576,1986,4.05,187905,Speaker for the Dead,2,382,Ender's Saga,The United States
+2003,,"['fantasy', 'fiction', 'mystery', 'humor', 'sciencefiction']",Jasper Fforde,577,2001,3.91,97165,The Eyre Affair,1,374,Thursday Next,The United Kingdom
+2008,,"['youngadult', 'dystopia', 'sciencefiction', 'fantasy']",Michael  Grant,578,2008,3.86,158288,Gone,1,560,Gone,The United States
+2011,,"['urbanfantasy', 'fantasy', 'paranormal', 'romance', 'paranormalromance', 'fae']",Karen Marie Moning,579,2011,4.44,82739,Shadowfever,5,608,Fever,The United States
+2004,1928,"['mystery', 'youngadult', 'fiction', 'childrens', 'classics', 'middlegrade']",Ellen Raskin,580,1978,4.03,129241,The Westing Game,,182,,The United States
+2010,,"['fiction', 'animals', 'dogs', 'contemporary']",W. Bruce Cameron,581,2010,4.35,82429,A Dog's Purpose,1,319,A Dog's Purpose,he United States
+2006,1933,"['fiction', 'thriller', 'crime', 'westerns', 'literature', 'mystery']",Cormac McCarthy,582,2005,4.13,113932,No Country for Old Men,,309,,The United States
+2014,1902,"['classics', 'fiction', 'historicalfiction', 'literature']",John Steinbeck,583,1939,3.93,576659,The Grapes of Wrath,,479,,The United States
+2007,,"['fantasy', 'youngadult', 'fiction', 'romance']",Maria V. Snyder,584,2005,4.15,112444,Poison Study,1,409,Study,The United States
+2006,,"['fiction', 'contemporary', 'adultfiction', 'adult']",Kim Edwards,585,2005,3.64,514871,The Memory Keeper's Daughter,,401,,n The United States
+1997,1874,"['classics', 'fiction', 'youngadult', 'historicalfiction', 'childrens']",L.M. Montgomery,586,1909,4.21,111343,Anne of Avonlea,2,276,Anne of Green Gables,Canada
+2000,1926,"['christian', 'christianfiction', 'fantasy', 'religion']",Tim LaHaye,587,1995,3.82,170896,Left Behind,1,342,Left Behind,Michigan
+2003,1967,"['nonfiction', 'history', 'biography', 'sports', 'animals', 'horses']",Laura Hillenbrand,588,1999,4.2,120475,Seabiscuit: An American Legend,,457,,The United States
+2009,,"['fantasy', 'youngadult', 'paranormal', 'urbanfantasy']",Cassandra Clare,589,2009,4.34,656263,City of Glass,3,541,The Mortal Instruments,Iran
+1997,1926,"['horror', 'fiction', 'sciencefiction', 'vampires', 'fantasy', 'postapocalyptic']",Richard Matheson,590,1954,3.99,105803,I Am Legend and Other Stories,,317,,The United States
+2011,,"['youngadult', 'romance', 'contemporary', 'fiction', 'realisticfiction']",Gayle Forman,591,2011,4.05,225124,Where She Went,2,264,If I Stay,
+1991,1936,"['fiction', 'historicalfiction', 'romance', 'mystery', 'classics', 'literature']",A.S. Byatt,592,1990,3.88,61185,Possession,,555,,The United Kingdom
+2014,,"['historicalfiction', 'fiction', 'historical', 'war', 'worldwarii']",Anthony Doerr,593,2014,4.32,606508,All the Light We Cannot See,,531,,The United States
+2006,,"['fiction', 'contemporary', 'thriller', 'crime']",Lionel Shriver,594,2003,4.07,120114,We Need to Talk About Kevin,,400,,The United States
+2005,,"['youngadult', 'dystopia', 'sciencefiction']",Scott Westerfeld,595,2005,3.85,207692,Pretties,2,370,Uglies,The United States
+2001,,"['horror', 'fantasy']",Stephen King,596,1984,4.13,90351,The Talisman,1,652,The Talisman,The United States
+1997,1941,"['horror', 'fantasy', 'vampires', 'fiction', 'paranormal']",Anne Rice,597,1988,3.87,119900,The Queen of the Damned,3,448,The Vampire Chronicles,The United States
+2006,,"['fantasy', 'urbanfantasy', 'paranormal', 'romance', 'paranormalromance', 'fae']",Karen Marie Moning,598,2006,4.13,128008,Darkfever,1,309,Fever,The United States
+2006,1974,"['fiction', 'historicalfiction', 'romance', 'contemporary']",Nicole Krauss,599,2005,3.91,106409,The History of Love,,255,,The United States
+1990,1948,"['sciencefiction', 'fiction', 'fantasy']",Dan Simmons,600,1989,4.21,136775,Hyperion,1,482,Hyperion Cantos,The United States
+1994,1937,"['plays', 'drama', 'fiction', 'classics', 'theatre', 'humor']",Tom Stoppard,601,1966,4.06,71298,Rosencrantz and Guildenstern Are Dead,,126,,Czech Republic
+2005,1908,"['fiction', 'classics', 'africanamerican', 'literature', 'historicalfiction', 'novels', 'race', 'school', 'american', 'bannedbooks']",Richard Wright,602,1940,3.96,71829,Native Son,,504,,The United States
+2016,1951,"['selfhelp', 'nonfiction', 'spirituality', 'psychology']",Rhonda Byrne,603,2006,3.63,262313,The Secret,1,199,The Secret,n Australia
+2009,,"['vampires', 'youngadult', 'fantasy', 'paranormal']",P.C. Cast,604,2008,3.96,140158,Tempted,6,319,House of Night,n The United States
+1987,1928,"['historicalfiction', 'fiction', 'civilwar', 'war', 'historical']",Michael Shaara,605,1974,4.3,64538,The Killer Angels,2,345,The Civil War Trilogy,The United States
+2011,1959,"['fiction', 'contemporary']",Andre Dubus III,606,1999,3.83,107500,House of Sand and Fog,,384,,The United States
+2008,1898,"['fantasy', 'fiction', 'classics', 'youngadult', 'childrens']",C.S. Lewis,607,1953,3.95,191375,The Silver Chair,4,243,Chronicles of Narnia,Ireland
+2008,1971,"['youngadult', 'dystopia', 'sciencefiction', 'fantasy']",Patrick Ness,608,2008,3.96,118245,The Knife of Never Letting Go,1,479,Chaos Walking,The United States
+2005,,"['nonfiction', 'classics', 'philosophy', 'history', 'war', 'politics', 'business', 'military', 'china', 'leadership']",Sun Tzu,609,2005,3.96,220626,The Art of War,,273,,hina
+2001,1933,"['history', 'biography', 'nonfiction', 'americanhistory', 'presidents']",David McCullough,610,2001,4.05,234048,John Adams,,751,,The United States
+2007,1932,"['fiction', 'mystery', 'historicalfiction', 'literature', 'classics']",Umberto Eco,611,1988,3.89,50441,Foucault's Pendulum,,623,,Italy
+1997,1860,"['classics', 'shortstories', 'fiction', 'feminism', 'horror', 'literature']",Charlotte Perkins Gilman,612,1892,4.02,67238,The Yellow Wallpaper and Other Stories,,70,,The United States
+2011,1983,"['fantasy', 'youngadult', 'dragons', 'fiction']",Christopher Paolini,613,2011,4.09,169528,Inheritance,4,849,The Inheritance Cycle,The United States
+2006,,"['mystery', 'fiction', 'chicklit', 'humor', 'romance']",Janet Evanovich,614,1994,4.03,417624,One for the Money,1,320,Stephanie Plum,The United States
+2005,1898,"['fantasy', 'fiction', 'classics', 'youngadult', 'childrens']",C.S. Lewis,615,1951,3.96,281468,Prince Caspian,2,240,Chronicles of Narnia,Ireland
+2007,,"['paranormal', 'paranormalromance', 'fantasy', 'romance', 'urbanfantasy']",J.R. Ward,616,2007,4.33,107000,Lover Unbound,5,502,Black Dagger Brotherhood,he United States
+2005,1927,"['fiction', 'thriller', 'mystery', 'suspense', 'espionage']",Robert Ludlum,617,1980,3.99,344988,The Bourne Identity,1,566,Jason Bourne,The United States
+2001,,"['fiction', 'historicalfiction', 'mystery', 'canada']",Margaret Atwood,618,2000,3.95,114896,The Blind Assassin,,637,,Canada
+2006,,"['drama', 'fiction', 'school', 'plays', 'mythology', 'readforschool', 'literature', 'classics', 'highschool']",Sophocles,619,2006,3.68,140034,Oedipus Rex ,1,75,The Theban Plays,Greece
+2015,,"['fantasy', 'youngadult', 'romance', 'newadult']",Sarah J. Maas,620,2015,4.28,219215,A Court of Thorns and Roses,1,416,A Court of Thorns and Roses,The United States
+2005,1922,"['nonfiction', 'americanhistory', 'historical', 'politics']",Howard Zinn,621,1980,4.07,150965,A People's History of the United States,,729,,The United States
+2010,,"['youngadult', 'dystopia', 'sciencefiction', 'fiction']",James Dashner,622,2010,3.93,359547,The Scorch Trials,2,362,The Maze Runner,
+2001,1970,['fiction'],Dave Eggers,623,2000,3.68,152691,A Heartbreaking Work of Staggering Genius,,485,,The United States
+2001,1926,"['fiction', 'classics', 'fantasy', 'mystery', 'literature']",John Fowles,624,1965,4.05,38603,The Magus,,656,,The United Kingdom
+2006,,"['historicalromance', 'historicalfiction', 'adult', 'romance']",Diana Gabaldon,625,2005,4.43,107443,A Breath of Snow and Ashes,6,980,Outlander,The United States
+1998,1779,"['childrens', 'picturebooks', 'classics', 'fantasy', 'holiday', 'christmas', 'kids', 'juvenile', 'childrensclassics', 'storytime']",Clement C. Moore,626,1823,4.36,95501,The Night Before Christmas,,32,,The United States
+2005,,"['fantasy', 'youngadult', 'fiction', 'magic', 'adventure']",Tamora Pierce,627,1983,4.27,94829,Alanna: The First Adventure,1,274,Song of the Lioness,The United States
+2013,,"['dystopia', 'youngadult', 'romance']",Marie Lu,628,2013,4.37,130410,Champion,3,369,Legend,China
+2006,1937,"['fiction', 'sciencefiction', 'historicalfiction', 'novels']",Thomas Pynchon,629,1973,4.03,29283,Gravity's Rainbow,,776,,The United States
+2001,1955,"['fiction', 'contemporary', 'novels', 'nature']",Barbara Kingsolver,630,2000,3.98,82640,Prodigal Summer,,444,,The United States
+2005,1918,"['fiction', 'classics', 'russia', 'historicalfiction', 'russianliterature', 'literature']",Aleksandr Solzhenitsyn,631,1962,3.95,74581,One Day in the Life of Ivan Denisovich,,182,,Russian Federation
+2001,1936,"['fiction', 'fantasy', 'humor', 'magicalrealism', 'literature']",Tom Robbins,632,1984,4.24,56802,Jitterbug Perfume,,342,,The United States
+2006,,"['fiction', 'mystery', 'suspense', 'mysterythriller', 'adventure', 'crime']",Dan Brown,633,2000,3.86,2166148,Angels &amp; Demons ,1,736,Robert Langdon,The United States
+2006,,"['youngadult', 'vampires', 'urbanfantasy', 'romance', 'fiction']",Rachel Caine,634,2006,3.92,83715,Glass Houses,1,239,The Morganville Vampires,n The United States
+2004,1929,"['fiction', 'youngadult', 'fantasy', 'classics']",Ursula K. Le Guin,635,1968,3.99,172586,A Wizard of Earthsea,1,183,Earthsea Cycle,The United States
+1995,1954,"['war', 'greece', 'contemporary', 'novels', 'fiction']",Louis de Bernières,636,1994,3.95,67140,Corelli's Mandolin,,437,,The United Kingdom
+2012,1937,"['romance', 'classics', 'fiction', 'chicklit', 'contemporary']",Erich Segal,637,1970,3.61,45881,Love Story,1,224,Love Story,The United States
+1999,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,638,1998,3.95,196421,Message in a Bottle,,342,,The United States
+2005,,"['historicalfiction', 'romance', 'fantasy', 'fiction', 'timetravel', 'historical']",Diana Gabaldon,639,2001,4.26,126378,The Fiery Cross,5,1443,Outlander,The United States
+2006,1906,"['nonfiction', 'biography', 'adventure', 'memoir', 'autobiography', 'france']",Henri Charrière,640,1969,4.23,44568,Papillon,,544,,France
+2000,1929,"['sciencefiction', 'fiction', 'fantasy']",Ursula K. Le Guin,641,1969,4.05,76351,The Left Hand of Darkness,6,304,Hainish Cycle,The United States
+2013,,"['religion', 'nonfiction', 'church', 'spirituality']",Anonymous,642,1830,4.37,67012,The Book of Mormon: Another Testament of Jesus Christ,,531,,
+2004,,"['fiction', 'sciencefiction', 'dystopia', 'postapocalyptic', 'fantasy']",Margaret Atwood,643,2003,4.0,174444,Oryx and Crake,1,400,MaddAddam,Canada
+2004,1924,"['fiction', 'romance', 'historicalfiction', 'chicklit']",Rosamunde Pilcher,644,1987,4.13,80140,The Shell Seekers,,530,,The United Kingdom
+2012,,"['romance', 'newadult', 'contemporary', 'contemporaryromance', 'youngadult']",J.A. Redmerski,645,2012,4.26,130759,The Edge of Never,1,426,The Edge of Never,n The United States
+2012,1954,"['realisticfiction', 'comingofage', 'audiobook', 'youngadult', 'glbt']",Benjamin Alire Sáenz,646,2012,4.35,135046,Aristotle and Dante Discover the Secrets of the Universe,1,359,Aristotle and Dante Discover the Secrets of the Universe,The United States
+1999,,"['fiction', 'childrens', 'fantasy', 'middlegrade', 'youngadult']",Lemony Snicket,647,1999,3.9,306832,The Bad Beginning,1,176,A Series of Unfortunate Events,The United States
+2003,1969,"['chicklit', 'funny', 'adultfiction', 'contemporaryromance']",Sophie Kinsella,648,2000,3.62,567379,Confessions of a Shopaholic,1,368,Shopaholic,The United Kingdom
+2003,,"['mystery', 'fiction', 'africa', 'crime']",Alexander McCall Smith,649,1998,3.76,194838,The No. 1 Ladies' Detective Agency ,1,235,No. 1 Ladies' Detective Agency,Zimbabwe
+2013,,"['youngadult', 'dystopia', 'romance']",Marie Lu,650,2013,4.29,167301,Prodigy,2,371,Legend,China
+2014,,"['youngadult', 'contemporary', 'mystery', 'fiction', 'romance']",E. Lockhart,651,2014,3.85,321216,We Were Liars,,242,,The United States
+1992,1909,"['fiction', 'historicalfiction', 'classics', 'literature', 'westerns']",Wallace Stegner,652,1971,4.27,43807,Angle of Repose,,569,,The United States
+2001,1908,"['american', 'nativeamericanhistory', 'americanhistory']",Dee Brown,653,1970,4.21,45275,Bury My Heart at Wounded Knee: An Indian History of the American West,,509,,The United States
+2007,,"['paranormalromance', 'paranormal', 'vampires', 'romance', 'fantasy']",J.R. Ward,654,2007,4.3,108576,Lover Revealed,4,455,Black Dagger Brotherhood,he United States
+2011,1948,"['fantasy', 'humor', 'sciencefictionfantasy', 'timetravel']",Terry Pratchett,655,2002,4.47,81255,Night Watch,6,480,Discworld #29; City Watch,The United Kingdom
+2012,1785,"['classics', 'fantasy', 'fiction', 'fairytales', 'shortstories', 'childrens', 'literature', 'germanliterature', 'mythology', 'youngadult']",Jacob Grimm,656,1857,4.14,20534,Grimm's Fairy Tales,,518,,Germany
+2006,1916,"['horror', 'classics', 'fiction', 'gothic', 'mystery', 'paranormal']",Shirley Jackson,657,1959,3.89,68494,The Haunting of Hill House,,182,,The United States
+2006,,"['nonfiction', 'food', 'science', 'health', 'history', 'nutrition']",Michael Pollan,658,2006,4.18,151900,The Omnivore's Dilemma: A Natural History of Four Meals,,451,,The United States
+2006,,"['youngadult', 'romance', 'mystery', 'contemporary', 'fiction']",Ally Carter,659,2006,3.82,161182,"I'd Tell You I Love You, But Then I'd Have to Kill You",1,284,Gallagher Girls,n The United States
+1982,1923,"['classics', 'italianliterature', 'literature', 'novels', 'italy', 'magicalrealism']",Italo Calvino,660,1979,4.08,56223,If on a Winter's Night a Traveler,,260,,Cuba
+2006,,"['novels', 'psychology', 'romance', 'drama']",Paulo Coelho,661,1998,3.69,137291,Veronika Decides to Die,,210,,Brazil
+2004,1775,"['classics', 'fiction', 'romance']",Jane Austen,662,1817,4.13,418706,Persuasion,,249,,England
+1990,-70,"['poetry', 'fiction', 'mythology', 'classics', 'literature']",Virgil,663,1990,3.81,89083,The Aeneid,,442,,Italy
+2006,,"['fantasy', 'vampires', 'paranormal', 'urbanfantasy', 'fiction', 'romance', 'mystery']",Charlaine Harris,664,2003,4.03,200055,Club Dead,3,274,Sookie Stackhouse,The United States
+2012,,"['fantasy', 'youngadult', 'paranormal', 'romance']",Maggie Stiefvater,665,2012,4.06,173828,The Raven Boys,1,409,The Raven Cycle,n The United States
+2009,,"['paranormalromance', 'paranormal', 'vampires', 'romance', 'fantasy']",J.R. Ward,666,2009,4.38,94243,Lover Avenged,7,527,Black Dagger Brotherhood,he United States
+2008,1969,"['fiction', 'bookclub']",Muriel Barbery,667,2006,3.74,122414,The Elegance of the Hedgehog,,325,,Morocco
+2010,,"['fantasy', 'paranormalromance', 'teen', 'werewolves']",Maggie Stiefvater,668,2010,3.91,135748,Linger,2,360,The Wolves of Mercy Falls,n The United States
+2006,1840,"['fiction', 'classics', 'literature', 'victorian', '19thcentury', 'britishliterature']",Thomas Hardy,669,1895,3.81,51672,Jude the Obscure,,310,,The United Kingdom
+2000,1771,"['classics', 'fiction', 'historicalfiction', 'adventure', 'literature', 'historical', 'romance', 'classicliterature', 'britishliterature', 'medieval']",Walter Scott,670,1819,3.75,73515,Ivanhoe,,544,,Scotland
+2003,,"['fiction', 'thriller', 'horror', 'sciencefiction', 'mystery', 'suspense']",Dean Koontz,671,1987,4.16,118988,Watchers,,624,,The United States
+1999,1905,"['fiction', 'philosophy', 'dystopia', 'sciencefiction', 'classics']",Ayn Rand,672,1938,3.62,110404,Anthem,,105,,Russian Federation
+1988,1888,"['mystery', 'fiction', 'crime', 'classics', 'noir', 'detective']",Raymond Chandler,673,1939,4.03,94109,The Big Sleep,1,231,Philip Marlowe,The United States
+2006,1967,"['nonfiction', 'science', 'psychology', 'sociology', 'economics']",Steven D. Levitt,674,2005,3.94,558889,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,1,320,Freakonomics,n The United States
+2004,1967,"['india', 'contemporary', 'novels', 'literaryfiction', 'fiction', 'bookclub']",Jhumpa Lahiri,675,2003,3.96,197335,The Namesake,,291,,The United Kingdom
+2003,1929,"['fiction', 'classics', 'historicalfiction', 'jewish', 'religion', 'literature']",Chaim Potok,676,1972,4.19,31559,My Name Is Asher Lev,,369,,The United States
+1998,1942,"['nonfiction', 'physics', 'history', 'philosophy', 'astronomy']",Stephen Hawking,677,1987,4.13,193730,A Brief History of Time,,212,,The United Kingdom
+2011,1949,"['fiction', 'fantasy', 'japan', 'magicalrealism', 'sciencefiction']",Haruki Murakami,678,2009,3.89,147093,1Q84,,925,,Japan
+2004,,"['fantasy', 'vampires', 'paranormal', 'urbanfantasy', 'fiction', 'romance', 'mystery']",Charlaine Harris,679,2002,3.97,212581,Living Dead in Dallas,2,291,Sookie Stackhouse,The United States
+2002,1951,"['sciencefiction', 'fiction', 'youngadult', 'fantasy', 'sciencefictionfantasy']",Orson Scott Card,680,1998,4.3,129506,Ender's Shadow,1,469,The Shadow Series,The United States
+2006,,"['mystery', 'historicalfiction', 'fiction', 'thriller', 'historical', 'crime', 'mysterythriller']",Caleb Carr,681,1994,4.05,105151,The Alienist,1,498,Dr. Laszlo Kreizler,The United States
+1991,1906,"['nonfiction', 'memoir', 'classics', 'selfhelp']",Anne Morrow Lindbergh,682,1955,4.17,35072,Gift from the Sea,,130,,The United States
+2006,,"['horror', 'fiction', 'mystery', 'fantasy', 'thriller', 'paranormal']",Dean Koontz,683,2003,3.94,218649,Odd Thomas,1,446,Odd Thomas,The United States
+2005,1865,"['childrens', 'literature', '19thcentury', 'britishliterature']",Rudyard Kipling,684,1894,4.01,73537,The Jungle Books,,368,,India
+2009,1966,"['fiction', 'romance', 'contemporary', 'chicklit', 'adult', 'adultfiction', 'britishliterature', 'novels', 'love', 'drama']",David Nicholls,685,2009,3.77,252267,One Day,,435,,The United Kingdom
+2003,1930,"['fiction', 'childrens', 'youngadult', 'mystery']",E.L. Konigsburg,686,1967,4.15,149159,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,,125,,The United States
+2004,,"['fiction', 'thriller', 'mystery', 'suspense']",Dan Brown,687,1998,3.61,465571,Digital Fortress,,510,,The United States
+1999,1922,"['sciencefiction', 'classics', 'fiction']",Kurt Vonnegut,688,1959,4.16,87852,The Sirens of Titan,,224,,The United States
+2002,1934,"['science', 'nonfiction', 'astronomy', 'physics', 'history']",Carl Sagan,689,1980,4.35,86786,Cosmos,,384,,The United States
+1990,1880,"['nonfiction', 'biography', 'classics', 'memoir', 'autobiography', 'history', 'biographymemoir', 'historical', 'inspirational', 'disability']",Helen Keller,690,1902,4.07,112890,The Story of My Life,,240,,The United States
+2013,,"['fiction', 'mystery', 'thriller', 'historicalfiction']",Dan Brown,691,2013,3.81,364579,Inferno,4,461,Robert Langdon,The United States
+1996,1875,"['fiction', 'classics', 'germanliterature', 'literature', 'novels', 'philosophy']",Thomas Mann,692,1924,4.14,26526,The Magic Mountain,,706,,Germany
+1996,,"['epicfantasy', 'highfantasy', 'fantasy', 'sciencefictionfantasy', 'audiobook', 'epic', 'youngadult', 'comingofage', 'sciencefiction', 'adultfiction']",Robin Hobb,693,1995,4.14,172479,Assassin's Apprentice,1,460,Farseer Trilogy,The United States
+2001,1949,"['fiction', 'fantasy', 'japan', 'japaneseliterature', 'magicalrealism', 'sciencefiction']",Haruki Murakami,694,1985,4.15,81184,Hard-Boiled Wonderland and the End of the World,,400,,Japan
+2002,1959,"['fiction', 'contemporary', 'novels']",Jonathan Franzen,695,2001,3.78,135234,The Corrections,,653,,The United States
+2004,1931,"['fiction', 'classics', 'africanamerican', 'historicalfiction', 'literature']",Toni Morrison,696,1977,4.01,66288,Song of Solomon,,337,,The United States
+2007,,"['fantasy', 'youngadult', 'fiction', 'middlegrade', 'childrens', 'romance']",Shannon Hale,697,2005,4.02,89399,Princess Academy,1,314,Princess Academy,The United States
+1988,1904,"['history', 'nonfiction', 'classics', 'mythology', 'sociology', 'writing']",Joseph Campbell,698,1988,4.3,35170,The Power of Myth,,320,,The United States
+2005,1931,"['fiction', 'classics', 'historicalfiction', 'africanamerican', 'literature']",Toni Morrison,699,1970,3.99,125376,The Bluest Eye,,216,,The United States
+2003,1843,"['classics', 'fiction', 'literature', '19thcentury']",Henry James,700,1881,3.76,61036,The Portrait of a Lady,,656,,The United States
+2012,,"['youngadult', 'angels', 'fantasy', 'paranormal', 'romance']",Becca Fitzpatrick,701,2012,4.22,116160,Finale,4,454,Hush Hush,
+2013,,"['fantasy', 'youngadult', 'sciencefiction', 'teen']",Marissa Meyer,702,2013,4.3,225853,Scarlet,2,454,The Lunar Chronicles,n The United States
+2002,1879,"['fiction', 'classics', 'literature', 'britishliterature']",E.M. Forster,703,1910,3.95,61124,Howards End,,246,,The United Kingdom
+2002,,"['fiction', 'sciencefiction', 'historicalfiction', 'cyberpunk']",Neal Stephenson,704,1999,4.25,84004,Cryptonomicon,,1139,,The United States
+2001,,"['fiction', 'childrens', 'realisticfiction', 'youngadult', 'middlegrade']",Kate DiCamillo,705,2000,4.01,164739,Because of Winn-Dixie,,182,,The United States
+2003,1904,"['childrens', 'picturebooks', 'fiction']",Dr. Seuss,706,1960,4.12,128110,"One Fish, Two Fish, Red Fish, Blue Fish",,64,,The United States
+1986,1892,"['fiction', 'classics', 'adventure', 'sciencefictionfantasy']",J.R.R. Tolkien,707,1955,4.51,527933,The Return of the King,3,490,The Lord of the Rings,South Africa
+2006,,"['youngadult', 'contemporary', 'fiction', 'romance']",John Green,708,2006,3.62,363840,An Abundance of Katherines,,229,,The United States
+2015,,"['youngadult', 'contemporary', 'fiction', 'mentalillness']",Jennifer Niven,709,2015,4.19,166278,All the Bright Places,,378,,he United States
+2009,,"['fantasy', 'paranormal', 'romance', 'urbanfantasy', 'paranormalromance', 'fae', 'adult']",Karen Marie Moning,710,2009,4.43,78617,Dreamfever,4,386,Fever,The United States
+2015,,"['fantasy', 'youngadult', 'romance']",Sarah J. Maas,711,2015,4.6,129360,Queen of Shadows,4,648,Throne of Glass,The United States
+2006,1899,"['classics', 'fantasy', 'childrens', 'fiction']",P.L. Travers,712,1934,4.05,90596,Mary Poppins,1,209,Mary Poppins,Australia
+2001,1967,"['youngadult', 'fiction', 'chicklit', 'contemporary', 'romance', 'teen', 'realisticfiction', 'childrens', 'comingofage', 'highschool']",Ann Brashares,713,2001,3.76,549530,The Sisterhood of the Traveling Pants,1,294,Sisterhood,The United States
+2011,,"['romance', 'contemporaryromance', 'erotica', 'contemporary', 'adult', 'newadult', 'didnotfinish']",Sylvain Reynard,714,2011,4.02,130083,Gabriel's Inferno,1,506,Gabriel's Inferno,
+2006,1923,"['sciencefiction', 'fiction', 'postapocalyptic', 'classics', 'dystopia']",Walter M. Miller Jr.,715,1959,3.98,74774,A Canticle for Leibowitz,,335,,The United States
+2003,1969,"['fiction', 'dystopia', 'horror', 'sciencefiction', 'youngadult', 'thriller']",Koushun Takami,716,1999,4.24,42653,Battle Royale,,617,,Japan
+1996,1945,"['youngadult', 'fiction', 'realisticfiction', 'childrens', 'middlegrade']",Sharon Creech,717,1994,3.95,135278,Walk Two Moons,,280,,The United States
+2013,1978,"['romance', 'contemporary', 'contemporaryromance', 'youngadult', 'college']",Jamie McGuire,718,2013,4.23,148037,Walking Disaster,2,448,Beautiful,The United States
+2009,,"['horror', 'fiction', 'sciencefiction', 'thriller', 'fantasy']",Stephen King,719,2009,3.9,209634,Under the Dome,,1074,,The United States
+2006,,"['youngadult', 'dystopia', 'sciencefiction']",Scott Westerfeld,720,2006,3.77,151758,Specials,3,384,Uglies,The United States
+2001,1926,"['fiction', 'classics', 'historicalfiction']",Richard Yates,721,1961,3.9,66623,Revolutionary Road,,355,,The United States
+2001,1926,"['poetry', 'classics', 'fiction']",Allen Ginsberg,722,1956,4.14,78762,Howl and Other Poems,,56,,The United States
+2012,,"['youngadult', 'vampires', 'fantasy', 'paranormal', 'romance']",Richelle Mead,723,2012,4.36,93573,The Golden Lily,2,418,Bloodlines,
+2006,1975,"['youngadult', 'fiction', 'mystery', 'contemporary']",Markus Zusak,724,2002,4.09,108469,I Am the Messenger,,360,,Australia
+2009,,"['youngadult', 'fantasy', 'paranormal', 'urbanfantasy', 'supernatural']",Kelley Armstrong,725,2009,4.16,99698,The Awakening,2,360,Darkest Powers,
+2012,2007,"['romance', 'erotica', 'contemporary', 'contemporaryromance', 'adult']",Sylvia Day,726,2012,4.33,273804,Reflected in You,2,338,Crossfire,The United States
+2007,1966,"['historicalfiction', 'youngadult', 'fiction', 'childrens', 'graphicnovels']",Brian Selznick,727,2007,4.23,139404,The Invention of Hugo Cabret,,525,,The United States
+2004,1955,"['youngadult', 'poetry', 'fiction', 'contemporary']",Ellen Hopkins,728,2004,4.16,109274,Crank,1,537,Crank,The United States
+1987,1907,"['sciencefiction', 'fiction', 'classics']",Robert A. Heinlein,729,1959,4.0,152231,Starship Troopers,,335,,The United States
+2005,1924,"['fiction', 'historicalfiction', 'classics', 'southern', 'adultfiction']",Olive Ann Burns,730,1984,3.99,87316,Cold Sassy Tree,,391,,The United States
+2001,,"['fiction', 'philosophy', 'spirituality', 'classics']",Richard Bach,731,1977,4.14,48653,Illusions: The Adventures of a Reluctant Messiah,,144,,The United States
+2010,,"['youngadult', 'paranormal', 'fantasy', 'urbanfantasy', 'supernatural', 'werewolves']",Kelley Armstrong,732,2010,4.21,98644,The Reckoning,3,391,Darkest Powers,
+2011,1966,"['fantasy', 'youngadult', 'timetravel', 'romance', 'historicalfiction']",Kerstin Gier,733,2009,4.12,86106,Ruby Red,1,324,Precious Stone Trilogy,Germany
+2009,,"['fantasy', 'youngadult', 'romance', 'fiction']",Kristin Cashore,734,2009,4.12,138061,Fire,2,480,Graceling Realm,he United States
+1995,1896,"['classics', 'fiction', 'literature', 'american']",F. Scott Fitzgerald,735,1933,3.83,90703,Tender Is the Night,,317,,The United States
+2012,,"['youngadult', 'romance', 'contemporary', 'abuse', 'fiction', 'newadult']",Katja Millay,736,2012,4.34,68410,The Sea of Tranquility,,426,,he United States
+2011,,"['youngadult', 'dystopia', 'sciencefiction']",James Dashner,737,2011,3.77,268276,The Death Cure,3,325,The Maze Runner,
+1998,1920,"['horror', 'fantasy', 'fiction', 'classics', 'sciencefiction']",Ray Bradbury,738,1962,3.95,75320,Something Wicked This Way Comes,2,293,Green Town,The United States
+1999,1899,"['fiction', 'shortstories', 'literature', 'classics', 'fantasy', 'magicalrealism']",Jorge Luis Borges,739,1998,4.58,17137,Collected Fictions,,565,,Argentina
+2006,1862,"['classics', 'fiction', 'literature', 'school']",Edith Wharton,740,1911,3.36,87405,Ethan Frome,,228,,The United States
+2008,,"['vampires', 'paranormal', 'urbanfantasy', 'romance']",Jeaniene Frost,741,2008,4.31,83261,One Foot in the Grave,2,357,Night Huntress,n The United States
+2005,1907,"['sciencefiction', 'fiction', 'classics', 'sciencefictionfantasy']",Robert A. Heinlein,742,1966,4.17,89163,The Moon is a Harsh Mistress,,288,,The United States
+2005,1969,"['nonfiction', 'biography', 'memoir']",James Frey,743,2003,3.62,192891,A Million Little Pieces,,432,,The United States
+1982,,"['fiction', 'contemporary', 'literature']",John Irving,744,1981,3.89,51454,The Hotel New Hampshire,,520,,The United States
+2004,8465,"['urbanfantasy', 'vampires', 'fantasy', 'paranormal', 'horror', 'romance']",Laurell K. Hamilton,745,1993,4.02,118004,Guilty Pleasures,1,355,Anita Blake Vampire Hunter,The United States
+2008,2013,"['youngadult', 'vampires', 'fantasy', 'paranormal']",L.J. Smith,746,2008,4.04,57781,"Night World, No. 1",1,729,Night World,The United States
+2002,,"['fantasy', 'romance', 'fiction', 'historicalfiction', 'fairytales', 'youngadult']",Juliet Marillier,747,1999,4.28,44803,Daughter of the Forest ,1,554,Sevenwaters,New Zealand
+2008,,"['fantasy', 'youngadult', 'paranormal', 'romance', 'urbanfantasy']",Cassandra Clare,748,2008,4.21,604808,City of Ashes,2,453,The Mortal Instruments,Iran
+1983,1924,"['historicalfiction', 'fiction', 'classics', 'historical', 'israel', 'war']",Leon Uris,749,1958,4.33,80948,Exodus,,608,,The United States
+2000,1920,"['fiction', 'classics', 'sciencefiction', 'fantasy', 'youngadult']",Ray Bradbury,750,1957,4.08,41898,Dandelion Wine,1,239,Green Town,The United States
+1997,,"['sciencefiction', 'fiction', 'fantasy', 'religion']",Mary Doria Russell,751,1996,4.17,45784,The Sparrow,1,431,The Sparrow,n The United States
+2010,,"['youngadult', 'paranormal', 'supernatural']",P.C. Cast,752,2009,3.98,131140,Burned,7,323,House of Night,n The United States
+2004,1940,"['fiction', 'historicalfiction', 'thriller', 'drama']",Jeffrey Archer,753,1979,4.27,81821,Kane and Abel,1,592,Kane and Abel,The United Kingdom
+2007,1981,"['youngadult', 'fiction', 'contemporary', 'mentalillness']",Ned Vizzini,754,2006,4.14,173498,It's Kind of a Funny Story,,444,,The United States
+2009,1952,"['sciencefiction', 'fiction', 'humor', 'fantasy', 'comedy']",Douglas Adams,755,1980,4.22,179763,The Restaurant at the End of the Universe,2,250,Hitchhiker's Guide to the Galaxy,The United Kingdom
+1979,1874,"['poetry', 'classics', 'fiction', 'literature']",Robert Frost,756,1969,4.23,35336,The Poetry of Robert Frost,,607,Collected Poems Complete &amp;,The United States
+1978,1908,"['historicalfiction', 'youngadult', 'fiction', 'classics', 'childrens', 'historical']",Elizabeth George Speare,757,1958,3.97,116109,The Witch of Blackbird Pond,,256,,The United States
+2013,,"['dystopia', 'youngadult', 'paranormal', 'sciencefiction']",Tahereh Mafi,758,2013,4.28,123211,Unravel Me,2,461,Shatter Me,he United States
+2006,,"['fantasy', 'adventure', 'fiction']",Scott Lynch,759,2006,4.3,147547,The Lies of Locke Lamora,1,499,Gentleman Bastard,The United States
+2009,,"['romance', 'fiction', 'chicklit', 'contemporary', 'adult']",Nicholas Sparks,760,2008,4.1,289419,The Lucky One,,326,,The United States
+2015,2007,"['fantasy', 'youngadult', 'fiction']",Leigh Bardugo,761,2015,4.46,124135,Six of Crows,1,462,Six of Crows,Israel
+1969,1905,"['philosophy', 'fiction', 'classics', 'france', 'literature']",Jean-Paul Sartre,762,1938,3.91,63678,Nausea,,178,,France
+2012,,"['youngadult', 'paranormal', 'romance', 'aliens', 'fantasy', 'sciencefiction']",Jennifer L. Armentrout,763,2012,4.33,102077,Opal,3,382,Lux,The United States
+2007,,"['fantasy', 'vampires', 'paranormal', 'urbanfantasy', 'fiction', 'romance', 'mystery']",Charlaine Harris,764,2006,4.02,175071,Definitely Dead,6,342,Sookie Stackhouse,The United States
+2011,1971,"['fantasy', 'youngadult', 'fiction', 'horror']",Patrick Ness,765,2011,4.37,145083,A Monster Calls,,216,,The United States
+2002,1828,"['classics', 'sciencefiction', 'fiction', 'adventure']",Jules Verne,766,1869,3.87,154461,Twenty Thousand Leagues Under the Sea,,394,,Kingdom of France
+2002,1943,"['fiction', 'humor', 'historicalfiction', 'classics', 'movies']",Winston Groom,767,1986,4.06,51360,Forrest Gump,1,248,Forrest Gump,The United States
+1987,1903,"['historicalfiction', 'fiction', 'art', 'classics', 'italy']",Irving Stone,768,1958,4.08,65937,The Agony and the Ecstasy,,776,,The United States
+2008,,"['fiction', 'historicalfiction', 'historical', 'australia', 'romance']",Kate Morton,769,2008,4.12,161195,The Forgotten Garden,,648,,Australia
+2006,1928,"['nonfiction', 'classics', 'history', 'memoir', 'holocaust', 'biography']",Elie Wiesel,770,1958,4.3,744623,Night,1,120,The Night Trilogy,Romania
+2005,1948,"['fiction', 'humor', 'comedy', 'sciencefictionfantasy', 'religion']",Terry Pratchett,771,1992,4.28,84304,Small Gods,13,400,Discworld,The United Kingdom
+1978,1890,"['mystery', 'fiction', 'crime', 'classics', 'detective']",Agatha Christie,772,1937,4.07,78065,Death on the Nile,17,214,Hercule Poirot,The United Kingdom
+2014,,"['youngadult', 'fantasy', 'sciencefiction', 'romance']",Marissa Meyer,773,2014,4.46,192345,Cress,3,552,The Lunar Chronicles,n The United States
+1991,1897,"['classics', 'fiction', 'literature', 'american']",William Faulkner,774,1936,3.96,33236,"Absalom, Absalom!",,320,,The United States
+1994,1899,"['shortstories', 'fiction', 'classics', 'literature', 'magicalrealism', 'fantasy', 'spanishliterature']",Jorge Luis Borges,775,1944,4.46,36326,Ficciones,,174,,Argentina
+2012,,"['sciencefiction', 'fantasy']",Lauren Oliver,776,2012,4.06,195591,Pandemonium,2,375,Delirium,New York
+2005,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,777,2003,3.98,126195,The Wedding,2,276,The Notebook,The United States
+1998,1888,"['nonfiction', 'selfhelp', 'business', 'psychology', 'personaldevelopment']",Dale Carnegie,778,1936,4.15,335903,How to Win Friends and Influence People,,288,,The United States
+2007,,"['contemporary', 'fiction', 'psychology', 'bookclub', 'adultfiction']",Lisa Genova,779,2007,4.3,251696,Still Alice,,292,,n The United States
+2001,1914,"['fiction', 'historicalfiction', 'christianfiction', 'classics', 'christian', 'romance', 'historical']",Catherine Marshall,780,1967,4.21,42155,Christy,,512,,The United States
+1995,1939,"['fiction', 'romance', 'classics', 'chicklit', 'contemporary']",Robert James Waller,781,1992,3.54,63697,The Bridges of Madison County,,224,,The United States
+1990,1916,"['nonfiction', 'booksaboutbooks', 'memoir', 'biography']",Helene Hanff,782,1970,4.19,30925,"84, Charing Cross Road",,112,,The United States
+2010,,"['paranormalromance', 'vampires', 'romance', 'fantasy']",J.R. Ward,783,2010,4.41,92085,Lover Mine,8,528,Black Dagger Brotherhood,he United States
+2008,,"['fiction', 'dogs', 'animals', 'adultfiction']",David Wroblewski,784,2008,3.6,80596,The Story of Edgar Sawtelle,,566,,he United States
+2008,,"['fiction', 'fantasy', 'romance', 'historicalfiction']",Andrew Davidson,785,2008,3.97,38331,The Gargoyle,,465,,
+2004,1932,"['personaldevelopment', 'nonfiction', 'leadership', 'management']",Stephen R. Covey,786,1989,4.06,354274,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,,372,,The United States
+2003,1952,"['biography', 'nonfiction', 'history', 'china', 'asia']",Jung Chang,787,1991,4.23,70439,Wild Swans: Three Daughters of China,,562,,China
+2007,2013,"['vampires', 'paranormal', 'youngadult', 'romance']",L.J. Smith,788,2007,3.67,73245,The Awakening / The Struggle,1,492,The Vampire Diaries,The United States
+2011,,"['romance', 'newadult', 'contemporary', 'contemporaryromance', 'youngadult', 'didnotfinish']",S.C. Stephens,789,2009,4.12,125735,Thoughtless,1,530,Thoughtless,he United States
+1999,1812,"['classics', 'fiction', 'christmas', 'fantasy', 'literature', 'historicalfiction', 'holiday', '19thcentury', 'classicliterature', 'school']",Charles Dickens,790,1843,4.03,471969,A Christmas Carol,,104,,England
+2002,1945,"['fiction', 'horror', 'fantasy', 'contemporary']",Katherine Dunn,791,1989,3.98,45877,Geek Love,,348,,The United States
+1999,1947,"['fiction', 'thriller', 'military', 'suspense', 'mystery']",Tom Clancy,792,1984,4.02,286070,The Hunt for Red October,4,432,Jack Ryan Universe,The United States
+2014,,"['fantasy', 'fiction', 'epicfantasy', 'highfantasy']",Brandon Sanderson,793,2014,4.77,119255,Words of Radiance,2,1087,The Stormlight Archive,The United States
+2005,1948,"['fantasy', 'fiction', 'humor', 'comedy', 'sciencefictionfantasy', 'sciencefiction', 'magic', 'funny', 'adventure', 'highfantasy']",Terry Pratchett,794,1983,3.98,237593,The Color of Magic,1,228,Discworld #1; Rincewind,The United Kingdom
+2010,1954,"['crime', 'fiction', 'mystery', 'thriller', 'suspense', 'contemporary', 'novels', 'adult', 'mysterythriller', 'literature']",Stieg Larsson,795,2005,4.47,39926,The Millennium Trilogy,1,1531,Millennium Trilogy,Sweden
+1994,1958,"['fiction', 'contemporary', 'classics']",Irvine Welsh,796,1993,4.08,114623,Trainspotting,,430,,Scotland
+2008,,"['urbanfantasy', 'paranormal', 'fantasy', 'paranormalromance', 'fae', 'adult']",Karen Marie Moning,797,2008,4.34,78805,Faefever,3,327,Fever,The United States
+2006,,"['fiction', 'romance', 'contemporary', 'chicklit']",Jodi Picoult,798,1998,4.0,239387,The Pact,,512,,The United States
+2003,1944,"['youngadult', 'fantasy', 'dystopia', 'sciencefiction', 'fiction']",Jeanne DuPrau,799,2003,3.85,210562,The City of Ember,1,270,Book of Ember,The United States
+2002,,"['romance', 'paranormalromance', 'paranormal', 'fantasy', 'urbanfantasy', 'adult']",Sherrilyn Kenyon,800,2002,4.17,76651,Fantasy Lover,1,337,Hunter Legends Series,The United States
+2006,,"['fantasy', 'vampires', 'paranormal', 'urbanfantasy', 'fiction', 'romance', 'mystery']",Charlaine Harris,801,2005,4.01,181316,Dead as a Doornail,5,297,Sookie Stackhouse,The United States
+2007,,"['vampires', 'fantasy', 'paranormal', 'urbanfantasy', 'fiction', 'romance', 'mystery']",Charlaine Harris,802,2007,4.05,175626,All Together Dead,7,323,Sookie Stackhouse,The United States
+2010,,"['horror', 'sciencefiction', 'fiction', 'audiobook']",Justin Cronin,803,2010,4.04,150631,The Passage,1,766,The Passage,he United States
+2001,1906,"['classics', 'fiction', 'historicalfiction']",Richard Llewellyn,804,1939,4.16,12184,How Green Was My Valley,,448,,The United Kingdom
+2007,1835,"['classics', 'fantasy', 'historicalfiction', 'humor', 'timetravel']",Mark Twain,805,1889,3.76,78693,A Connecticut Yankee in King Arthur's Court,,480,,The United States
+2012,,"['romance', 'newadult', 'contemporary', 'youngadult', 'contemporaryromance', 'college']",Tammara Webber,806,2012,4.11,194901,Easy,1,336,Contours of the Heart,he United States
+2003,1775,"['classics', 'fiction', 'romance']",Jane Austen,807,1811,4.06,791616,Sense and Sensibility,,409,,England
+2002,1945,"['fiction', 'southern', 'contemporary']",Pat Conroy,808,1995,4.13,36869,Beach Music,,592,,The United States
+2008,,"['vampires', 'fantasy', 'paranormal', 'urbanfantasy', 'fiction', 'romance', 'mystery']",Charlaine Harris,809,2008,4.01,163685,From Dead to Worse,8,359,Sookie Stackhouse,The United States
+2012,1899,"['classics', 'nonfiction', 'memoir', 'biography', 'literature', 'france']",Ernest Hemingway,810,1964,4.04,93555,A Moveable Feast,,182,,The United States
+2003,1892,"['adventure', 'epicfantasy', 'highfantasy', 'sciencefictionfantasy', 'novels', 'magic']",J.R.R. Tolkien,811,1954,4.42,550485,The Two Towers,2,322,The Lord of the Rings,South Africa
+2005,,"['classics', 'plays', 'drama', 'school', 'fiction', 'readforschool']",Sophocles,812,2005,3.61,81745,Antigone,3,80,The Theban Plays,Greece
+1991,1943,"['historicalfiction', 'youngadult', 'classics', 'childrens', 'fiction']",Mildred D. Taylor,813,1976,3.79,98471,"Roll of Thunder, Hear My Cry",4,288,Logans,The United States
+2009,,"['fantasy', 'youngadult', 'romance', 'paranormal']",Aprilynne Pike,814,2009,3.75,67361,Wings,1,290,Wings,The United States
+2004,,"['urbanfantasy', 'paranormal', 'fantasy', 'werewolves', 'paranormalromance', 'fiction']",Kelley Armstrong,815,2001,4.05,79893,Bitten,1,436,Women of the Otherworld,
+2012,,"['fiction', 'humor', 'adult', 'adultfiction', 'literature']",Chuck Palahniuk,816,1999,4.0,102261,Invisible Monsters Remix,,302,,The United States
+2002,,"['fiction', 'contemporary', 'humor', 'novels']",Chuck Palahniuk,817,2001,3.69,166200,Choke,,293,,The United States
+2002,,"['fiction', 'thriller', 'mystery', 'suspense']",Dan Brown,818,2001,3.67,497712,Deception Point,,556,,The United States
+2012,,"['youngadult', 'paranormal', 'romance', 'aliens', 'fantasy', 'sciencefiction']",Jennifer L. Armentrout,819,2012,4.33,123030,Onyx,2,366,Lux,The United States
+1998,1938,"['fiction', 'chicklit', 'contemporary', 'romance', 'adultfiction']",Billie Letts,820,1995,4.0,213545,Where the Heart Is,,376,,The United States
+2001,1931,"['fiction', 'classics', 'literature', 'novels', 'contemporary']",Tom Wolfe,821,1987,3.82,57442,The Bonfire of the Vanities,,690,,The United States
+1993,1952,"['fantasy', 'fairytales', 'romance', 'youngadult', 'retellings']",Robin McKinley,822,1978,4.05,62325,Beauty: A Retelling of the Story of Beauty and the Beast,,256,,The United States
+1999,,"['historicalfiction', 'historical', 'romance', 'fiction', 'westerns', 'bookclub']",Nancy E. Turner,823,1998,4.34,55664,"These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901, Arizona Territories",1,384,Sarah Agnes Prine,The United States
+2001,1936,"['fiction', 'humor', 'literature', 'novels']",Tom Robbins,824,1980,4.04,62688,Still Life with Woodpecker,,277,,The United States
+2000,1882,"['classics', 'fiction', 'fantasy', 'historicalfiction', 'glbt', 'feminism']",Virginia Woolf,825,1928,3.86,41248,Orlando,,228,,The United Kingdom
+2006,1951,"['nonfiction', 'travel', 'humor', 'memoir', 'nature', 'adventure']",Bill Bryson,826,1997,4.05,276245,A Walk in the Woods,,397,,The United States
+2006,,"['fantasy', 'fiction', 'horror']",Stephen King,827,2004,4.27,110976,The Dark Tower,7,1050,The Dark Tower,The United States
+2002,1899,"['fiction', 'sciencefiction', 'postapocalyptic', 'classics', 'dystopia', 'apocalyptic']",Nevil Shute,828,1957,3.93,28722,On the Beach,,296,,The United Kingdom
+2011,1969,"['fantasy', 'youngadult', 'romance', 'paranormal']",Colleen Houck,829,2011,4.07,50658,Tiger's Curse,1,403,The Tiger Saga,The United States
+2006,1939,"['fantasy', 'youngadult', 'fiction', 'childrens', 'adventure']",Brian Jacques,830,1986,4.11,85117,Redwall,1,352,Redwall,The United Kingdom
+2009,,"['vampires', 'fantasy', 'paranormal', 'urbanfantasy', 'fiction', 'romance', 'mystery']",Charlaine Harris,831,2009,4.01,158932,Dead and Gone,9,312,Sookie Stackhouse,The United States
+2011,,"['youngadult', 'angels', 'fantasy', 'paranormal', 'romance']",Lauren Kate,832,2011,3.89,128674,Passion,3,420,Fallen,n The United States
+1970,1772,"['classics', 'literature', 'school', 'poetry', 'gothic']",Samuel Taylor Coleridge,833,1798,3.93,41418,The Rime of the Ancient Mariner,,77,,The United Kingdom
+2001,1948,"['fantasy', 'fiction', 'humor']",Terry Pratchett,834,1987,4.22,148853,Mort,4,243,Death #1; Discworld,The United Kingdom
+1997,,"['poetry', 'classics', 'literature', 'fiction', 'romance', 'plays', 'britishliterature', 'school', 'drama', 'englishliterature']",William Shakespeare,835,1609,4.24,66813,Shakespeare's Sonnets,,488,,The United Kingdom
+2014,,"['youngadult', 'contemporary', 'glbt', 'romance', 'fiction']",Jandy Nelson,836,2014,4.14,171404,I'll Give You the Sun,,384,,
+2003,,"['religion', 'philosophy', 'classics', 'spirituality', 'nonfiction', 'poetry', 'india', 'hinduism', 'mythology', 'indianliterature']",Krishna-Dwaipayana Vyasa,837,2003,4.11,43809,The Bhagavad Gita,,160,,
+2006,,"['fantasy', 'youngadult', 'fiction', 'middlegrade']",Brandon Mull,838,2006,4.08,108019,Fablehaven,1,351,Fablehaven,he United States
+2010,,"['fiction', 'contemporary', 'novels', 'thriller']",Chuck Palahniuk,839,1999,3.93,90400,Survivor,,289,,The United States
+2002,,"['nonfiction', 'writing', 'memoir', 'biography']",Stephen King,840,2000,4.31,160731,On Writing: A Memoir of the Craft,,320,,The United States
+2001,,"['mystery', 'fiction', 'crime', 'thriller', 'mysterythriller', 'suspense']",Dennis Lehane,841,2001,4.18,97092,Mystic River,,416,,The United States
+2005,1749,"['classics', 'fiction', 'germanliterature', 'literature', 'romance']",Johann Wolfgang von Goethe,842,1774,3.64,56922,The Sorrows of Young Werther,,176,,Germany
+2011,,"['youngadult', 'angels', 'fantasy', 'paranormal', 'romance']",Cynthia Hand,843,2011,4.05,107543,Unearthly,1,435,Unearthly,The United States
+2003,,"['fantasy', 'youngadult', 'fiction', 'magic']",Jonathan Stroud,844,2003,4.0,97758,The Amulet of Samarkand,1,462,Bartimaeus,The United Kingdom
+2007,,"['youngadult', 'vampires', 'fantasy', 'paranormal', 'romance', 'supernatural', 'urbanfantasy', 'fiction', 'paranormalromance', 'angels']",Melissa de la Cruz,845,2006,3.68,122872,Blue Bloods,1,302,Blue Bloods,
+1992,,"['marriage', 'psychology', 'love']",Gary Chapman,846,1990,4.23,202415,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,,204,,
+1993,1933,"['fiction', 'westerns', 'historicalfiction', 'literature', 'classics']",Cormac McCarthy,847,1992,3.97,76174,All the Pretty Horses,1,302,The Border Trilogy,The United States
+2009,,"['youngadult', 'romance', 'contemporary']",Sarah Dessen,848,2009,4.07,162713,Along for the Ride,,383,,The United States
+2005,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,849,2003,4.14,145619,The Guardian,,400,,The United States
+2006,1862,"['classics', 'fiction', 'literature', 'historicalfiction']",Edith Wharton,850,1905,3.95,69474,The House of Mirth,,351,,The United States
+1996,1950,"['romance', 'animals', 'horses', 'contemporary', 'fiction', 'drama']",Nicholas Evans,851,1995,3.78,44160,The Horse Whisperer,,451,,The United Kingdom
+2004,,"['youngadult', 'romance', 'contemporary', 'chicklit']",Sarah Dessen,852,2002,4.03,158235,This Lullaby,,345,,The United States
+2000,1899,"['fiction', 'classics', 'poetry', 'literature', 'russia', 'novels', 'russianliterature', '20thcentury', 'literaryfiction', 'american']",Vladimir Nabokov,853,1962,4.19,31998,Pale Fire,,246,,Russian Federation
+2012,,"['youngadult', 'contemporary', 'romance', 'fantasy']",David Levithan,854,2012,3.99,142133,Every Day,1,322,Every Day,New Jersey
+2007,1750,"['youngadult', 'fantasy', 'romance', 'fairytales', 'fiction']",Alex Flinn,855,2007,3.84,159920,Beastly,1,304,Beastly #1; Kendra Chronicles,The United States
+1936,1905,"['picturebooks', 'childrens', 'classics']",Munro Leaf,856,1936,4.36,75375,The Story of Ferdinand,,72,,The United States
+2004,,"['mystery', 'fiction', 'thriller', 'horror', 'suspense']",Dennis Lehane,857,2003,4.08,128438,Shutter Island,,369,,The United States
+1985,,"['religion', 'christian', 'nonfiction', 'classics', 'christianity', 'reference', 'spirituality', 'faith', 'history', 'philosophy']",Anonymous,858,1973,4.61,49771,Holy Bible: New International Version,,1248,,
+2004,,"['paranormalromance', 'romance', 'vampires', 'mystery']",Kim Harrison,859,2004,4.04,98981,Dead Witch Walking,1,416,The Hollows,The United States
+2005,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,860,2001,4.02,125498,A Bend in the Road,,341,,The United States
+2009,,"['vampires', 'paranormal', 'urbanfantasy', 'paranormalromance', 'romance', 'fantasy']",Jeaniene Frost,861,2008,4.31,71565,At Grave's End,3,342,Night Huntress,n The United States
+2006,1944,"['fiction', 'middlegrade', 'childrens']",John Flanagan,862,2004,4.21,95600,The Ruins of Gorlan,1,249,Ranger's Apprentice,Australia
+2004,1828,"['classics', 'fiction', 'adventure', 'sciencefiction', 'france', 'fantasy', 'travel', 'literature', 'historicalfiction', 'novels']",Jules Verne,863,1872,3.91,145489,Around the World in Eighty Days,11,252,Extraordinary Voyages,Kingdom of France
+2013,,"['youngadult', 'vampires', 'fantasy', 'paranormal', 'romance']",Richelle Mead,864,2013,4.4,80398,The Indigo Spell,3,401,Bloodlines,
+2003,,"['fiction', 'romance', 'novels', 'contemporary', 'philosophy']",Paulo Coelho,865,2003,3.69,120674,Eleven Minutes,,273,,Brazil
+2005,1940,"['fiction', 'africa', 'southafrica', 'literature', 'novels']",J.M. Coetzee,866,1999,3.84,65296,Disgrace,,220,,South Africa
+1997,1908,"['historicalfiction', 'fiction', 'india', 'romance', 'historical', 'classics', 'adventure']",M.M. Kaye,867,1978,4.2,35417,The Far Pavilions,,958,,n India
+2007,1968,"['fiction', 'contemporary', 'magicalrealism', 'novels']",Junot Díaz,868,2007,3.89,188139,The Brief Wondrous Life of Oscar Wao,,335,,Dominican Republic
+2013,1963,"['fiction', 'contemporary', 'literaryfiction']",Donna Tartt,869,2013,3.88,492446,The Goldfinch,,771,,The United States
+2005,1757,"['poetry', 'classics', 'literature', 'fiction', '18thcentury']",William Blake,870,1794,4.11,31043,Songs of Innocence and of Experience,,56,,The United Kingdom
+2003,1874,"['fiction', 'classics', 'literature']",W. Somerset Maugham,871,1944,4.18,29652,The Razor's Edge,,314,,France
+2003,,"['romance', 'fiction', 'chicklit', 'contemporary']",James Patterson,872,2001,4.16,125912,Suzanne's Diary for Nicholas,,289,,The United States
+2010,,"['youngadult', 'paranormal', 'fantasy', 'werewolves', 'romance']",Andrea Cremer,873,2010,4.03,73874,Nightshade,4,452,Nightshade #1; Nightshade World,n The United States
+2014,,"['sciencefiction', 'youngadult', 'fantasy', 'dystopia', 'fiction']",Pierce Brown,874,2014,4.26,142220,Red Rising,1,382,Red Rising,
+2015,,"['fantasy', 'youngadult', 'dystopia', 'fiction']",Victoria Aveyard,875,2015,4.08,329027,Red Queen,1,383,Red Queen,n The United States
+2005,1819,"['classics', 'fiction', 'literature', 'historicalfiction']",George Eliot,876,1861,3.6,57351,Silas Marner,,262,,The United Kingdom
+2005,1894,"['mystery', 'fiction', 'classics', 'crime', 'noir', 'detective']",Dashiell Hammett,877,1930,3.92,69875,The Maltese Falcon,,213,,The United States
+1993,1884,"['fiction', 'sciencefiction', 'classics', 'dystopia', 'russia', 'russianliterature']",Yevgeny Zamyatin,878,1924,3.95,50367,We,,225,,Russian Federation
+2003,1775,"['fiction', 'classics', 'historicalfiction', 'literature', 'historical']",Jane Austen,879,1815,3.99,515654,Emma,,474,,England
+2008,,"['youngadult', 'romance', 'contemporary', 'fiction']",Sarah Dessen,880,2008,4.01,130179,Lock and Key,,432,,The United States
+2004,,"['fantasy', 'animals', 'youngadult', 'fiction']",Erin Hunter,881,2003,4.29,56697,Into the Wild,1,288,Warriors,
+2010,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,882,2010,4.19,284542,Safe Haven,,340,,The United States
+1995,1880,"['fiction', 'classics', 'philosophy', 'germanliterature', 'literature']",Robert Musil,883,1930,4.25,4426,The Man Without Qualities,,1774,,Austria
+2010,,"['youngadult', 'contemporary', 'glbt', 'fiction']",John Green,884,2010,3.83,268480,"Will Grayson, Will Grayson",1,310,Will Grayson Will Grayson,The United States
+2004,,"['classics', 'plays', 'fiction', 'drama']",William Shakespeare,885,1593,3.81,137431,The Taming of the Shrew,,291,,The United Kingdom
+1987,1917,"['sciencefiction', 'fiction', 'classics']",Arthur C. Clarke,886,1953,4.1,100891,Childhood's End,,224,,The United Kingdom
+2008,,"['fantasy', 'fiction', 'epicfantasy', 'highfantasy']",Brandon Sanderson,887,2008,4.46,172302,The Hero of Ages,3,572,Mistborn,The United States
+2006,1894,"['fiction', 'classics', 'france', 'frenchliterature', 'literaryfiction']",Louis-Ferdinand Céline,888,1932,4.24,24002,Journey to the End of the Night,,453,,France
+1999,1936,"['fiction', 'classics', 'literature', 'novels', 'american']",Don DeLillo,889,1985,3.86,72620,White Noise,,320,,The United States
+2013,,['fantasy'],Ben Peller,890,2013,4.34,86,To Live and Die in Fantasyland,3,320,To Live,
+1991,1897,"['classics', 'fiction', 'literature', 'american']",William Faulkner,891,1932,3.94,45645,Light in August,,507,,The United States
+2012,,"['romance', 'newadult', 'youngadult', 'contemporary']",Colleen Hoover,892,2012,4.3,127109,Point of Retreat,2,215,Slammed,
+2009,,"['youngadult', 'vampires', 'paranormal', 'fantasy', 'romance']",Claudia Gray,893,2008,3.64,68337,Evernight,1,327,Evernight,he United States
+2011,,"['fantasy', 'youngadult', 'romance', 'paranormal', 'fairies']",Julie Kagawa,894,2011,4.24,86656,The Iron Queen,3,384,The Iron Fey,
+2006,,"['fiction', 'thriller', 'mystery', 'legalthriller', 'suspense']",John Grisham,895,1996,3.96,231701,The Runaway Jury,,358,,The United States
+2012,,"['newadult', 'contemporary', 'contemporaryromance', 'romance', 'adult', 'erotica']",Samantha Young,896,2012,4.24,149064,On Dublin Street,1,372,On Dublin Street,he United Kingdom
+2010,,"['youngadult', 'fantasy', 'paranormal', 'magic', 'vampires']",Rachel Hawkins,897,2010,3.96,117059,Hex Hall,1,323,Hex Hall,
+1977,1935,"['fiction', 'classics', 'literature', 'novels']",Ken Kesey,898,1964,4.25,17002,Sometimes a Great Notion,,640,,The United States
+2003,,"['fantasy', 'fiction', 'horror', 'sciencefiction']",Stephen King,899,1997,4.25,128041,Wizard and Glass,4,845,The Dark Tower,The United States
+1995,1957,"['fiction', 'mystery', 'crime', 'thriller', 'denmark', 'scandinavianliterature']",Peter Høeg,900,1992,3.73,33142,Smilla's Sense of Snow,,469,,Denmark
+2005,1879,"['classics', 'fiction', 'india', 'historicalfiction']",E.M. Forster,901,1924,3.67,55198,A Passage to India,,376,,The United Kingdom
+2003,1965,"['memoir', 'nonfiction', 'biography', 'humor']",Augusten Burroughs,902,2002,3.7,312501,Running with Scissors,,315,,The United States
+2006,,"['youngadult', 'fantasy', 'sciencefiction']",James Patterson,903,2006,4.16,100900,School's Out—Forever,2,409,Maximum Ride,The United States
+2001,1902,"['fiction', 'shortstories', 'classics', 'literature']",Norman Maclean,904,1976,4.17,18619,A River Runs Through It and Other Stories,,239,,The United States
+1999,1941,"['dystopia', 'thriller', 'sciencefiction', 'horror']",Richard Bachman,905,1979,4.11,83060,The Long Walk,,370,,The United States
+2015,,"['realisticfiction', 'youngadult']",Jenny Han,906,2014,4.11,166243,To All the Boys I've Loved Before,1,355,To All the Boys I've Loved Before,he United States
+2014,,"['contemporary', 'romance', 'contemporaryromance']",Colleen Hoover,907,2014,4.3,122777,Ugly Love,,337,,
+2008,,"['paranormalromance', 'paranormal', 'vampires', 'romance', 'fantasy']",J.R. Ward,908,2008,4.12,95057,Lover Enshrined,6,534,Black Dagger Brotherhood,he United States
+1982,1789,"['classics', 'fiction', 'historicalfiction', 'adventure', 'literature']",James Fenimore Cooper,909,1826,3.7,76661,The Last of the Mohicans,2,410,The Leatherstocking Tales,The United States
+1999,1945,"['science', 'nonfiction', 'mathematics', 'philosophy', 'music']",Douglas R. Hofstadter,910,1979,4.3,34828,"Gödel, Escher, Bach: An Eternal Golden Braid",,822,,The United States
+2007,,"['youngadult', 'fantasy', 'sciencefiction', 'adventure', 'fiction']",James Patterson,911,2006,4.16,81568,Saving the World and Other Extreme Sports,3,405,Maximum Ride,The United States
+2008,,"['urbanfantasy', 'fantasy', 'paranormal', 'romance', 'werewolves', 'paranormalromance']",Patricia Briggs,912,2008,4.12,73073,Cry Wolf,1,294,Alpha &amp; Omega,The United States
+2013,,"['fiction', 'fantasy', 'horror', 'magicalrealism', 'adult']",Neil Gaiman,913,2013,3.99,355222,The Ocean at the End of the Lane,,181,,
+2011,,"['vampires', 'youngadult', 'fantasy']",P.C. Cast,914,2011,4.02,110269,Awakened,8,290,House of Night,n The United States
+2010,1973,"['youngadult', 'fantasy', 'vampires', 'paranormal', 'fiction']",Stephenie Meyer,915,2009,3.51,162712,The Short Second Life of Bree Tanner,3,178,Twilight,The United States
+2006,,"['fiction', 'historicalfiction', 'china', 'asia', 'contemporary']",Amy Tan,916,1991,3.99,63833,The Kitchen God's Wife,,416,,The United States
+2003,,"['classics', 'plays', 'fiction', 'drama', 'school']",William Shakespeare,917,1623,3.88,542808,Macbeth,,249,,The United Kingdom
+1997,1918,"['fiction', 'classics', 'chicklit', 'romance']",Jacqueline Susann,918,1966,3.71,38993,Valley of the Dolls,,442,,The United States
+2008,,"['fantasy', 'youngadult', 'mythology', 'adventure']",Rick Riordan,919,2008,4.58,34122,Percy Jackson and the Olympians,1,1032,Percy Jackson and the Olympians,The United States
+2006,,"['fiction', 'inspirational', 'contemporary']",Mitch Albom,920,2006,4.09,108998,For One More Day,,208,,The United States
+2002,1915,"['historicalfiction', 'fiction', 'military', 'audiobook']",Herman Wouk,921,1971,4.36,44713,The Winds of War,1,896,The Henry Family,The United States
+2007,1828,"['plays', 'classics', 'drama', 'fiction', 'school']",Henrik Ibsen,922,1879,3.69,82926,A Doll's House,,122,,Norway
+2010,,"['romance', 'contemporary', 'youngadult', 'realisticfiction']",Tabitha Suzuma,923,2010,4.06,44755,Forbidden,,418,,The United Kingdom
+2002,1958,"['fiction', 'historicalfiction', 'canada']",Ann-Marie MacDonald,924,1996,3.95,55128,Fall on Your Knees,,508,,Germany
+1992,1954,"['picturebooks', 'childrens', 'humor', 'fiction']",Jon Scieszka,925,1992,4.2,81776,The Stinky Cheese Man and Other Fairly Stupid Tales,,51,,The United States
+2009,,"['youngadult', 'fantasy', 'paranormal', 'romance']",Alyson Noel,926,2009,3.61,79602,Blue Moon,2,284,The Immortals,The United States
+2001,1934,"['nonfiction', 'truecrime', 'crime', 'history', 'horror', 'biography']",Vincent Bugliosi,927,1974,4.0,98319,Helter Skelter: The True Story of the Manson Murders,,689,,The United States
+1997,1953,"['historicalfiction', 'fiction', 'war', 'classics', 'historical', 'romance']",Sebastian Faulks,928,1993,4.07,57341,Birdsong,,483,,The United Kingdom
+2006,1904,"['classics', 'poetry', 'romance', 'spanishliterature', 'fiction', 'latinamerican', 'literature', 'latinamericanliterature', '20thcentury', 'nobelprize']",Pablo Neruda,929,1924,4.32,38987,Twenty Love Poems and a Song of Despair,,70,,Chile
+2010,,"['youngadult', 'romance', 'contemporary', 'realisticfiction']",Simone Elkeles,930,2010,4.21,73520,Rules of Attraction,2,336,Perfect Chemistry,The United States
+2002,1936,"['historicalfiction', 'fiction', 'historical', 'fantasy', 'romance']",Jean M. Auel,931,1982,3.98,62372,The Valley of Horses,2,544,Earth's Children,The United States
+1999,1941,"['horror', 'vampires', 'fantasy', 'fiction', 'paranormal']",Anne Rice,932,1995,3.74,68797,Memnoch the Devil,5,354,The Vampire Chronicles,The United States
+2010,,"['fantasy', 'youngadult', 'romance', 'paranormal', 'fairies']",Julie Kagawa,933,2010,4.13,99576,The Iron Daughter,2,359,The Iron Fey,
+2013,,"['survival', 'adventure', 'fiction', 'literature']",Ki Longfellow,934,2013,4.29,754,Walks Away Woman,,254,,The United States
+2007,,"['urbanfantasy', 'fantasy', 'paranormal', 'romance', 'paranormalromance', 'fae']",Karen Marie Moning,935,2007,4.3,80586,Bloodfever,2,303,Fever,The United States
+2014,,"['fantasy', 'mythology', 'youngadult', 'adventure', 'fiction', 'middlegrade', 'greekmythology', 'romance', 'urbanfantasy', 'childrens']",Rick Riordan,936,2014,4.42,135311,The Blood of Olympus,5,516,The Heroes of Olympus,The United States
+2007,1968,"['horror', 'fiction', 'vampires', 'fantasy', 'paranormal']",John Ajvide Lindqvist,937,2004,4.07,69137,Let the Right One In,,513,,Sweden
+2002,1898,"['theology', 'fantasy', 'fiction', 'religion', 'christianfiction']",C.S. Lewis,938,1945,4.28,82810,The Great Divorce,,146,,Ireland
+2009,1945,"['fantasy', 'fiction', 'epicfantasy', 'highfantasy', 'sciencefictionfantasy', 'magic', 'epic', 'adventure', 'sciencefiction', 'abandoned']",Raymond E. Feist,939,1982,4.33,49592,Magician,1,681,The Riftwar Saga,The United States
+2003,,"['fantasy', 'fiction', 'horror', 'sciencefiction']",Stephen King,940,1987,4.23,168236,The Drawing of the Three,2,463,The Dark Tower,The United States
+2000,1899,"['fiction', 'historicalfiction', 'classics', 'australia', 'romance', 'war']",Nevil Shute,941,1950,4.12,41140,A Town Like Alice,,359,,The United Kingdom
+2008,,"['religion', 'classics', 'nonfiction', 'christian', 'christianity', 'history']",Anonymous,942,1611,4.43,177643,Holy Bible: King James Version,,1590,,
+2004,,"['classics', 'plays', 'drama', 'fiction']",William Shakespeare,943,1623,3.8,141244,The Tempest,,215,,The United Kingdom
+2005,1859,"['mystery', 'crime', 'classics', 'detective', 'historicalfiction', '19thcentury', 'mysterythriller', 'britishliterature', 'literature', 'novels']",Arthur Conan Doyle,944,1888,4.15,232282,A Study in Scarlet,,108,,Scotland
+2012,2007,"['fantasy', 'youngadult', 'youngadultfantasy']",Leigh Bardugo,945,2012,4.05,165347,Shadow and Bone,1,358,Grisha Verse,Israel
+1991,1952,"['sciencefiction', 'fiction', 'fantasy', 'humor']",Douglas Adams,946,1987,3.97,99264,Dirk Gently's Holistic Detective Agency,1,306,Dirk Gently,The United Kingdom
+2011,,"['youngadult', 'sciencefiction', 'dystopia', 'romance']",Beth Revis,947,2011,3.78,103007,Across the Universe,1,399,Across the Universe,n The United States
+2011,,"['youngadult', 'fantasy', 'paranormal', 'mythology', 'romance', 'paranormalromance']",Jennifer L. Armentrout,948,2011,4.15,66834,Half-Blood,1,281,Covenant,The United States
+2006,,"['fantasy', 'fiction', 'urbanfantasy', 'mythology']",Neil Gaiman,949,2005,4.01,159065,Anansi Boys,,384,,
+2006,1890,"['mystery', 'fiction', 'crime', 'classics']",Agatha Christie,950,1926,4.21,91304,The Murder of Roger Ackroyd,4,288,Hercule Poirot,The United Kingdom
+2011,,"['youngadult', 'fantasy', 'paranormal', 'romance', 'werewolves']",Maggie Stiefvater,951,2011,3.91,93578,Forever,3,388,The Wolves of Mercy Falls,n The United States
+2009,,"['vampires', 'paranormal', 'urbanfantasy', 'paranormalromance', 'romance', 'fantasy']",Jeaniene Frost,952,2009,4.34,69482,Destined for an Early Grave,4,355,Night Huntress,n The United States
+2003,1951,"['christianfiction', 'fiction', 'christian', 'fantasy', 'thriller']",Frank E. Peretti,953,1986,4.24,77051,This Present Darkness,1,376,Darkness,n Canada
+1995,1946,"['historicalfiction', 'fiction', 'holocaust', 'worldwarii', 'germany']",Ursula Hegi,954,1994,4.07,83529,Stones from the River,,525,,Germany
+2004,1914,"['fiction', 'classics', 'literature', 'novels', 'american']",William S. Burroughs,955,1959,3.46,63398,Naked Lunch,,289,,The United States
+2011,,"['fantasy', 'youngadult', 'didnotfinish', 'youngadultparanormal']",Josephine Angelini,956,2011,4.08,56362,Starcrossed,1,487,Starcrossed,The United States
+2006,1977,"['chicklit', 'fiction', 'contemporary', 'romance']",Lauren Weisberger,957,2003,3.71,697416,The Devil Wears Prada,1,432,The Devil Wears Prada,The United States
+1991,1913,"['philosophy', 'classics', 'france', 'literature', 'frenchliterature', 'novels']",Albert Camus,958,1956,4.05,52574,The Fall,,147,,Algeria
+2000,,"['fantasy', 'urbanfantasy', 'mystery', 'fiction', 'paranormal', 'magic']",Jim Butcher,959,2000,4.02,228069,Storm Front,1,322,The Dresden Files,The United States
+2001,1918,"['fantasy', 'youngadult', 'sciencefiction', 'fiction', 'childrens', 'classics']",Madeleine L'Engle,960,1989,4.34,10738,The Time Quartet Box Set,1,0,Time Quartet,The United States
+1961,1909,"['childrens', 'picturebooks', 'fiction']",P.D. Eastman,961,1961,4.08,68541,"Go, Dog. Go!",,72,,The United States
+1987,1952,"['horror', 'fiction', 'postapocalyptic', 'fantasy', 'sciencefiction', 'dystopia', 'apocalyptic']",Robert McCammon,962,1987,4.28,43820,Swan Song,,956,,The United States
+2005,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,963,2000,4.1,151631,The Rescue,,352,,The United States
+2013,,"['romance', 'aliens', 'youngadult', 'sciencefiction', 'paranormalromance', 'fantasy', 'paranormal', 'urbanfantasy', 'fiction', 'newadult']",Jennifer L. Armentrout,964,2013,4.43,71089,Origin,4,364,Lux,The United States
+2000,1890,"['horror', 'shortstories', 'fiction', 'classics', 'fantasy', 'sciencefiction', 'gothic', 'literature', 'anthologies', 'lovecraftian']",H.P. Lovecraft,965,1935,4.2,5057,Tales of H.P. Lovecraft,,352,,The United States
+1999,1922,"['fiction', 'classics', 'historicalfiction', 'literature', 'war']",Kurt Vonnegut,966,1961,4.21,60080,Mother Night,,282,,The United States
+1997,,"['nonfiction', 'memoir', 'biography', 'africanamerican']",James McBride,967,1996,4.07,86296,The Color of Water: A Black Man's Tribute to His White Mother,,291,,The United States
+1998,1799,"['classics', 'poetry', 'russia', 'fiction', 'russianliterature']",Alexander Pushkin,968,1833,4.09,39898,Eugene Onegin,,240,,Russian Federation
+2003,,"['fiction', 'fantasy', 'witches', 'magic', 'paranormal', 'chicklit']",Alice Hoffman,969,1995,3.8,42347,Practical Magic,,286,,The United States
+2003,1628,"['classics', 'fiction', 'christian', 'religion', 'christianfiction', 'christianity']",John Bunyan,970,1678,3.99,80370,The Pilgrim's Progress,,324,,The United Kingdom
+2008,2013,"['youngadult', 'vampires', 'paranormal', 'romance']",L.J. Smith,971,2008,4.2,54658,"Night World, No. 2",4,662,Night World,The United States
+2006,1948,"['humor', 'comedy']",Terry Pratchett,972,1996,4.22,61275,Hogfather,4,432,Discworld #20; Death,The United Kingdom
+2001,,"['horror', 'fiction', 'fantasy']",Stephen King,973,1999,3.81,73233,Hearts in Atlantis,,640,,The United States
+2002,,"['fiction', 'contemporary']",Richard Russo,974,2001,3.91,94851,Empire Falls,,483,,The United States
+2006,,"['humor', 'fiction', 'fantasy', 'comedy', 'paranormal', 'urbanfantasy', 'funny']",Christopher Moore,975,2006,4.08,87225,A Dirty Job,1,387,Grim Reaper,The United States
+1998,1926,"['fiction', 'classics', 'horror', 'thriller']",John Fowles,976,1963,3.99,39053,The Collector,,283,,The United Kingdom
+2005,1952,"['sciencefiction', 'fiction', 'humor', 'fantasy']",Douglas Adams,977,1982,4.2,154473,"Life, the Universe and Everything",3,224,Hitchhiker's Guide to the Galaxy,The United Kingdom
+2000,1942,"['fiction', 'sciencefiction', 'thriller', 'timetravel', 'historicalfiction', 'fantasy']",Michael Crichton,978,1999,3.83,162873,Timeline,,489,,The United States
+2005,1927,"['fiction', 'classics', 'germanliterature', 'literature', 'historicalfiction', 'germany', 'magicalrealism', 'novels', 'war', 'nobelprize']",Günter Grass,979,1959,3.96,32305,The Tin Drum,,567,,Poland
+2004,1840,"['classics', 'fiction', 'france', 'frenchliterature', 'literature', '19thcentury', 'historicalfiction', 'novels', 'historical', 'classicliterature']",Émile Zola,980,1885,4.1,22907,Germinal,13,592,Les Rougon-Macquart,France
+1991,1948,"['graphicnovels', 'comics', 'history', 'nonfiction', 'memoir']",Art Spiegelman,981,1985,4.35,201357,Maus I: A Survivor's Tale: My Father Bleeds History,1,159,Maus,Sweden
+2012,,"['romance', 'contemporary', 'contemporaryromance', 'youngadult']",Abbi Glines,982,2012,4.21,146316,Fallen Too Far,1,300,Rosemary Beach #1; Too Far,Alabama
+2005,1894,"['classics', 'fiction', 'sciencefiction', 'dystopia']",Aldous Huxley,983,1932,4.16,114642,Brave New World / Brave New World Revisited,,340,,The United Kingdom
+2002,1957,"['graphicnovels', 'batman', 'fiction', 'comicbook', 'graphicnovelscomics']",Frank Miller,984,1986,4.25,146296,Batman: The Dark Knight Returns,1,197,The Dark Knight Saga,The United States
+2011,,"['fantasy', 'mythology', 'youngadult', 'adventure']",Rick Riordan,985,2011,4.21,127937,The Throne of Fire,2,452,Kane Chronicles,The United States
+2004,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,986,2002,3.83,139037,Nights in Rodanthe,,222,,The United States
+2010,,"['fantasy', 'youngadult', 'paranormal', 'romance']",Amanda Hocking,987,2010,3.89,82209,Switched,1,304,Trylle,The United States
+2000,,"['horror', 'fiction', 'fantasy', 'mystery']",Mark Z. Danielewski,988,2000,4.13,93186,House of Leaves,,705,,The United States
+2005,1948,"['fantasy', 'fiction', 'humor']",Terry Pratchett,989,2004,4.36,84692,Going Postal,1,394,Discworld #33; Moist von Lipwig,The United Kingdom
+2002,,"['mystery', 'fiction', 'historicalfiction', 'historical']",Laurie R. King,990,1994,4.08,55969,The Beekeeper's Apprentice,1,341,Mary Russell,The United States
+2008,,"['fantasy', 'fiction', 'epicfantasy', 'magic']",Brent Weeks,991,2008,4.15,119488,The Way of Shadows,1,645,Night Angel,n The United States
+2002,1928,"['childrens', 'fiction', 'youngadult']",Louise Fitzhugh,992,1964,3.96,83996,Harriet the Spy,1,300,Harriet the Spy,The United States
+2007,,"['romance', 'fiction', 'chicklit', 'contemporary']",Nicholas Sparks,993,2007,3.99,132497,The Choice,,272,,The United States
+2010,,"['fiction', 'mystery', 'thriller', 'suspense', 'crime']",John Grisham,994,1993,3.98,334720,The Client,,483,,The United States
+2007,,"['mystery', 'youngadult', 'fiction', 'fantasy', 'childrens', 'adventure', 'middlegrade']",Trenton Lee Stewart,995,2007,4.14,98078,The Mysterious Benedict Society,1,485,The Mysterious Benedict Society,he United States
+2002,1809,"['poetry', 'classics', 'horror', 'fiction', 'gothic']",Edgar Allan Poe,996,1845,4.3,35526,The Raven and Other Poems,,73,,The United States
+2007,,"['fantasy', 'fiction', 'epicfantasy', 'highfantasy', 'magic', 'sciencefictionfantasy', 'adult', 'audiobook', 'epic', 'romance']",Brandon Sanderson,997,2007,4.35,183309,The Well of Ascension,2,590,Mistborn,The United States
+2012,,"['youngadult', 'fantasy', 'paranormal', 'romance']",Michelle Hodkin,998,2012,4.33,72905,The Evolution of Mara Dyer,2,545,Mara Dyer,The United States
+2006,,"['youngadult', 'mystery', 'contemporary']",Sara Shepard,999,2006,3.89,170148,Pretty Little Liars,1,286,Pretty Little Liars,
+1996,1905,"['fiction', 'classics', 'philosophy', 'literature']",Ayn Rand,1000,1943,3.85,261572,The Fountainhead,,720,,Russian Federation
+2015,,"['mystery', 'fiction', 'thriller', 'crime']",Paula Hawkins,1001,2015,3.89,1362452,The Girl on the Train,,323,,imbabwe
+2006,1916,"['horror', 'fiction', 'classics', 'gothic', 'mystery']",Shirley Jackson,1002,1962,4.04,58646,We Have Always Lived in the Castle,,146,,The United States
+2003,,"['classics', 'fiction', 'asianliterature', 'japan']",Murasaki Shikibu,1003,1008,3.71,8233,The Tale of Genji,,1182,,Japan
+2003,,"['shortstories', 'classics', 'literature', 'italianliterature', 'medieval']",Giovanni Boccaccio,1004,1353,3.86,27239,The Decameron,,909,,Italy
+2000,1883,"['fiction', 'classics', 'philosophy', 'literature', 'greece']",Nikos Kazantzakis,1005,1946,4.09,25256,Zorba the Greek,,335,,Greece
+2008,,"['fantasy', 'childrens', 'fiction', 'youngadult']",Kate DiCamillo,1006,2004,4.01,127369,The Tale of Despereaux,,272,,The United States
+2002,1907,"['historicalfiction', 'fiction', 'historical', 'classics']",James A. Michener,1007,1959,4.19,63066,Hawaii,,1136,,The United States
+1994,1929,"['sciencefiction', 'fiction', 'fantasy', 'dystopia']",Ursula K. Le Guin,1008,1974,4.18,56720,The Dispossessed,,387,,The United States
+2010,1992,"['angels', 'youngadult', 'fantasy', 'romance', 'paranormal']",Alexandra Adornetto,1009,2010,3.67,59758,Halo,1,485,Halo,Australia
+2002,1941,"['fiction', 'contemporary', 'literaryfiction', 'romance', 'novels', 'adultfiction', 'literature', 'american', 'classics', 'adult']",Anne Tyler,1010,1985,3.9,84221,The Accidental Tourist,,352,,The United States
+2012,,"['romance', 'erotica', 'fiction', 'bdsm', 'adult']",E.L. James,1011,2012,4.13,103857,Fifty Shades Trilogy,1,1859,Fifty Shades,The United Kingdom
+1998,1874,"['youngadult', 'childrens', 'romance']",L.M. Montgomery,1012,1908,4.43,93526,The Complete Anne of Green Gables Boxed Set,1,2088,Anne of Green Gables,Canada
+1994,1843,"['classics', 'horror', 'fiction', 'gothic', 'mystery', 'literature']",Henry James,1013,1898,3.45,69722,The Turn of the Screw,,131,,The United States
+2002,1966,"['historicalfiction', 'fiction', 'glbt', 'historical', 'mystery', 'romance']",Sarah Waters,1014,2002,4.02,57723,Fingersmith,,582,,The United Kingdom
+2014,,"['romance', 'newadult', 'contemporary', 'contemporaryromance', 'adult']",Mia Sheridan,1015,2014,4.44,63026,Archer's Voice,,345,,n The United States
+1997,1950,"['fiction', 'spirituality', 'selfhelp', 'newage']",James Redfield,1016,1993,3.6,79360,The Celestine Prophecy,1,247,Celestine Prophecy,The United States
+2007,,"['youngadult', 'romance', 'mystery', 'espionage']",Ally Carter,1017,2007,4.13,74799,Cross My Heart and Hope to Spy,2,236,Gallagher Girls,n The United States
+2007,1969,"['graphicnovels', 'nonfiction', 'comics', 'memoir', 'biography']",Marjane Satrapi,1018,2003,4.37,82208,The Complete Persepolis,,341,,Iran
+2012,,"['vampires', 'youngadult', 'paranormal', 'fantasy', 'dystopia']",Julie Kagawa,1019,2012,4.1,57760,The Immortal Rules,1,485,Blood of Eden,
+2005,1958,"['fantasy', 'youngadult', 'adventure', 'childrens', 'magic']",Cornelia Funke,1020,2005,3.91,92416,Inkspell,2,635,Inkworld,Germany
+2012,,"['youngadult', 'paranormal', 'angels', 'fantasy', 'romance', 'demons', 'paranormalromance', 'supernatural', 'urbanfantasy', 'didnotfinish']",Wendy Higgins,1021,2012,4.12,62353,Sweet Evil,1,447,Sweet,he United States
+2004,1904,"['fiction', 'classics', 'historicalfiction', 'war', 'literature']",Graham Greene,1022,1955,3.96,35575,The Quiet American,,180,,The United Kingdom
+2010,,"['youngadult', 'fantasy', 'paranormal', 'romance']",Kami Garcia,1023,2010,3.84,109637,Beautiful Darkness,2,503,Caster Chronicles,The United States
+1992,1928,"['sciencefiction', 'fiction', 'alternatehistory', 'dystopia', 'classics', 'historicalfiction']",Philip K. Dick,1024,1962,3.65,117444,The Man in the High Castle,,259,,The United States
+2009,,"['youngadult', 'fantasy', 'sciencefiction']",James Patterson,1025,2009,4.07,62589,Max,5,309,Maximum Ride,The United States
+2016,1984,"['dark', 'romance', 'didnotfinish', 'contemporaryromance']",M.  Robinson,1026,2016,4.21,7534,El Diablo,1,469,The Devil,The United States
+2006,1871,"['classics', 'fiction', 'historicalfiction', 'war', 'literature', 'civilwar']",Stephen Crane,1027,1895,3.21,76929,The Red Badge of Courage,,170,,The United States
+2002,,"['historicalfiction', 'fiction', 'britishliterature']",Geraldine Brooks,1028,2001,4.0,112041,Year of Wonders,,358,,Australia
+2012,,"['youngadult', 'dystopia', 'romance', 'fantasy', 'sciencefiction']",Veronica Rossi,1029,2011,4.0,96964,Under the Never Sky,1,374,Under the Never Sky,Brazil
+2006,1898,"['fiction', 'fantasy', 'classics', 'mythology', 'christian', 'religion', 'christianfiction']",C.S. Lewis,1030,1956,4.18,41160,Till We Have Faces,,313,,Ireland
+1995,1911,"['fantasy', 'novels', 'sciencefictionfantasy', 'literature', 'fiction']",Mervyn Peake,1031,1959,3.98,7363,The Gormenghast Novels,1,1173,Gormenghast,China
+2005,1949,"['fiction', 'classics', 'southern', 'comingofage', 'novels']",Dorothy Allison,1032,1992,4.09,33401,Bastard Out of Carolina,,320,,n The United States
+2009,1924,"['historicalfiction', 'fiction', 'historical', 'china', 'adventure']",James Clavell,1033,1966,4.25,37450,Tai-Pan,2,734,Asian Saga,Australia
+1987,1914,"['fiction', 'classics', 'latinamerican', 'literature']",Julio Cortázar,1034,1963,4.25,21833,Hopscotch,,564,,Belgium
+2003,,"['fantasy', 'romance', 'fiction', 'epicfantasy', 'erotica']",Jacqueline Carey,1035,2001,4.04,59079,Kushiel's Dart,1,1015,Phèdre's Trilogy,The United States
+2001,1816,"['classics', 'fiction', 'romance', '19thcentury', 'victorian']",Charlotte Brontë,1036,1853,3.75,49704,Villette,,573,,The United Kingdom
+2006,,"['horror', 'fiction', 'thriller']",Stephen King,1037,1981,3.66,175558,Cujo,,432,,The United States
+2001,1975,"['fiction', 'contemporary', 'novels', 'britishliterature']",Zadie Smith,1038,1999,3.75,94399,White Teeth,,448,,The United Kingdom
+1987,1931,"['picturebooks', 'childrens', 'fiction']",Judith Viorst,1039,1972,4.22,151132,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",,32,,The United States
+2000,1939,"['youngadult', 'fiction', 'adventure', 'classics', 'survival', 'childrens']",Gary Paulsen,1040,1986,3.68,242077,Hatchet,,208,,The United States
+1978,1882,"['classics', 'fiction', 'literature']",Virginia Woolf,1041,1931,4.14,19986,The Waves,,297,,The United Kingdom
+2013,,"['romance', 'newadult', 'contemporaryromance', 'contemporary']",S.C. Stephens,1042,2011,4.37,107581,Effortless,2,487,Thoughtless,he United States
+2003,1903,"['sciencefiction', 'fiction', 'classics', 'horror', 'postapocalyptic', 'dystopia']",John Wyndham,1043,1951,4.0,68708,The Day of the Triffids,,228,,The United Kingdom
+2002,1783,"['classics', 'france', 'literature', '19thcentury', 'novels']",Stendhal,1044,1830,3.87,44297,The Red and the Black,,608,,France
+1999,1929,"['fiction', 'childrens', 'classics', 'germanliterature', 'fantasy', 'youngadult']",Michael Ende,1045,1973,4.29,36341,Momo,,304,,Germany
+2000,1940,"['horror', 'fiction', 'thriller', 'mystery', 'crime']",Thomas Harris,1046,1981,4.02,213529,Red Dragon,1,348,Hannibal Lecter,The United States
+2007,,"['urbanfantasy', 'fantasy', 'paranormal', 'vampires', 'magic', 'romance']",Ilona Andrews,1047,2007,4.07,78401,Magic Bites,1,260,Kate Daniels,n Russian Federation
+2011,,"['paranormal', 'vampires', 'fantasy', 'youngadult', 'werewolves', 'supernatural']",C.C. Hunter,1048,2011,4.13,72237,Born at Midnight,1,398,Shadow Falls,n The United States
+2002,1877,"['fiction', 'classics', 'germanliterature', 'literature', 'philosophy', 'novels']",Hermann Hesse,1049,1943,4.12,24787,The Glass Bead Game,,558,,Germany
+2009,1926,"['fiction', 'classics', 'historicalfiction', 'romance']",John Fowles,1050,1969,3.86,39987,The French Lieutenant's Woman,,470,,The United Kingdom
+2001,1908,"['classics', 'fiction', 'youngadult', 'childrens', 'animals']",Fred Gipson,1051,1956,4.07,73871,Old Yeller,,132,,The United States
+2009,,"['youngadult', 'contemporary', 'fiction', 'romance', 'realisticfiction']",Lucy Christopher,1052,2009,3.93,58911,Stolen: A Letter to My Captor,,304,,The United Kingdom
+2013,,"['romance', 'newadult', 'contemporary', 'youngadult']",Colleen Hoover,1053,2013,4.38,79294,Losing Hope,2,321,Hopeless,
+2008,1963,"['nonfiction', 'psychology', 'economics', 'business', 'selfhelp', 'personaldevelopment', 'education', 'socialscience', 'leadership', 'adult']",Malcolm Gladwell,1054,2008,4.11,383646,Outliers: The Story of Success,,309,,The United Kingdom
+2008,,"['fantasy', 'youngadult', 'paranormal', 'urbanfantasy', 'fairies', 'romance']",Melissa Marr,1055,2008,3.68,51780,Ink Exchange,2,325,Wicked Lovely,n The United States
+1992,,"['fiction', 'horror', 'thriller', 'fantasy']",Stephen King,1056,1991,3.88,165859,Needful Things,,790,,The United States
+2006,1937,"['fiction', 'classics', 'literature', 'american', 'novels']",Thomas Pynchon,1057,1966,3.7,56517,The Crying of Lot 49,,152,,The United States
+2007,,"['youngadult', 'dystopia', 'sciencefiction']",Scott Westerfeld,1058,2006,3.59,92596,Extras,4,417,Uglies,The United States
+2011,1969,"['fantasy', 'youngadult', 'romance', 'mythology', 'paranormal']",Colleen Houck,1059,2011,4.34,27643,Tiger's Voyage,3,560,The Tiger Saga,The United States
+2007,1955,"['youngadult', 'poetry', 'fiction']",Ellen Hopkins,1060,2007,4.29,63434,Impulse,1,666,Impulse,The United States
+2003,1903,"['classics', 'fiction', 'dystopia', 'literature', 'sciencefiction', 'politics', 'fantasy', 'novels', 'philosophy', 'school']",George Orwell,1061,1950,4.26,126844,Animal Farm / 1984,,400,,India
+1996,1820,"['fiction', 'classics', 'romance', '19thcentury', 'victorian']",Anne Brontë,1062,1848,3.91,69345,The Tenant of Wildfell Hall,,542,,The United Kingdom
+2002,1948,"['fantasy', 'fiction', 'epicfantasy', 'sciencefictionfantasy']",Robert Jordan,1063,1991,4.23,169513,The Dragon Reborn,3,624,Wheel of Time,The United States
+2003,1865,"['classics', 'fiction', 'childrens', 'shortstories']",Rudyard Kipling,1064,1902,4.09,39749,Just So Stories,,210,,India
+1998,,"['fiction', 'historicalfiction', 'mystery', 'canada', 'historical']",Margaret Atwood,1065,1996,3.99,68402,Alias Grace,,636,,Canada
+2009,4242,"['youngadult', 'fiction', 'contemporary', 'realisticfiction', 'mentalillness']",Laurie Halse Anderson,1066,2009,3.99,94687,Wintergirls,,278,,The United States
+2007,1958,"['fiction', 'youngadult', 'adventure', 'childrens']",Cornelia Funke,1067,2007,3.94,61038,Inkdeath,3,699,Inkworld,Germany
+2006,1846,"['historicalfiction', 'classics', 'polishliterature', 'historical']",Henryk Sienkiewicz,1068,1895,4.13,21173,Quo Vadis,,579,,Poland
+2011,,"['youngadult', 'historicalfiction', 'historical', 'war', 'worldwarii']",Ruta Sepetys,1069,2011,4.36,107891,Between Shades of Gray,,344,,MI
+2006,1960,"['nonfiction', 'memoir', 'biography']",Jeannette Walls,1070,2005,4.24,679760,The Glass Castle,,288,,The United States
+1998,1954,"['fiction', 'horror', 'thriller', 'contemporary']",Iain Banks,1071,1984,3.85,54735,The Wasp Factory,,192,,Scotland
+2006,,"['fiction', 'mystery', 'thriller', 'suspense', 'crime', 'legalthriller']",John Grisham,1072,1992,3.96,304500,The Pelican Brief,,400,,The United States
+2006,1828,"['classics', 'sciencefiction', 'fiction', 'adventure', 'fantasy']",Jules Verne,1073,1864,3.84,115551,Journey to the Center of the Earth,3,240,Extraordinary Voyages,Kingdom of France
+2007,2013,"['vampires', 'youngadult', 'fantasy', 'paranormal', 'romance']",L.J. Smith,1074,2007,3.74,54812,The Fury / Dark Reunion,3,520,The Vampire Diaries,The United States
+2010,,"['youngadult', 'fantasy', 'fiction', 'magic', 'mythology']",Michael Scott,1075,2007,3.84,118751,The Alchemyst,1,390,The Secrets of the Immortal Nicholas Flamel,Ireland
+2006,-121,"['philosophy', 'classics', 'nonfiction', 'history', 'selfhelp', 'spirituality', 'literature', 'psychology', 'ancient', 'leadership']",Marcus Aurelius,1076,2006,4.21,59682,Meditations,,304,,Italy
+2008,,"['urbanfantasy', 'fantasy', 'paranormal', 'werewolves', 'vampires', 'romance', 'paranormalromance']",Patricia Briggs,1077,2008,4.36,90938,Iron Kissed,3,287,Mercy Thompson,The United States
+1994,1891,"['fiction', 'classics', 'unfinished', 'literaryfiction']",Henry Miller,1078,1934,3.71,51459,Tropic of Cancer,,318,,The United States
+2008,,"['youngadult', 'fantasy', 'paranormal', 'romance']",Carrie Jones,1079,2008,3.71,57098,Need,1,306,Need,NH
+1983,1874,"['classics', 'fiction', 'youngadult', 'historicalfiction', 'childrens']",L.M. Montgomery,1080,1915,4.21,104523,Anne of the Island,3,272,Anne of Green Gables,Canada
+2010,1931,"['fiction', 'historicalfiction', 'classics', 'literature', 'novels']",E.L. Doctorow,1081,1974,3.88,31558,Ragtime,,320,,The United States
+1995,,"['mystery', 'romance', 'crime', 'romanticsuspense', 'fiction']",J.D. Robb,1082,1995,4.13,133084,Naked in Death,1,306,In Death,The United States
+2006,,"['mystery', 'fiction', 'thriller', 'crime', 'mysterythriller']",Gillian Flynn,1083,2006,3.93,377539,Sharp Objects,,254,,The United States
+2007,,"['fiction', 'fantasy', 'magicalrealism', 'romance', 'chicklit', 'magic']",Sarah Addison Allen,1084,2007,4.07,73301,Garden Spells,1,304,Waverley Family,The United States
+1980,,"['thriller', 'horror', 'fantasy']",Stephen King,1085,1979,3.9,143247,The Dead Zone,,402,,The United States
+2007,,"['vampires', 'youngadult', 'paranormal', 'fantasy', 'urbanfantasy']",Rachel Caine,1086,2007,4.06,50371,The Dead Girls' Dance,2,248,The Morganville Vampires,n The United States
+2006,,"['youngadult', 'romance', 'mystery', 'fiction', 'realisticfiction']",Melina Marchetta,1087,2006,4.14,41922,On the Jellicoe Road,,290,,Australia
+2006,1943,"['fiction', 'historicalfiction', 'religion', 'literature']",Marilynne Robinson,1088,2004,3.84,60918,Gilead,1,282,Gilead,The United States
+2003,1920,"['nonfiction', 'history', 'memoir', 'classics', 'biography', 'race']",John Howard Griffin,1089,1960,4.12,51109,Black Like Me,,208,,The United States
+2009,,"['vampires', 'youngadult', 'paranormal', 'fantasy', 'romance']",Richelle Mead,1090,2009,4.61,31284,Vampire Academy Collection,1,1120,Vampire Academy,
+2012,,"['historicalfiction', 'fiction', 'mystery']",Ki Longfellow,1091,1989,4.07,1166,China Blues,,456,,The United States
+2007,1974,"['fantasy', 'fiction', 'epicfantasy', 'highfantasy']",Joe Abercrombie,1092,2006,4.14,113966,The Blade Itself,1,517,The First Law,The United Kingdom
+2006,1948,"['nonfiction', 'spirituality', 'selfhelp', 'philosophy', 'psychology']",Eckhart Tolle,1093,2005,4.03,118707,A New Earth: Awakening to Your Life's Purpose,,316,,Germany
+2009,,"['youngadult', 'mystery', 'romance', 'espionage']",Ally Carter,1094,2009,4.2,59639,Don't Judge a Girl by Her Cover,3,263,Gallagher Girls,n The United States
+2014,,"['fantasy', 'youngadult', 'romance']",Sarah J. Maas,1095,2014,4.47,70936,The Assassin's Blade,0,448,Throne of Glass,The United States
+2008,1902,"['classics', 'fiction', 'literature', 'american']",John Steinbeck,1096,1961,3.99,31901,The Winter of Our Discontent,,336,,The United States
+2002,1911,"['classics', 'nonfiction', 'biography', 'humor', 'memoir']",Frank B. Gilbreth Jr.,1097,1948,4.0,30446,Cheaper by the Dozen,,224,,The United States
+2006,1955,"['youngadult', 'poetry', 'fiction', 'contemporary']",Ellen Hopkins,1098,2006,4.24,51446,Burned,1,431,Burned,The United States
+2011,,"['historicalfiction', 'mystery', 'fiction', 'thriller', 'historical', 'germany']",Juan Gomez-Jurado,1099,2010,3.79,1631,The Traitor's Emblem,,317,,Spain
+1999,1918,"['fiction', 'classics', 'historicalfiction', 'scotland', 'novels']",Muriel Spark,1100,1961,3.76,32625,The Prime of Miss Jean Brodie,,150,,Scotland
+1987,1952,"['fantasy', 'youngadult', 'fiction', 'romance', 'adventure']",Robin McKinley,1101,1982,4.24,47935,The Blue Sword,1,256,Damar,The United States
+2006,1981,"['romance', 'contemporary', 'chicklit', 'adult']",Cecelia Ahern,1102,2004,3.95,81619,"Love, Rosie",,512,,Ireland
+2010,,"['historicalfiction', 'romance', 'fiction', 'fantasy', 'timetravel', 'historical']",Diana Gabaldon,1103,2009,4.42,89687,An Echo in the Bone,7,1149,Outlander,The United States
+1998,,"['youngadult', 'romance', 'angels', 'paranormal', 'fantasy']",Elizabeth Chandler,1104,1995,4.08,24360,Kissed by an Angel/The Power of Love/Soulmates,1,690,Kissed by an Angel,
+2012,,"['romance', 'contemporaryromance', 'contemporary', 'erotica', 'adult', 'newadult']",Sylvain Reynard,1105,2012,4.22,98586,Gabriel's Rapture,2,386,Gabriel's Inferno,
+2007,1966,"['contemporary', 'humor', 'teen', 'youngadult', 'school']",Sherman Alexie,1106,2007,4.12,181242,The Absolutely True Diary of a Part-Time Indian,,230,,The United States
+2015,,"['historicalfiction', 'fiction', 'historical', 'worldwarii', 'war']",Kristin Hannah,1107,2015,4.54,365273,The Nightingale,,440,,The United States
+2003,1927,"['fiction', 'classics', 'magicalrealism', 'literature', 'school']",Gabriel García Márquez,1108,1981,3.95,86093,Chronicle of a Death Foretold,,120,,Colombia
+1995,1933,"['fiction', 'historicalfiction', 'classics', 'war', 'horror', 'holocaust', 'literature']",Jerzy Kosiński,1109,1965,3.94,16601,The Painted Bird,,234,,Poland
+2012,,"['youngadult', 'romance', 'contemporary', 'newadult']",Katie McGarry,1110,2012,4.08,103620,Pushing the Limits,1,392,Pushing the Limits,
+2003,1713,"['classics', 'fiction', 'literature', '18thcentury']",Laurence Sterne,1111,1767,3.74,16479,"The Life and Opinions of Tristram Shandy, Gentleman",,784,,Ireland
+2013,,"['newadult', 'romance', 'contemporary', 'college', 'contemporaryromance', 'youngadult']",J. Lynn,1112,2013,4.19,118200,Wait for You,1,332,Wait for You,he United States
+2015,,"['picturebooks', 'childrens']",Laura Joffe Numeroff,1113,1985,4.24,209081,If You Give a Mouse a Cookie,,40,,The United States
+2005,1903,"['historicalfiction', 'fiction', 'classics', 'france', 'historical', 'frenchliterature']",Marguerite Yourcenar,1114,1951,4.25,12537,Memoirs of Hadrian,,347,,Belgium
+2012,,"['youngadult', 'paranormal', 'fantasy', 'romance']",Lauren Kate,1115,2012,4.03,87925,Rapture,4,466,Fallen,n The United States
+1997,,"['fantasy', 'horror', 'fiction', 'darkfantasy']",Clive Barker,1116,1991,4.16,17988,Imajica,,823,,The United Kingdom
+1983,1821,"['poetry', 'frenchliterature', 'france', '19thcentury', 'literature', 'classics', 'gothic', 'readforschool', 'unfinished', 'art']",Charles Baudelaire,1117,1857,4.26,36642,Les Fleurs du Mal,,365,,France
+2009,,"['mystery', 'psychology', 'fiction', 'suspense', 'thriller']",Heath Sommer,1118,2009,3.52,398,The Manufactured Identity,1,305,Manufactured Identity,The United States
+2001,1931,"['fiction', 'thriller', 'mystery', 'espionage', 'classics']",John le Carré,1119,1963,4.06,49619,The Spy Who Came In from the Cold,,224,,The United Kingdom
+2016,,"['youngadult', 'romance', 'magic', 'newadult']",Sarah J. Maas,1120,2016,4.58,88458,Empire of Storms,5,693,Throne of Glass,The United States
+1997,1947,"['fiction', 'magicalrealism', 'classics', 'literature', 'india', 'fantasy', 'religion']",Salman Rushdie,1121,1988,3.71,44374,The Satanic Verses,,561,,India
+2006,,"['youngadult', 'dystopia', 'sciencefiction', 'fiction']",Susan Beth Pfeffer,1122,2006,3.89,101063,Life As We Knew It,1,337,Last Survivors,The United States
+1992,1925,"['fiction', 'classics', 'literature', 'southerngothic', 'shortstories', 'southern']",Flannery O'Connor,1123,1953,4.24,31668,A Good Man is Hard to Find and Other Stories,,252,,The United States
+1998,,"['christian', 'fiction', 'romance', 'historical']",Francine Rivers,1124,1993,4.59,59563,A Voice in the Wind,1,520,Mark of the Lion,n The United States
+2008,1974,"['fiction', 'india', 'contemporary', 'indianliterature']",Aravind Adiga,1125,2008,3.72,129334,The White Tiger,,320,,India
+1995,1933,"['historicalfiction', 'fiction', 'historical', 'egypt', 'adventure', 'fantasy']",Wilbur Smith,1126,1993,4.2,28280,River God,1,664,Ancient Egypt,Zambia
+2004,,"['chicklit', 'romance', 'fiction', 'contemporary']",Emily Giffin,1127,2004,3.83,445019,Something Borrowed,1,322,Darcy &amp; Rachel,The United States
+2005,1952,"['fiction', 'india', 'historicalfiction', 'indianliterature']",Vikram Seth,1128,1993,4.1,36440,A Suitable Boy,1,1474,A Suitable Boy,India
+2011,,"['historicalfiction', 'mythology', 'fantasy', 'glbt', 'fiction', 'romance', 'historical']",Madeline Miller,1129,2011,4.28,64617,The Song of Achilles,,352,,The United States
+2003,1840,"['classics', 'fiction', 'literature', '19thcentury']",Thomas Hardy,1130,1886,3.8,45862,The Mayor of Casterbridge,,445,,The United Kingdom
+2007,1980,"['nonfiction', 'memoir', 'africa', 'biography', 'war']",Ishmael Beah,1131,2007,4.14,129515,A Long Way Gone: Memoirs of a Boy Soldier,,229,,n Sierra Leone
+2015,1984,"['romance', 'newadult', 'contemporaryromance']",M.  Robinson,1132,2015,4.2,6856,Complicate Me,1,397,The Good Ol' Boys,The United States
+1996,1805,"['classics', 'childrens', 'fiction', 'fairytales']",Hans Christian Andersen,1133,1835,4.29,96001,The Complete Fairy Tales,,803,,Denmark
+2006,1970,"['memoir', 'nonfiction', 'war', 'history']",Dave Eggers,1134,2006,4.16,66141,What Is the What,,475,,The United States
+2012,,"['fiction', 'contemporary', 'romance', 'adult']",Matthew Quick,1135,2008,4.0,132304,The Silver Linings Playbook,,289,,The United States
+1978,1844,"['classics', 'nonfiction', 'germanliterature']",Friedrich Nietzsche,1136,1883,4.05,82126,Thus Spoke Zarathustra,,327,,Germany
+2010,,"['youngadult', 'contemporary', 'romance', 'fiction']",Jandy Nelson,1137,2010,4.03,74496,The Sky Is Everywhere,,288,,
+1994,1859,"['humor', 'classics', 'britishliterature', 'travel', 'comedy']",Jerome K. Jerome,1138,1889,3.9,41016,Three Men in a Boat,1,184,Three Men,The United Kingdom
+2002,1958,"['fantasy', 'youngadult', 'adventure', 'middlegrade', 'fiction', 'childrens', 'mystery']",Cornelia Funke,1139,2000,3.95,69937,The Thief Lord,,350,,Germany
+2014,,"['history', 'nonfiction', 'politics']",Omar Farhad,1140,2014,4.26,146,Honor and Polygamy,,132,,Afghanistan
+2002,1963,"['nonfiction', 'business', 'psychology', 'sociology', 'science', 'economics']",Malcolm Gladwell,1141,2000,3.93,529345,The Tipping Point: How Little Things Can Make a Big Difference,,301,,The United Kingdom
+2002,1882,"['classics', 'nonfiction', 'feminism', 'essays']",Virginia Woolf,1142,1929,4.11,76643,A Room of One's Own,,112,,The United Kingdom
+2005,,"['historicalfiction', 'fiction', 'historical', 'literature']",Sena Jeter Naslund,1143,1999,4.03,38368,"Ahab's Wife, or The Star-Gazer",,704,,The United States
+2013,,"['romance', 'contemporary', 'contemporaryromance', 'sports', 'fighters']",Katy Evans,1144,2013,4.21,90369,Real,1,293,Real,
+1985,1917,"['fiction', 'thriller', 'mystery', 'suspense', 'romance', 'crime', 'mysterythriller', 'contemporary', 'novels', 'drama']",Sidney Sheldon,1145,1985,4.02,49928,If Tomorrow Comes,1,501,Tracy Whitney Series,The United States
+2000,1871,"['classics', 'literature', 'american']",Theodore Dreiser,1146,1925,3.94,27689,An American Tragedy,,859,,The United States
+2012,,"['fantasy', 'mythology', 'youngadult']",Rick Riordan,1147,2012,4.29,93623,The Serpent's Shadow,3,406,Kane Chronicles,The United States
+2004,1916,"['nonfiction', 'animals', 'memoir', 'biography', 'classics']",James Herriot,1148,1973,4.3,60518,All Things Bright and Beautiful,,378,All Creatures Great and,The United Kingdom
+2002,1888,"['poetry', 'fiction', 'classics', 'philosophy', 'literature', 'portugal', 'portugueseliterature']",Fernando Pessoa,1149,1982,4.5,14075,The Book of Disquiet,,544,,Portugal
+2009,,"['mystery', 'fiction', 'thriller', 'crime', 'mysterythriller']",Gillian Flynn,1150,2009,3.92,409045,Dark Places,,349,,The United States
+1998,,"['fiction', 'contemporary', 'adultfiction']",Chris Bohjalian,1151,1997,3.97,137936,Midwives,,374,,The United States
+1999,1944,"['fantasy', 'fiction', 'epicfantasy']",Terry Brooks,1152,1977,3.76,69726,The Sword of Shannara,1,726,The Original Shannara Trilogy,The United States
+2011,,"['fiction', 'mystery', 'thriller', 'suspense']",S.J. Watson,1153,2011,3.87,222915,Before I Go to Sleep,,359,,he United Kingdom
+2003,,"['fantasy', 'sciencefiction', 'fiction', 'steampunk', 'urbanfantasy']",China Miéville,1154,2000,3.97,48028,Perdido Street Station,1,623,Bas-Lag,The United Kingdom
+2001,1936,"['fiction', 'humor', 'literature', 'novels', 'contemporary']",Tom Robbins,1155,1976,3.75,44833,Even Cowgirls Get the Blues,,366,,The United States
+2010,,"['faith', 'christianity', 'memoir', 'nonfiction']",Todd Burpo,1156,2010,4.01,244927,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,,162,,he United States
+2004,,"['youngadult', 'sciencefiction', 'dystopia', 'fiction']",Nancy Farmer,1157,2002,4.1,66889,The House of the Scorpion,1,380,Matteo Alacran,The United States
+2001,,"['youngadult', 'romance', 'chicklit', 'fiction', 'contemporary']",Meg Cabot,1158,2000,3.76,206502,The Princess Diaries,1,283,The Princess Diaries,The United States
+2008,1983,"['fantasy', 'youngadult', 'fiction', 'dragons', 'magic']",Christopher Paolini,1159,2008,4.2,28422,"Eragon, Eldest &amp; Brisingr",1,1952,Inheritance,The United States
+2010,,"['urbanfantasy', 'fantasy', 'paranormal', 'romance', 'magic', 'vampires', 'paranormalromance']",Ilona Andrews,1160,2010,4.46,56663,Magic Bleeds,4,349,Kate Daniels,n Russian Federation
+2005,1948,"['fiction', 'humor', 'comedy']",Terry Pratchett,1161,1991,4.28,65206,Reaper Man,2,352,Discworld #11; Death,The United Kingdom
+2000,,"['sciencefiction', 'fiction', 'cyberpunk', 'steampunk']",Neal Stephenson,1162,1995,4.19,68683,"The Diamond Age: Or, A Young Lady's Illustrated Primer",,499,,The United States
+2015,,"['fantasy', 'youngadult', 'dystopia', 'fiction']",Victoria Aveyard,1163,2015,4.08,329033,Red Queen,1,383,Red Queen,n The United States
+2013,2007,"['romance', 'adultfiction']",Sylvia Day,1164,2013,4.19,160645,Entwined with You,3,356,Crossfire,The United States
+1958,1904,"['childrens', 'picturebooks', 'fiction']",Dr. Seuss,1165,1958,4.14,28037,Yertle the Turtle and Other Stories,,96,,The United States
+2008,1970,"['historicalfiction', 'fiction', 'war', 'russia', 'historical', 'worldwarii']",David Benioff,1166,2008,4.28,82098,City of Thieves,,258,,The United States
+2004,1904,"['classics', 'romance', 'audiobook', 'literature']",Graham Greene,1167,1951,3.96,36198,The End of the Affair,,160,,The United Kingdom
+2010,,"['youngadult', 'mystery', 'romance', 'espionage']",Ally Carter,1168,2010,4.28,55179,Only the Good Spy Young,4,265,Gallagher Girls,n The United States
+2011,,"['fantasy', 'youngadult', 'romance', 'paranormal', 'fairies']",Julie Kagawa,1169,2011,4.23,68648,The Iron Knight,4,400,The Iron Fey,
+2005,1940,"['horror', 'fiction', 'thriller', 'classics', 'adventure', 'suspense']",Peter Benchley,1170,1974,3.96,110698,Jaws,,320,,The United States
+1989,1914,"['history', 'nonfiction', 'classics', 'japan', 'war', 'worldwarii']",John Hersey,1171,1946,3.94,45791,Hiroshima,,152,,China
+2007,,"['fiction', 'sciencefiction', 'horror', 'contemporary']",Chuck Palahniuk,1172,2007,3.82,53977,Rant,,320,,The United States
+1987,1907,"['historicalfiction', 'fiction', 'historical', 'westerns', 'classics']",James A. Michener,1173,1974,4.22,33601,Centennial,,1056,,The United States
+1964,1899,"['fiction', 'shortstories', 'classics', 'literature', 'fantasy', 'magicalrealism', 'philosophy']",Jorge Luis Borges,1174,1962,4.46,23894,Labyrinths:  Selected Stories and Other Writings,,256,,Argentina
+2009,1964,"['fiction', 'mystery', 'historicalfiction', 'fantasy', 'spain', 'booksaboutbooks', 'gothic', 'magicalrealism', 'spanishliterature', 'historical']",Carlos Ruiz Zafón,1175,2008,3.87,79008,The Angel's Game,2,531,The Cemetery of Forgotten Books,Spain
+2010,1933,"['fiction', 'fantasy', 'classics', 'school', 'literature', 'mythology']",John Gardner,1176,1970,3.69,27704,Grendel,,174,,The United States
+2006,,"['nonfiction', 'science', 'evolution', 'philosophy', 'psychology']",Richard Dawkins,1177,1976,4.12,104165,The Selfish Gene,,360,,Kenya
+1974,1923,"['fiction', 'fantasy', 'classics', 'shortstories', 'literature', 'magicalrealism', 'italianliterature']",Italo Calvino,1178,1972,4.19,41602,Invisible Cities,,165,,Cuba
+2012,2010,"['contemporary', 'contemporaryromance', 'funny', 'newadult', 'chicklit', 'adult', 'humor']",Alice Clayton,1179,2012,4.09,148731,Wallbanger,1,384,Cocktail,n The United States
+1982,,"['picturebooks', 'childrens', 'fiction']",Judi Barrett,1180,1978,4.15,107526,Cloudy With a Chance of Meatballs,,32,,
+2011,,"['newadult', 'contemporary', 'romance']",Tarryn Fisher,1181,2011,4.22,42932,The Opportunist,1,278,Love Me with Lies,South Africa
+2010,,"['realisticfiction', 'youngadult', 'fiction', 'middlegrade', 'childrens', 'contemporary']",Sharon M. Draper,1182,2010,4.37,74894,Out of My Mind,,295,,n The United States
+2006,,"['fantasy', 'childrens', 'fiction', 'middlegrade']",Kate DiCamillo,1183,2000,4.34,59936,The Miraculous Journey of Edward Tulane,,200,,The United States
+2009,,"['youngadult', 'romance', 'contemporary', 'chicklit']",Jenny Han,1184,2009,3.96,115088,The Summer I Turned Pretty,1,276,Summer,he United States
+2007,,"['urbanfantasy', 'fantasy', 'paranormal', 'vampires', 'werewolves', 'romance', 'paranormalromance']",Patricia Briggs,1185,2007,4.31,93522,Blood Bound,2,292,Mercy Thompson,The United States
+1995,1821,"['russianliterature', 'literature', 'russia', 'fiction', 'philosophy', 'classics', '19thcentury']",Fyodor Dostoyevsky,1186,1872,4.26,27316,Demons,,768,,Russian Federation
+2010,,"['youngadult', 'fantasy', 'sciencefiction']",James Patterson,1187,2010,4.07,52229,Fang,6,309,Maximum Ride,The United States
+2008,,"['youngadult', 'fantasy', 'sciencefiction']",James Patterson,1188,2008,3.86,60836,The Final Warning,4,256,Maximum Ride,The United States
+1995,,"['writing', 'nonfiction', 'memoir']",Anne Lamott,1189,1994,4.23,59762,Bird by Bird: Some Instructions on Writing and Life,,237,,The United States
+2010,,"['urbanfantasy', 'fantasy', 'paranormal', 'vampires', 'werewolves', 'romance', 'paranormalromance']",Patricia Briggs,1190,2009,4.34,81703,Bone Crossed,4,300,Mercy Thompson,The United States
+2012,,"['romance', 'youngadult', 'contemporary', 'newadult', 'abuse', 'highschool']",Kirsty Moseley,1191,2011,3.95,56529,The Boy Who Sneaks in My Bedroom Window,,242,,The United Kingdom
+1994,1948,"['memoir', 'biography']",Susanna Kaysen,1192,1993,3.9,155211,"Girl, Interrupted",,169,,The United States
+2011,,"['youngadult', 'paranormal', 'fantasy', 'romance']",Amy Plum,1193,2011,3.99,49269,Die for Me,1,341,Revenants,The United States
+1996,1952,"['fiction', 'baseball', 'historicalfiction', 'sports', 'novels', 'abandoned']",David James Duncan,1194,1992,4.39,11873,The Brothers K,,645,,The United States
+2007,,"['urbanfantasy', 'paranormal', 'fantasy', 'romance', 'paranormalromance', 'vampires', 'demons']",Richelle Mead,1195,2007,3.94,47983,Succubus Blues,1,343,Georgina Kincaid,
+1999,-750,"['classics', 'poetry', 'fiction', 'mythology', 'literature', 'fantasy', 'school', 'historicalfiction', 'epic', 'war']",Homer,1196,1999,3.83,286071,The Iliad,,683,,n Greece
+2007,,"['vampires', 'youngadult', 'fantasy', 'paranormal']",Melissa de la Cruz,1197,2007,3.91,80610,Masquerade,2,307,Blue Bloods,
+2011,,"['youngadult', 'romance', 'contemporary', 'chicklit']",Stephanie Perkins,1198,2011,4.0,127820,Lola and the Boy Next Door,2,384,Anna and the French Kiss,
+2006,1950,"['youngadult', 'fiction', 'dystopia']",John Marsden,1199,1993,4.05,42008,"Tomorrow, When the War Began",1,276,Tomorrow,n Australia
+2012,,['nonfiction'],Yuehai Xiao,1200,2012,4.46,104,Crossing the Seas: A Diary of My Thoughts,,328,,
