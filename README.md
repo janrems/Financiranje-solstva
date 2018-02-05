@@ -1,1 +1,2 @@
-# Seznam najbolje prodajanih knjig
+# Seznam najbolje ocenjenih knjig
+V nalogi bom pridobil podatke s spletnega portala 'goodreads'. Natančneje s seznama 'Najboljših knjig vseh časov'. Program za pridobivanje podatkov se nahaja v datoteki 'uvoz.py'. Csv datoteki s urejenimi podatki sta 'knjiga.csv' in 'zvrsti.csv'. Analiza podatkov se nahaja v datoteki 'projekt.ipynb'. V analizi sem raziskoval potencialne korelacije med kategorijami kot so: leto izida, jezik izida, višina ocene, število ocen, zvrst in tako naprej. 
